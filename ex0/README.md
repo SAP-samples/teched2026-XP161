@@ -26,15 +26,23 @@ APEX Holdings structure:
 
 ## Accessing the Session
 
-> [!NOTE]
-> Your facilitator has provided credentials at your seat.
+1. **Open the following link** in a browser. It contains a special parameter that provides access to the APEX Holdings SAP BTP account with mock data:
 
-1. Open the URL provided by your facilitator. It activates the APEX Holdings demo account (`teched-finops-2026=true`).
-2. Log in:
-   - **User:** `XP161-XXX@education.cloud.sap` (XXX = your seat number)
-   - **Password:** as provided at your seat
-3. In the BTP Cockpit left pane, scroll to the bottom and click **Costs and Usage**.
-4. You will land on the **Overview** tab. You are ready to begin.
+   <https://emea.cockpit.btp.cloud.sap/cockpit/?idp=ainfvn15r.accounts.ondemand.com&teched-finops-2026=true#>
+
+2. Enter the user name `XP161-XXX@education.cloud.sap`, where `XXX` is the number of your workshop place.  
+   For example: `XP161-042@education.cloud.sap`
+
+3. Enter the password for your user as provided to you at the beginning of the workshop.
+
+This will open the **BTP Cockpit** with the APEX Holdings mock data.
+
+4. In the BTP Cockpit left pane, scroll to the bottom and click **Costs and Usage**.
+
+5. You will land on the **Overview** tab. You are ready to begin.
+
+> [!NOTE]
+> The data used in this exercise is **mock data created specifically for TechEd**. All costs and names shown are for demonstration purposes only.
 
 ---
 
