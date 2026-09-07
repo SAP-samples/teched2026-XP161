@@ -10,11 +10,11 @@ In Part 2 you will use the new Billing Preview to see the same data with a more 
 
 ## Accessing the TechEd Preview
 
-> [!NOTE]
-> **Your facilitator will provide the URL for Part 2** (`teched-finops-2026-preview=true`). It activates both the Apex Holdings demo account and the **"TechEd Preview"** tab.
+1. **Open the following link** in a browser. It activates both the Apex Holdings mock data and the **"TechEd Preview"** tab:
 
-1. Open the URL provided by your facilitator for Part 2.
-2. Log in with the same credentials used in Part 1.
+   <https://emea.cockpit.btp.cloud.sap/cockpit/?idp=ainfvn15r.accounts.ondemand.com&teched-finops-2026-preview=true#>
+
+2. Log in with the same user and password you used in Part 1.
 3. Navigate to **Costs and Usage**.
 4. Click the **"TechEd Preview"** tab — it appears alongside the standard tabs (Billing, Usage, Budgets, Overview).
 

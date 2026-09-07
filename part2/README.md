@@ -30,7 +30,11 @@ The same APEX Holdings data, through a more capable lens.
 | No cost splitting for shared resources | **Fixed percentage distribution across cost labels** |
 
 > [!IMPORTANT]
-> **Before starting Part 2**, use the URL provided by your facilitator. It activates both the Apex Holdings demo account and the **"TechEd Preview"** tab (`teched-finops-2026-preview=true`).
+> **Before starting Part 2**, open the following link. It activates both the Apex Holdings demo account and the **"TechEd Preview"** tab:
+>
+> <https://emea.cockpit.btp.cloud.sap/cockpit/?idp=ainfvn15r.accounts.ondemand.com&teched-finops-2026-preview=true#>
+>
+> Log in with the same user and password you used in Part 1.
 
 ## Exercises
 
