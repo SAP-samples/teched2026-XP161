@@ -59,7 +59,7 @@ Dana now has everything she needs:
 
 ---
 
-[← Exercise 5 — Prepaid Quota](../ex5-quota-utilization/) | [← Back to Session Overview](../../README.md)
+[← Exercise 5 — Prepaid Quota](../ex5-quota-utilization/) | [← Back to Session Overview](../../../README.md)
 
 ---
 

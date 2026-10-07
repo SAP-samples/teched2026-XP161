@@ -1,14 +1,14 @@
 # Exercise 3 - Monitoring Costs — Optional for newcomers (approx. 5-7 minutes)
 
 > [!TIP]
-> **This exercise is optional.** Complete it if you are new to cost monitoring in SAP BTP. Otherwise, proceed directly to [Exercise 4 - Cross Charge / Cost Allocation](../ex4/).
+> **This exercise is optional.** Complete it if you are new to cost monitoring in SAP BTP. Otherwise, proceed directly to [Exercise 4 - Cross Charge / Cost Allocation](../ex4-cross-charge/).
 
 ## Exercise 3.1 - Introduction
 
 In this section you will monitor costs and resource consumption by comparing services and subaccounts, analyzing trends, and drilling into detailed data. The objective is to identify the reasons behind the cost increase in the previous month — identified in Exercise 2 as the highest-cost month over the past 12 months.
 
 > [!NOTE]
-> You can expand ![expand icon](images/expand.jpg) the table at any time to increase the visible area and view more data.
+> You can expand ![expand icon](../../../exercises/part1/ex3-monitoring-costs/images/expand.jpg) the table at any time to increase the visible area and view more data.
 
 ## Exercise 3.2 - Investigate the Cost Increase
 
@@ -64,7 +64,7 @@ In this section you will monitor costs and resource consumption by comparing ser
    *This production subaccount is the primary driver of SAP HANA Cloud costs. Identifying the specific subaccount enables targeted investigation.*
    </details>
 
-   ![Service Plan Details](images/service-plan-subaccount-view.jpg)
+   ![Service Plan Details](../../../exercises/part1/ex3-monitoring-costs/images/service-plan-subaccount-view.jpg)
 
 8. For this subaccount, click the switch button (highlighted in the screenshot). This navigates to **View by Account**, showing the subaccount within the account hierarchy.
 9. Scroll down to the graph and select **Cost Breakdown by Service Plans**. Can you identify the reason for the cost increase?
@@ -87,4 +87,4 @@ In this section you will monitor costs and resource consumption by comparing ser
 
 ---
 
-[← Previous: Exercise 2 - Billing Verification](../ex2/) | [Continue to: Exercise 4 - Cross Charge / Cost Allocation (Optional) →](../ex4/)
+[← Previous: Exercise 2 - Billing Verification](../ex2-billing-verification/) | [Continue to: Exercise 4 - Cross Charge / Cost Allocation (Optional) →](../ex4-cross-charge/)

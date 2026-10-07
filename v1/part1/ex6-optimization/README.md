@@ -13,7 +13,7 @@ In this section you will identify cost and utilization optimizations for the Ape
 
 **Scenario:** Use cloud credit forecasting to anticipate potential overages and plan purchasing strategy.
 
-![Cloud Credit Forecast](images/cloud-credit-forecast.jpg)
+![Cloud Credit Forecast](../../../exercises/part1/ex6-optimization/images/cloud-credit-forecast.jpg)
 
 1. On the **Costs and Usage** page, locate the **Cloud Platform Enterprise Agreement** card in the header.
 2. Review the current cloud credits to see whether Apex Holdings has exceeded or is approaching its limit.
@@ -43,7 +43,7 @@ In this section you will identify cost and utilization optimizations for the Ape
 
 **Scenario:** Identify where Apex Holdings is paying consumption-based overage charges that could be eliminated by purchasing additional subscription quota.
 
-![Prepaid Quota Overview](images/prepaid-quota-overview.jpg)
+![Prepaid Quota Overview](../../../exercises/part1/ex6-optimization/images/prepaid-quota-overview.jpg)
 
 1. Set the **Month** filter to **Previous Month**.
 2. Navigate to **Billing → View by Service** and confirm **"Show only services with charged usage"** is **unchecked**.
@@ -91,4 +91,4 @@ In this section you will identify cost and utilization optimizations for the Ape
 
 ---
 
-[← Previous: Exercise 5 - Controlling Costs Using Budgets](../ex5/) | [Continue to: Exercise 7 - Export to Excel (Optional) →](../ex7/)
+[← Previous: Exercise 5 - Controlling Costs Using Budgets](../ex5-budgets/) | [Continue to: Exercise 7 - Export to Excel (Optional) →](../ex7-export-excel/)

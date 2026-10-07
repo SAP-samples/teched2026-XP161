@@ -83,4 +83,4 @@ The **Overview** tab is the central entry point for FinOps in SAP BTP. It consol
 
 ---
 
-[← Previous: Exercise 0 - Getting Started](../ex0/) | [Continue to: Exercise 2 - Billing Verification (Optional) →](../ex2/)
+[← Previous: Exercise 0 - Getting Started](../../../exercises/ex0/) | [Continue to: Exercise 2 - Billing Verification (Optional) →](../ex2-billing-verification/)

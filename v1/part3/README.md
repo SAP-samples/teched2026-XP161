@@ -22,7 +22,7 @@ Planned scenario areas (to be confirmed with Joule team):
 
 ---
 
-[← Part 2 — TechEd Preview](../part2/README.md) | [← Back to Session Overview](../README.md)
+[← Part 2 — TechEd Preview](../part2/README.md) | [← Back to Session Overview](../../README.md)
 
 ---
 

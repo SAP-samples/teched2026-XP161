@@ -1,22 +1,22 @@
 # Exercise 2 - Billing Verification — Optional for newcomers (approx. 10 minutes)
 
 > [!TIP]
-> **This exercise is optional.** Complete it if you are new to SAP BTP billing or want to practice verifying costs against a balance statement. Otherwise, proceed directly to [Exercise 3 - Monitoring Costs](../ex3/).
+> **This exercise is optional.** Complete it if you are new to SAP BTP billing or want to practice verifying costs against a balance statement. Otherwise, proceed directly to [Exercise 3 - Monitoring Costs](../ex3-monitoring-costs/).
 
 ## Exercise 2.1 - Orientation
 
 **Screenshot: Costs and Usage header**
-![BTP Cockpit Costs and Usage](images/btp-cockpit-costs-and-usage-overview.jpg)
+![BTP Cockpit Costs and Usage](../../../exercises/part1/ex2-billing-verification/images/btp-cockpit-costs-and-usage-overview.jpg)
 
 1. In the **BTP Cockpit**, navigate to **Costs and Usage** using the left pane.
-2. Click the hamburger icon ![hamburger menu icon](images/hamburger.png) in the top-left corner to collapse the left pane and expand the viewing area.
+2. Click the hamburger icon ![hamburger menu icon](../../../exercises/part1/ex2-billing-verification/images/hamburger.png) in the top-left corner to collapse the left pane and expand the viewing area.
 3. In the **Global Account Info** card, click the **"Billing Statement Information"** link. This links to SAP for Me where you can download the Balance Statement. For this exercise, screenshots are provided — no SAP for Me login is needed.
 4. Click **"Important information about your billing and usage data"**.
 5. You will see that Apex Holdings is licensed for both **subscription-based** and **consumption-based** commercial models. Prepaid quota from the subscription is consumed first; any excess is charged under the consumption model.
 6. In the header, locate the **Cloud Platform Enterprise Agreement** card showing Cloud Credits, status, and trends.
 
 **Screenshot: Billing View by Service**
-![Billing View by Service](images/billing-view-by-service-with-cost-summary.jpg)
+![Billing View by Service](../../../exercises/part1/ex2-billing-verification/images/billing-view-by-service-with-cost-summary.jpg)
 
 7. The **Billing → View by Service** displays and analyzes monthly charges for all billable services consumed over the last 12 months. Two perspectives:
    - **View by Service** — suited for billing verification; ordered as in the balance statement.
@@ -78,4 +78,4 @@
 
 ---
 
-[← Previous: Exercise 1 - Cost and Usage Overview](../ex1/) | [Continue to: Exercise 3 - Monitoring Costs (Optional) →](../ex3/)
+[← Previous: Exercise 1 - Cost and Usage Overview](../ex1-cost-overview/) | [Continue to: Exercise 3 - Monitoring Costs (Optional) →](../ex3-monitoring-costs/)

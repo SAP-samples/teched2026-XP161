@@ -27,7 +27,7 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
 
 **Scenario:** HR App 4 – TEST was identified in Exercise 4 as the highest-cost subaccount. You will create a budget for it with custom thresholds and email alerts.
 
-![Budget Creation Overview](images/budget-creation-overview.jpg)
+![Budget Creation Overview](../../../exercises/part1/ex5-budgets/images/budget-creation-overview.jpg)
 
 1. In the Costs and Usage header, clear all filters and navigate to the **Budgets** tab.
 2. Click **Create**.
@@ -35,7 +35,7 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
 4. Keep the default **Cost** budget type (tracks monetary value at list price).
 5. Keep the default date range.
 
-   ![Budget Scope Selection](images/budget-scope-subaccount.jpg)
+   ![Budget Scope Selection](../../../exercises/part1/ex5-budgets/images/budget-scope-subaccount.jpg)
 
 6. **Scope:**
    - Select filter type: **Subaccounts**
@@ -75,7 +75,7 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
 14. Select the budget and click **View in Billing Tab** (via the **…** menu) to see the underlying cost data.
 
     Below is an example of the budget threshold alert email sent when the 20% threshold is exceeded:
-    ![Budget Alert Email](images/budgetalert.jpg)
+    ![Budget Alert Email](../../../exercises/part1/ex5-budgets/images/budgetalert.jpg)
 
 > [!TIP]
 > You can also create a **Charged Usage** budget to track actual resource units consumed (e.g., users, GB of storage) rather than their monetary value.
@@ -111,4 +111,4 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
 
 ---
 
-[← Previous: Exercise 4 - Cross Charge / Cost Allocation](../ex4/) | [Continue to: Exercise 6 - Optimization →](../ex6/)
+[← Previous: Exercise 4 - Cross Charge / Cost Allocation](../ex4-cross-charge/) | [Continue to: Exercise 6 - Optimization →](../ex6-optimization/)

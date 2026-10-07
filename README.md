@@ -43,7 +43,6 @@ The new Billing Preview answers Dana's business-line question: drill to the SAP 
 | [Exercise 3](exercises/part2/ex3-fixed-allocation/) | Fixed Cost Allocation for Shared Resources | ~5 min | **Core** |
 | [Exercise 4](exercises/part2/ex4-additional-label/) | Multi-Dimensional Cost Ownership | ~5 min | Optional |
 | [Exercise 5](exercises/part2/ex5-export/) | Export to Excel | ~3 min | Optional |
-| [Exercise 6](exercises/part2/ex6-cleanup/) | Clean Up | ~3 min | Optional |
 
 ### [Part 3 — Ask Joule](exercises/part3/) (~30 min)
 

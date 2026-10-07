@@ -46,4 +46,4 @@ The same APEX Holdings data, through a more capable lens.
 
 ---
 
-[← Back to Session Overview](../README.md) | [Start with Exercise 1 →](ex1-basic-view/)
+[← Back to Session Overview](../../README.md) | [Start with Exercise 1 →](ex1-basic-view/)

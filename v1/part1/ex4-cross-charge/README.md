@@ -1,7 +1,7 @@
 # Exercise 4 - Cross Charge / Cost Allocation — Optional for newcomers (approx. 10 minutes)
 
 > [!TIP]
-> **This exercise is optional.** Complete it if you are new to cost allocation in SAP BTP. Otherwise, proceed directly to [Exercise 5 - Controlling Costs Using Budgets](../ex5/).
+> **This exercise is optional.** Complete it if you are new to cost allocation in SAP BTP. Otherwise, proceed directly to [Exercise 5 - Controlling Costs Using Budgets](../ex5-budgets/).
 
 ## Exercise 4.1 - Introduction
 
@@ -9,7 +9,7 @@
 
 In this section you will track costs within the Apex Holdings account hierarchy and distribute expenses across the organization using the account structure and **labels** (Contact Person, Cost Center, Department, Environment, Region).
 
-![Account Hierarchy Overview](images/account-hierarchy.jpg)
+![Account Hierarchy Overview](../../../exercises/part1/ex4-cross-charge/images/account-hierarchy.png)
 
 ## Exercise 4.2 - Track Costs Using the Account Hierarchy
 
@@ -115,4 +115,4 @@ In this section you will track costs within the Apex Holdings account hierarchy 
 
 ---
 
-[← Previous: Exercise 3 - Monitoring Costs](../ex3/) | [Continue to: Exercise 5 - Controlling Costs Using Budgets →](../ex5/)
+[← Previous: Exercise 3 - Monitoring Costs](../ex3-monitoring-costs/) | [Continue to: Exercise 5 - Controlling Costs Using Budgets →](../ex5-budgets/)

@@ -12,7 +12,7 @@ In this section you will track costs within the Apex Holdings account hierarchy 
 > [!NOTE]
 > In this exercise we focus on cross charging using **today's capabilities** — cost breakdown at the subaccount level combined with account labels. In **Part 2** of this session you will get a preview of the upcoming release, which introduces a fundamentally more powerful cross-charging model: cost allocation at the service instance level, label inheritance across the hierarchy, and fixed percentage distribution for shared resources.
 
-![1789400664545](image/README/1789400664545.png)
+![1789400664545](images/account-hierarchy.png)
 
 ## Exercise 4.2 - Track Costs Using the Account Hierarchy
 
