@@ -14,7 +14,7 @@ You are the APEX Holdings FinOps controller. Over the next 120 minutes, you work
 
 ## Session Structure
 
-### [Part 1 — Cost Visibility and Control](2_cost-visibility-and-control/) (~55 min)
+### [Part 1 — Cost Visibility and Control](exercises/part1/) (~55 min)
 
 *Investigate the Q3 bill using today's tools.*
 
@@ -22,15 +22,15 @@ You find the cost spike (SAP HANA Cloud in Sales App 1 – PROD), the budget bre
 
 | Exercise | Title | Duration | Type |
 |----------|-------|----------|------|
-| [Exercise 1](2_cost-visibility-and-control/ex1-cost-overview/) | Cost and Usage Overview | ~10 min | **Core** |
-| [Exercise 2](2_cost-visibility-and-control/ex2-billing-verification/) | Billing Verification | ~10 min | **Core** |
-| [Exercise 3](2_cost-visibility-and-control/ex3-monitoring-costs/) | Monitoring Costs — Finding the Spike | ~7 min | **Core** |
-| [Exercise 4](2_cost-visibility-and-control/ex4-cross-charge/) | Cross Charge / Cost Allocation | ~10 min | Optional |
-| [Exercise 5](2_cost-visibility-and-control/ex5-budgets/) | Controlling Costs Using Budgets | ~10 min | **Core** |
-| [Exercise 6](2_cost-visibility-and-control/ex6-optimization/) | Optimization | ~7 min | **Core** |
-| [Exercise 7](2_cost-visibility-and-control/ex7-export-excel/) | Export to Excel | ~10 min | Optional |
+| [Exercise 1](exercises/part1/ex1-cost-overview/) | Cost and Usage Overview | ~10 min | **Core** |
+| [Exercise 2](exercises/part1/ex2-billing-verification/) | Billing Verification | ~10 min | **Core** |
+| [Exercise 3](exercises/part1/ex3-monitoring-costs/) | Monitoring Costs — Finding the Spike | ~7 min | **Core** |
+| [Exercise 4](exercises/part1/ex4-cross-charge/) | Cross Charge / Cost Allocation | ~10 min | Optional |
+| [Exercise 5](exercises/part1/ex5-budgets/) | Controlling Costs Using Budgets | ~10 min | **Core** |
+| [Exercise 6](exercises/part1/ex6-optimization/) | Optimization | ~7 min | **Core** |
+| [Exercise 7](exercises/part1/ex7-export-excel/) | Export to Excel | ~10 min | Optional |
 
-### [Part 2 — Advanced Cost Allocation](3_advanced-cost-allocation/) (~35 min)
+### [Part 2 — Advanced Cost Allocation](exercises/part2/) (~35 min)
 
 *Break the three ceilings Part 1 couldn't cross.*
 
@@ -38,14 +38,14 @@ The new Billing Preview answers Dana's business-line question: drill to the SAP 
 
 | Exercise | Title | Duration | Type |
 |----------|-------|----------|------|
-| [Exercise 1](3_advanced-cost-allocation/ex1-basic-view/) | Basic View — Same Data, New Interface | ~4 min | **Core** |
-| [Exercise 2](3_advanced-cost-allocation/ex2-advanced-breakdown/) | Granular Breakdown & Business Line Assignment | ~8 min | **Core** |
-| [Exercise 3](3_advanced-cost-allocation/ex3-fixed-allocation/) | Fixed Cost Allocation for Shared Resources | ~5 min | **Core** |
-| [Exercise 4](3_advanced-cost-allocation/ex4-additional-label/) | Multi-Dimensional Cost Ownership | ~5 min | Optional |
-| [Exercise 5](3_advanced-cost-allocation/ex5-export/) | Export to Excel | ~3 min | Optional |
-| [Exercise 6](3_advanced-cost-allocation/ex6-cleanup/) | Clean Up | ~3 min | Optional |
+| [Exercise 1](exercises/part2/ex1-basic-view/) | Basic View — Same Data, New Interface | ~4 min | **Core** |
+| [Exercise 2](exercises/part2/ex2-advanced-breakdown/) | Granular Breakdown & Business Line Assignment | ~8 min | **Core** |
+| [Exercise 3](exercises/part2/ex3-fixed-allocation/) | Fixed Cost Allocation for Shared Resources | ~5 min | **Core** |
+| [Exercise 4](exercises/part2/ex4-additional-label/) | Multi-Dimensional Cost Ownership | ~5 min | Optional |
+| [Exercise 5](exercises/part2/ex5-export/) | Export to Excel | ~3 min | Optional |
+| [Exercise 6](exercises/part2/ex6-cleanup/) | Clean Up | ~3 min | Optional |
 
-### [Part 3 — Ask Joule](4_ask-joule/) (~30 min)
+### [Part 3 — Ask Joule](exercises/part3/) (~30 min)
 
 *Dana's 6 follow-up questions, answered in natural language.*
 
@@ -53,18 +53,18 @@ Dana has the allocation report. Now she has questions. Each one would take 10–
 
 | Exercise | Title | Joule Scenario | Duration |
 |----------|-------|----------------|----------|
-| [Exercise 1](4_ask-joule/ex1-q3-summary/) | Q3 Cost Summary — The Big Picture | `quarterly_cost_summary` | ~5 min |
-| [Exercise 2](4_ask-joule/ex2-subaccount-spikes/) | Which Subaccounts Spiked? | `subaccounts_cost_spikes` | ~5 min |
-| [Exercise 3](4_ask-joule/ex3-top-services/) | What's Driving the Spend? | `top_expensive_services` | ~5 min |
-| [Exercise 4](4_ask-joule/ex4-service-spikes/) | Service Plan Spike Detection | `service_plans_cost_spikes` | ~5 min |
-| [Exercise 5](4_ask-joule/ex5-quota-utilization/) | Prepaid Quota — Are We Wasting Money? | `service_plans_utilization` | ~5 min |
-| [Exercise 6](4_ask-joule/ex6-top-subaccounts/) | The Top 5 Cost Offenders | `top_costly_subaccounts` | ~5 min |
+| [Exercise 1](exercises/part3/ex1-q3-summary/) | Q3 Cost Summary — The Big Picture | `quarterly_cost_summary` | ~5 min |
+| [Exercise 2](exercises/part3/ex2-subaccount-spikes/) | Which Subaccounts Spiked? | `subaccounts_cost_spikes` | ~5 min |
+| [Exercise 3](exercises/part3/ex3-top-services/) | What's Driving the Spend? | `top_expensive_services` | ~5 min |
+| [Exercise 4](exercises/part3/ex4-service-spikes/) | Service Plan Spike Detection | `service_plans_cost_spikes` | ~5 min |
+| [Exercise 5](exercises/part3/ex5-quota-utilization/) | Prepaid Quota — Are We Wasting Money? | `service_plans_utilization` | ~5 min |
+| [Exercise 6](exercises/part3/ex6-top-subaccounts/) | The Top 5 Cost Offenders | `top_costly_subaccounts` | ~5 min |
 
 ---
 
 ## Getting Started
 
-→ [Getting Started](1_setup/)
+→ [Getting Started](exercises/ex0/)
 
 ---
 

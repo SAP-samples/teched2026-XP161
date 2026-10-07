@@ -19,4 +19,4 @@ In this part you will explore the production-ready FinOps tools available today 
 
 ---
 
-[← Back to Session Overview](../README.md) | [Start with Exercise 1 →](ex1-cost-overview/)
+[← Back to Session Overview](../../README.md) | [Start with Exercise 1 →](ex1-cost-overview/)

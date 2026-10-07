@@ -45,4 +45,4 @@ The six scenarios Joule supports:
 
 ---
 
-[← Back to Session Overview](../README.md) | [Start with Exercise 1 →](ex1-q3-summary/)
+[← Back to Session Overview](../../README.md) | [Start with Exercise 1 →](ex1-q3-summary/)

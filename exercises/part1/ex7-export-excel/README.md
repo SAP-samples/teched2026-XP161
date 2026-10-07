@@ -75,4 +75,4 @@ The **Export to Excel** feature lets you download BTP cost data for the past 12,
 
 ---
 
-[← Previous: Exercise 6 - Optimization](../ex6-optimization/) | [Continue to: Exercise 8 - TechEd Preview →](../../3_advanced-cost-allocation/)
+[← Previous: Exercise 6 - Optimization](../ex6-optimization/) | [Continue to: Exercise 8 - TechEd Preview →](../../part2/)
