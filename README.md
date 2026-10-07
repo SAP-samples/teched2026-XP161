@@ -67,7 +67,7 @@ Dana has the allocation report. Now she has questions. Each one would take 10–
 
 ---
 
-*Session code: XP161 | TechEd 2026 | Previous draft: [v1/](v1/)*
+*Session code: XP161 | TechEd 2026*
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
