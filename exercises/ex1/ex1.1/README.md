@@ -6,7 +6,7 @@ In this exercise you will navigate the Overview tab card by card — building th
 
 ---
 
-## Card 1 — Monthly Cost Summary
+## Monthly Cost Summary
 
 The **Monthly Cost Summary** card combines current-month metrics with statistical benchmarks from the last 12 months — giving you both where you are now and the historical context to judge whether it's normal.
 
@@ -26,7 +26,7 @@ The **Monthly Cost Summary** card combines current-month metrics with statistica
 
 ---
 
-## Card 2 — Cloud Platform Enterprise Agreement
+## Cloud Platform Enterprise Agreement
 
 Analyzing costs is only half of FinOps. The other half is managing the contract. APEX Holdings runs on a **CPEA (Cloud Platform Enterprise Agreement)** — a cloud credit pool that covers all consumption-based spending. Staying within that pool matters: charges beyond the balance are billed at list price, significantly higher than the contracted rate.
 
@@ -62,7 +62,7 @@ Unless additional credits are purchased or consumption is reduced, APEX Holdings
 
 ---
 
-## Card 3 — Last Month's Prepaid Quota Consumption
+## Last Month's Prepaid Quota Consumption
 
 APEX Holdings' contract includes a **subscription component** — prepaid quotas for specific services at fixed cost. Consumption within quota is already paid for. Consumption beyond it generates additional charges against the cloud credit pool. Consumption well below quota means you're paying for capacity you're not using.
 
@@ -109,7 +109,7 @@ This card helps identify both problems at a glance.
 
 ---
 
-## Card 4 — Cost and Usage Recommendations
+## Cost and Usage Recommendations
 
 The **Cost and Usage Recommendations** section surfaces insights that help you monitor costs, identify anomalies, control spending, and optimize your contract. Each recommendation includes a link to navigate directly to the relevant data.
 
@@ -139,7 +139,7 @@ A cost increase of over 60% in the last month compared to the previous month.
 
 ---
 
-## Card 5 — Cost Breakdown and Cost Distribution
+## Cost Breakdown and Cost Distribution
 
 1. Locate the **Cost Breakdown** section. It shows the top service plans and top subaccounts ranked by cost, each with a monthly bar chart covering the last 12 months.
 
