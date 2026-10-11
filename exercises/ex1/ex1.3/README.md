@@ -1,4 +1,4 @@
-# Exercise 3 - Monitoring Costs (approx. 5-7 minutes)
+# Exercise 1.3 — Monitoring Costs (approx. 5-7 minutes)
 
 ## Exercise 3.1 - Introduction
 

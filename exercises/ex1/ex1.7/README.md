@@ -1,4 +1,4 @@
-# Exercise 7 - Export to Excel — Optional (approx. 10 minutes)
+# Exercise 1.7 — Export to Excel — Optional (approx. 10 minutes)
 
 > [!TIP]
 > **This exercise is optional.** Complete it if time allows, or revisit it later using your own SAP BTP account. Ensure labels are assigned to your subaccounts beforehand to maximize the exercise value.

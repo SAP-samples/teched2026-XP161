@@ -1,4 +1,4 @@
-# Exercise 5 - Controlling Costs Using Budgets (approx. 10 minutes)
+# Exercise 1.5 — Controlling Costs Using Budgets (approx. 10 minutes)
 
 ## Exercise 5.1 - Introduction
 
