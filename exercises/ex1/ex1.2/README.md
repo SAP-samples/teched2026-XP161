@@ -1,7 +1,7 @@
 # Exercise 1.2 — Billing Verification (approx. 10 minutes)
 
 
-## Exercise 1.2.1 - Orientation
+## Orientation
 
 1. You are on the **Overview** tab. Scroll to the **footer** of the page and click the **"Billing Statement Information"** link. This links to SAP for Me where you can download the Balance Statement. For this exercise, screenshots are provided — no SAP for Me login is needed.
 2. Click the hamburger icon ![hamburger menu icon](images/hamburger.png) in the top-left corner to collapse the left pane and expand the viewing area.
@@ -17,7 +17,7 @@
 **Screenshot: Billing Views by Service**
 ![Billing View by Service](images/billing-view-by-service-with-cost-summary.jpg)
 
-## Exercise 1.2.2 - Compare the Balance Statement with BTP Cockpit
+## Compare the Balance Statement with BTP Cockpit
 
 > [!NOTE]
 > The Balance Statement is the starting point for monthly cost verification. Screenshots from the previous month's balance statement are provided below for comparison.

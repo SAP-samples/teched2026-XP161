@@ -1,6 +1,6 @@
 # Exercise 1.5 — Controlling Costs Using Budgets (approx. 10 minutes)
 
-## Exercise 1.5.1 - Introduction
+## Introduction
 
 In this section you will manage and control cloud spending with **Budgets** in SAP BTP. Budgets let you set spending limits, configure threshold alerts, and integrate with external notification channels.
 
@@ -23,7 +23,7 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
 
 </details>
 
-## Exercise 1.5.2 - Create a Cost-Based Budget for a Specific Subaccount
+## Create a Cost-Based Budget for a Specific Subaccount
 
 **Scenario:** HR App 4 – TEST was identified in Exercise 1.4 as the highest-cost subaccount. You will create a budget for it with custom thresholds and email alerts.
 
@@ -80,7 +80,7 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
 > [!TIP]
 > You can also create a **Charged Usage** budget to track actual resource units consumed (e.g., users, GB of storage) rather than their monetary value.
 
-## Exercise 1.5.3 - Alert Notification via Webhook *(TBD — Escape Room)*
+## Alert Notification via Webhook *(TBD — Escape Room)*
 
 > [!NOTE]
 > **[DRAFT — PENDING DELIVERY TEAM ALIGNMENT]**

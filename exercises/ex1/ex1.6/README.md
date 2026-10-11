@@ -1,13 +1,13 @@
 # Exercise 1.6 — Optimization (approx. 7 minutes)
 
-## Exercise 1.6.1 - Introduction
+## Introduction
 
 In this section you will identify cost and utilization optimizations for the Apex Holdings global account, focusing on prepaid quota management.
 
 > [!NOTE]
 > Cloud credit forecasting — anticipating when APEX Holdings will exceed its credit balance — was already covered in Exercise 1.1, Card 2. The forecast showed an expected overage starting mid-January 2027.
 
-## Exercise 1.6.2 - Optimizing Prepaid Quota Utilization
+## Optimizing Prepaid Quota Utilization
 
 **Scenario:** Identify where Apex Holdings is paying consumption-based overage charges that could be eliminated by purchasing additional subscription quota.
 

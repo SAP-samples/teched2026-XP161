@@ -3,13 +3,13 @@
 > [!TIP]
 > **This exercise is optional.** Complete it if time allows, or revisit it later using your own SAP BTP account. Ensure labels are assigned to your subaccounts beforehand to maximize the exercise value.
 
-## Exercise 1.7.1 - Introduction
+## Introduction
 
 The **Export to Excel** feature lets you download BTP cost data for the past 12, 24, or 36 months. You can customize the export by applying filters (subaccounts, labels, services) and adding label columns. The exported file integrates with third-party reporting tools.
 
 ![1789985877830](images/export-excel-custom-menu.jpg)
 
-## Exercise 1.7.2 - Scenario 1: Share Costs with a Contact Person
+## Scenario 1: Share Costs with a Contact Person
 
 **Scenario:** Export cost data filtered by a specific contact person to share relevant costs with a stakeholder.
 
@@ -27,7 +27,7 @@ The **Export to Excel** feature lets you download BTP cost data for the past 12,
 
 > You can apply the same approach with any label (service, subaccount, department, cost center) to generate stakeholder-specific cost reports.
 
-## Exercise 1.7.3 - Scenario 2: Aggregate Costs by Cost Center
+## Scenario 2: Aggregate Costs by Cost Center
 
 **Scenario:** Export all costs with a cost center label column, then use Excel's AI analytics to aggregate and compare cost centers.
 
