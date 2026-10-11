@@ -3,7 +3,7 @@
 > [!TIP]
 > **This exercise is optional.** Complete it if you are new to cost allocation in SAP BTP. Otherwise, proceed directly to [Exercise 1.5 — Controlling Costs Using Budgets](../ex1.5/).
 
-## Exercise 4.1 - Introduction
+## Exercise 1.4.1 - Introduction
 
 **Cross charging** is an internal cost allocation practice where one part of an organization charges another for shared services or resources. It ensures fair cost distribution and helps each business unit reflect the true cost of what it consumes.
 
@@ -14,7 +14,7 @@ In this section you will track costs within the Apex Holdings account hierarchy 
 
 ![1789400664545](images/account-hierarchy.png)
 
-## Exercise 4.2 - Track Costs Using the Account Hierarchy
+## Exercise 1.4.2 - Track Costs Using the Account Hierarchy
 
 1. Ensure the **Month** filter is set to **Previous Month**.
 2. Navigate to **Billing → View by Account** and click **Collapse All** to view the account hierarchy.
@@ -84,7 +84,7 @@ In this section you will track costs within the Apex Holdings account hierarchy 
 9. Check the **Environment** label. Note that it is labeled **"Test"** — a testing environment with costs higher than most production subaccounts. This warrants investigation.
 10. Deselect the subaccount and uncheck **"Show only subaccounts"**.
 
-## Exercise 4.3 - Cross Charge Using Labels
+## Exercise 1.4.3 - Cross Charge Using Labels
 
 1. Ensure the **Month** filter is set to **Previous Month**.
 2. HR App 4 – TEST is in EMEA. What are the total costs for the EMEA region?
