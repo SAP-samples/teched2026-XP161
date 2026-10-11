@@ -105,7 +105,7 @@ This card helps identify both problems at a glance.
 3. Return to the **Overview** tab.
 
 > [!NOTE]
-> We will investigate the Cloud Foundry Runtime overage in Exercise 6 (Optimization).
+> We will investigate the Cloud Foundry Runtime overage in Exercise 1.6 (Optimization).
 
 ---
 
@@ -116,7 +116,7 @@ The **Cost and Usage Recommendations** section surfaces insights that help you m
 1. Locate the **Cost and Usage Recommendations** section.
 2. Go through the recommendations. You will notice:
 
-   - A **budgets** recommendation — no budgets are configured yet for this account. We will set one up in Exercise 5.
+   - A **budgets** recommendation — no budgets are configured yet for this account. We will set one up in Exercise 1.5.
    - A **cloud credit overage** forecast — you already identified this proactively in Card 2.
    - Two **cost spike** recommendations — one for unusual service plan costs, one for a subaccount anomaly.
 3. Find the **4th recommendation** (a cost spike recommendation). Click **"View subaccount costs in Billing tab"**.
@@ -133,7 +133,7 @@ A cost increase of over 60% in the last month compared to the previous month.
 </details>
 
 > [!NOTE]
-> Budgeting Hub – TEST belongs to the **Crestline Retail** subsidiary (Finance department, EMEA region, contact: alex.yamamoto@apex.com). In Exercise 4 you will explore how to use labels to track ownership and cross-charge this cost.
+> Budgeting Hub – TEST belongs to the **Crestline Retail** subsidiary (Finance department, EMEA region, contact: alex.yamamoto@apex.com). In Exercise 1.4 you will explore how to use labels to track ownership and cross-charge this cost.
 
 6. Return to the **Overview** tab.
 

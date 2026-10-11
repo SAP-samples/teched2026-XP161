@@ -38,7 +38,7 @@
 **Screenshot #3: Balance Statement — Cloud Credits and Payment Summary**
 ![1789981762239](images/3 3.png)
 
-6. Cloud credit details are available in the **Overview tab** — refer to the **Cloud Platform Enterprise Agreement** card you explored in Exercise 1 to verify consumed and remaining cloud credits against the balance statement.
+6. Cloud credit details are available in the **Overview tab** — refer to the **Cloud Platform Enterprise Agreement** card you explored in Exercise 1.1 to verify consumed and remaining cloud credits against the balance statement.
 7. In screenshot #3 (section 3.B), the balance statement shows **remaining cloud credits**. Confirm this matches what you saw in the CPEA card on the Overview tab.
 8. Remaining cloud credits mean no Net Overage Amount — the Payment Summary shows no additional costs to pay.
 

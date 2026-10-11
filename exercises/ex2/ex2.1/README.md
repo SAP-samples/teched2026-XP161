@@ -12,7 +12,7 @@
    - Switch to **Account → Directories & Subaccounts**. Confirm you can see the 5 Apex Holdings subsidiaries: **Atlas Industries**, **Lumina Energy**, **HarborCare Health**, **Crestline Retail**, and **NexaTech Digital**.
 5. Switch **Group By** back to **Services → All Services**.
 6. In the left sidebar under **Filter**, expand **Services** and select **SAP HANA Cloud - HANA** to narrow the view to HANA costs only.
-7. Clear the filter before continuing to Exercise 2.
+7. Clear the filter before continuing to Exercise 2.2.
 
 > **TechEd Preview — UI orientation:**
 > The left sidebar replaces the table header and has three sections you'll use throughout Exercise 2:

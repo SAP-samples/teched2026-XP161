@@ -34,7 +34,7 @@ The agreed split is: **CC-100: 40%, CC-200: 35%, CC-300: 25%**.
 
 ## Step 3.3 — View the Full Cost Center Distribution
 
-1. In **Group By**, select **Cost Labels → All Cost Labels**. The table now shows the full APEX Holdings cost distribution by Cost Center — combining the subsidiary assignments, instance-level overrides from Exercise 2, and the fixed allocation from this exercise.
+1. In **Group By**, select **Cost Labels → All Cost Labels**. The table now shows the full APEX Holdings cost distribution by Cost Center — combining the subsidiary assignments, instance-level overrides from Exercise 2.2, and the fixed allocation from this exercise.
 2. Switch **Group By** back to **Account → All Account Entities**, scroll to the bottom, and expand the **Cost Breakdown** chart to see which cost center carries the largest share over the last 12 months.
 
 **Question:** Which cost center has the highest total allocated cost across APEX Holdings?

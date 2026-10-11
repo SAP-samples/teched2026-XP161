@@ -3,7 +3,7 @@
 > [!TIP]
 > **This exercise is optional.** Complete it if time allows.
 
-**Goal:** Add a second independent cost label dimension for regional cost reporting — enabling the CFO to slice BTP costs by geography alongside the Cost Center dimension from Exercise 2.
+**Goal:** Add a second independent cost label dimension for regional cost reporting — enabling the CFO to slice BTP costs by geography alongside the Cost Center dimension from Exercise 2.2.
 
 **Scenario:** APEX Holdings subsidiaries are multinational companies with operations distributed across regions. Cost center reporting answers *"which business unit is responsible?"* — but the CFO also needs to answer *"which region drove this spend?"* for regional cross-charge reporting and geographic budget allocation.
 

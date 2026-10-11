@@ -28,11 +28,11 @@ In the export dialog:
 1. Navigate to the **Instance Cost by Service** sheet.
 2. Each row is a service instance; cost is distributed across columns **CC-100**, **CC-200**, and **CC-300** based on the label assignments from Exercises 2–3.
 
-   > **Observe:** Unlike a standard billing export — where cost stops at the subaccount level — each row here represents an individual service instance. This is the same drill-down depth you explored in Exercise 2: Cloud Foundry spaces and service instances are fully visible.
+   > **Observe:** Unlike a standard billing export — where cost stops at the subaccount level — each row here represents an individual service instance. This is the same drill-down depth you explored in Exercise 2.2: Cloud Foundry spaces and service instances are fully visible.
 
 3. Click the **CC-100** column to select it — the sum appears in the Excel status bar at the bottom. Repeat for **CC-200** and **CC-300**.
 
-   **Observe:** Which cost center carries the highest total? Does the CC-100 share reflect the fixed percentage allocation from Exercise 3?
+   **Observe:** Which cost center carries the highest total? Does the CC-100 share reflect the fixed percentage allocation from Exercise 2.3?
 
 **Cost Labels sheet:**
 

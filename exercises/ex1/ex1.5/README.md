@@ -25,7 +25,7 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
 
 ## Exercise 5.2 - Create a Cost-Based Budget for a Specific Subaccount
 
-**Scenario:** HR App 4 – TEST was identified in Exercise 4 as the highest-cost subaccount. You will create a budget for it with custom thresholds and email alerts.
+**Scenario:** HR App 4 – TEST was identified in Exercise 1.4 as the highest-cost subaccount. You will create a budget for it with custom thresholds and email alerts.
 
 ![Budget Creation Overview](images/budget-creation-overview.jpg)
 

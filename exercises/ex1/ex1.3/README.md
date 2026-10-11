@@ -2,7 +2,7 @@
 
 ## Exercise 3.1 - Introduction
 
-In this section you will monitor costs and resource consumption by comparing services and subaccounts, analyzing trends, and drilling into detailed data. The objective is to identify the reasons behind the cost increase in the previous month — identified in Exercise 2 as the highest-cost month over the past 12 months.
+In this section you will monitor costs and resource consumption by comparing services and subaccounts, analyzing trends, and drilling into detailed data. The objective is to identify the reasons behind the cost increase in the previous month — identified in Exercise 1.2 as the highest-cost month over the past 12 months.
 
 ## Exercise 3.2 - Investigate the Cost Increase
 

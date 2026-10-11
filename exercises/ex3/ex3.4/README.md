@@ -2,7 +2,7 @@
 
 **Dana's question:** *"Are there any services that aren't in our top 5 but suddenly started costing us money? I don't want to miss a quiet cost that's about to become a big problem."*
 
-This is the service-plan equivalent of Exercise 2's subaccount spikes. Top-N rankings miss anomalies in lower-spend services. Spike detection finds them.
+This is the service-plan equivalent of Exercise 3.2's subaccount spikes. Top-N rankings miss anomalies in lower-spend services. Spike detection finds them.
 
 **Joule scenario:** `service_plans_cost_spikes`
 
@@ -27,9 +27,9 @@ Each spike entry includes: service plan name, the month of the spike, cost befor
 
 ---
 
-## The Difference from Exercise 3
+## The Difference from Exercise 3.3
 
-| Exercise 3 (top_expensive_services) | Exercise 4 (service_plans_cost_spikes) |
+| Exercise 3.3 (top_expensive_services) | Exercise 3.4 (service_plans_cost_spikes) |
 |---|---|
 | "Who costs the most overall?" | "Who suddenly costs more than before?" |
 | Ranks by total spend | Ranks by month-over-month delta |
