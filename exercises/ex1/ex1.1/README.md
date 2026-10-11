@@ -176,4 +176,4 @@ Yes — even without calculating quarterly totals, the bar charts make it visibl
 
 ---
 
-[← Previous: Exercise 0 - Getting Started](../../ex0/) | [Continue to: Exercise 2 - Billing Verification (Optional) →](../ex1.2/)
+[← Getting Started](../../ex0/) | [Continue to: Exercise 1.2 — Billing Verification →](../ex1.2/)

@@ -111,4 +111,4 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
 
 ---
 
-[← Previous: Exercise 4 - Cross Charge / Cost Allocation](../ex1.4/) | [Continue to: Exercise 6 - Optimization →](../ex1.6/)
+[← Exercise 1.4 — Cross Charge / Cost Allocation](../ex1.4/) | [Continue to: Exercise 1.6 — Optimization →](../ex1.6/)

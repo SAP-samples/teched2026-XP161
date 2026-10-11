@@ -1,4 +1,4 @@
-# Part 2, Exercise 5 — Export to Excel (~3 minutes)
+# Exercise 2.5 — Export to Excel (~3 minutes)
 
 > [!TIP]
 > **This exercise is optional.** Complete it to share the APEX Holdings cost breakdown with the finance team.
@@ -43,4 +43,4 @@ In the export dialog:
 
 ---
 
-[← Exercise 4 — Additional Label](../ex2.4/) | [← Back to Advanced Cost Allocation Overview](../README.md)
+[← Exercise 2.4 — Additional Label](../ex2.4/) | [← Back to Exercise 2 Overview](../README.md)

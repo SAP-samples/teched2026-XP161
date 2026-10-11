@@ -1,4 +1,4 @@
-# Part 2, Exercise 4 — Add a Second Cost Label Dimension — Optional (~5 minutes)
+# Exercise 2.4 — Add a Second Cost Label Dimension — Optional (~5 minutes)
 
 > [!TIP]
 > **This exercise is optional.** Complete it if time allows.
@@ -9,7 +9,7 @@
 
 The two dimensions are fully independent: a workload in CC-200 might serve EMEA, AMER, or APJ. Regional reporting cuts across cost centers without restructuring the account.
 
-APEX Holdings uses four regions: **EMEA**, **AMER**, **APJ**, and **Global** (for shared services with no single regional owner). You already know where two key workloads operate from Part 1:
+APEX Holdings uses four regions: **EMEA**, **AMER**, **APJ**, and **Global** (for shared services with no single regional owner). You already know where two key workloads operate from Exercise 1:
 
 - **Sales App 1 – PROD** (Lumina Energy) serves the **AMER** market
 - **HR App 4 – TEST** (NexaTech Digital) serves the **APJ** region
@@ -28,7 +28,7 @@ APEX Holdings uses four regions: **EMEA**, **AMER**, **APJ**, and **Global** (fo
 
 1. Switch to **Account → All Account Entities** in **Group By**.
 2. In the left sidebar under **View**, set **Cost Label** to **"Region"**.
-3. Assign the regions you know from Part 1:
+3. Assign the regions you know from Exercise 1:
    - Navigate to **Sales App 1 – PROD** (Lumina Energy → PROD) → Edit → assign **AMER** → Save
    - Navigate to **HR App 4 – TEST** (NexaTech Digital → TEST) → Edit → assign **APJ** → Save
 
@@ -47,7 +47,7 @@ APEX Holdings uses four regions: **EMEA**, **AMER**, **APJ**, and **Global** (fo
    <details>
    <summary>Answer</summary>
 
-   **27,702.73 USD** — attributed to **Sales App 1 – PROD**, driven by the SAP HANA Cloud instance from Part 1.
+   **27,702.73 USD** — attributed to **Sales App 1 – PROD**, driven by the SAP HANA Cloud instance from Exercise 1.
 
    > [!WARNING]
    > **TODO (author):** Verify this figure after the HANA instance data is finalized in APEX.
@@ -61,4 +61,4 @@ APEX Holdings uses four regions: **EMEA**, **AMER**, **APJ**, and **Global** (fo
 
 ---
 
-[← Exercise 3 — Fixed Allocation](../ex2.3/) | [Continue to: Exercise 5 — Export to Excel (Optional) →](../ex2.5/)
+[← Exercise 2.3 — Fixed Allocation](../ex2.3/) | [Continue to: Exercise 2.5 — Export to Excel (Optional) →](../ex2.5/)

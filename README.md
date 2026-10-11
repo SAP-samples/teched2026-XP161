@@ -14,7 +14,7 @@ You are the APEX Holdings FinOps controller. Over the next 120 minutes, you work
 
 ## Session Structure
 
-### [Part 1 — Cost Visibility and Control](exercises/ex1/) (~55 min)
+### [Exercise 1 — Cost Visibility and Control](exercises/ex1/) (~55 min)
 
 *Investigate the Q3 bill using today's tools.*
 
@@ -22,15 +22,15 @@ You find the cost spike (SAP HANA Cloud in Sales App 1 – PROD), the budget bre
 
 | Exercise | Title | Duration | Type |
 |----------|-------|----------|------|
-| [Exercise 1](exercises/ex1/ex1.1/) | Cost and Usage Overview | ~10 min | **Core** |
-| [Exercise 2](exercises/ex1/ex1.2/) | Billing Verification | ~10 min | **Core** |
-| [Exercise 3](exercises/ex1/ex1.3/) | Monitoring Costs — Finding the Spike | ~7 min | **Core** |
-| [Exercise 4](exercises/ex1/ex1.4/) | Cross Charge / Cost Allocation | ~10 min | Optional |
-| [Exercise 5](exercises/ex1/ex1.5/) | Controlling Costs Using Budgets | ~10 min | **Core** |
-| [Exercise 6](exercises/ex1/ex1.6/) | Optimization | ~7 min | **Core** |
-| [Exercise 7](exercises/ex1/ex1.7/) | Export to Excel | ~10 min | Optional |
+| [Exercise 1.1](exercises/ex1/ex1.1/) | Cost and Usage Overview | ~10 min | **Core** |
+| [Exercise 1.2](exercises/ex1/ex1.2/) | Billing Verification | ~10 min | **Core** |
+| [Exercise 1.3](exercises/ex1/ex1.3/) | Monitoring Costs — Finding the Spike | ~7 min | **Core** |
+| [Exercise 1.4](exercises/ex1/ex1.4/) | Cross Charge / Cost Allocation | ~10 min | Optional |
+| [Exercise 1.5](exercises/ex1/ex1.5/) | Controlling Costs Using Budgets | ~10 min | **Core** |
+| [Exercise 1.6](exercises/ex1/ex1.6/) | Optimization | ~7 min | **Core** |
+| [Exercise 1.7](exercises/ex1/ex1.7/) | Export to Excel | ~10 min | Optional |
 
-### [Part 2 — Advanced Cost Allocation](exercises/ex2/) (~35 min)
+### [Exercise 2 — Advanced Cost Allocation](exercises/ex2/) (~35 min)
 
 *Break the three ceilings Part 1 couldn't cross.*
 
@@ -38,13 +38,13 @@ The new Billing Preview answers Dana's business-line question: drill to the SAP 
 
 | Exercise | Title | Duration | Type |
 |----------|-------|----------|------|
-| [Exercise 1](exercises/ex2/ex2.1/) | Basic View — Same Data, New Interface | ~4 min | **Core** |
-| [Exercise 2](exercises/ex2/ex2.2/) | Granular Breakdown & Business Line Assignment | ~8 min | **Core** |
-| [Exercise 3](exercises/ex2/ex2.3/) | Fixed Cost Allocation for Shared Resources | ~5 min | **Core** |
-| [Exercise 4](exercises/ex2/ex2.4/) | Multi-Dimensional Cost Ownership | ~5 min | Optional |
-| [Exercise 5](exercises/ex2/ex2.5/) | Export to Excel | ~3 min | Optional |
+| [Exercise 2.1](exercises/ex2/ex2.1/) | Basic View — Same Data, New Interface | ~4 min | **Core** |
+| [Exercise 2.2](exercises/ex2/ex2.2/) | Granular Breakdown & Business Line Assignment | ~8 min | **Core** |
+| [Exercise 2.3](exercises/ex2/ex2.3/) | Fixed Cost Allocation for Shared Resources | ~5 min | **Core** |
+| [Exercise 2.4](exercises/ex2/ex2.4/) | Multi-Dimensional Cost Ownership | ~5 min | Optional |
+| [Exercise 2.5](exercises/ex2/ex2.5/) | Export to Excel | ~3 min | Optional |
 
-### [Part 3 — Ask Joule](exercises/ex3/) (~30 min)
+### [Exercise 3 — Ask Joule](exercises/ex3/) (~30 min)
 
 *Dana's 6 follow-up questions, answered in natural language.*
 
@@ -52,12 +52,12 @@ Dana has the allocation report. Now she has questions. Each one would take 10–
 
 | Exercise | Title | Joule Scenario | Duration |
 |----------|-------|----------------|----------|
-| [Exercise 1](exercises/ex3/ex3.1/) | Q3 Cost Summary — The Big Picture | `quarterly_cost_summary` | ~5 min |
-| [Exercise 2](exercises/ex3/ex3.2/) | Which Subaccounts Spiked? | `subaccounts_cost_spikes` | ~5 min |
-| [Exercise 3](exercises/ex3/ex3.3/) | What's Driving the Spend? | `top_expensive_services` | ~5 min |
-| [Exercise 4](exercises/ex3/ex3.4/) | Service Plan Spike Detection | `service_plans_cost_spikes` | ~5 min |
-| [Exercise 5](exercises/ex3/ex3.5/) | Prepaid Quota — Are We Wasting Money? | `service_plans_utilization` | ~5 min |
-| [Exercise 6](exercises/ex3/ex3.6/) | The Top 5 Cost Offenders | `top_costly_subaccounts` | ~5 min |
+| [Exercise 3.1](exercises/ex3/ex3.1/) | Q3 Cost Summary — The Big Picture | `quarterly_cost_summary` | ~5 min |
+| [Exercise 3.2](exercises/ex3/ex3.2/) | Which Subaccounts Spiked? | `subaccounts_cost_spikes` | ~5 min |
+| [Exercise 3.3](exercises/ex3/ex3.3/) | What's Driving the Spend? | `top_expensive_services` | ~5 min |
+| [Exercise 3.4](exercises/ex3/ex3.4/) | Service Plan Spike Detection | `service_plans_cost_spikes` | ~5 min |
+| [Exercise 3.5](exercises/ex3/ex3.5/) | Prepaid Quota — Are We Wasting Money? | `service_plans_utilization` | ~5 min |
+| [Exercise 3.6](exercises/ex3/ex3.6/) | The Top 5 Cost Offenders | `top_costly_subaccounts` | ~5 min |
 
 ---
 

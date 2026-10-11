@@ -48,14 +48,14 @@ This will open the **BTP Cockpit** with the APEX Holdings mock data.
 
 ## Session Structure
 
-| Part | Topic | Duration |
+| Exercise | Topic | Duration |
 |------|-------|----------|
-| [**Part 1**](../ex1/) | Cost Visibility and Control | ~55 min |
-| [**Part 2**](../ex2/) | Advanced Cost Allocation | ~35 min |
-| [**Part 3**](../ex3/) | Ask Joule | ~30 min |
+| [**Exercise 1**](../ex1/) | Cost Visibility and Control | ~55 min |
+| [**Exercise 2**](../ex2/) | Advanced Cost Allocation | ~35 min |
+| [**Exercise 3**](../ex3/) | Ask Joule | ~30 min |
 
 Optional exercises are marked clearly — complete them if time allows, or revisit them later on your own account.
 
 ---
 
-[Continue to: Cost Visibility and Control — Exercise 1, Cost and Usage Overview →](../ex1/ex1.1/)
+[Continue to: Exercise 1.1 — Cost and Usage Overview →](../ex1/ex1.1/)

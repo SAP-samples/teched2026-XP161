@@ -54,4 +54,4 @@
 
 ---
 
-[← Previous: Exercise 1 - Cost and Usage Overview](../ex1.1/) | [Continue to: Exercise 3 - Monitoring Costs →](../ex1.3/)
+[← Exercise 1.1 — Cost and Usage Overview](../ex1.1/) | [Continue to: Exercise 1.3 — Monitoring Costs →](../ex1.3/)

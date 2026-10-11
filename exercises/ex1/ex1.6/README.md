@@ -61,4 +61,4 @@ In this section you will identify cost and utilization optimizations for the Ape
 
 ---
 
-[← Previous: Exercise 5 - Controlling Costs Using Budgets](../ex1.5/) | [Continue to: Exercise 7 - Export to Excel (Optional) →](../ex1.7/)
+[← Exercise 1.5 — Controlling Costs Using Budgets](../ex1.5/) | [Continue to: Exercise 1.7 — Export to Excel →](../ex1.7/)

@@ -1,4 +1,4 @@
-# Part 2, Exercise 3 — Fixed Cost Allocation (~5 minutes)
+# Exercise 2.3 — Fixed Cost Allocation (~5 minutes)
 
 **Goal:** Allocate a shared resource cost across Apex Holdings cost centers using fixed percentages.
 
@@ -54,4 +54,4 @@ The agreed split is: **CC-100: 40%, CC-200: 35%, CC-300: 25%**.
 
 ---
 
-[← Exercise 2 — Advanced Breakdown](../ex2.2/) | [Continue to: Exercise 4 — Second Label Dimension (Optional) →](../ex2.4/)
+[← Exercise 2.2 — Advanced Breakdown](../ex2.2/) | [Continue to: Exercise 2.4 — Second Label Dimension (Optional) →](../ex2.4/)

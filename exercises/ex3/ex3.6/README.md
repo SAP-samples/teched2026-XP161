@@ -1,4 +1,4 @@
-# Part 3, Exercise 6 — The Top 5 Cost Offenders (~5 minutes)
+# Exercise 3.6 — The Top 5 Cost Offenders (~5 minutes)
 
 **Dana's question:** *"Give me the five subaccounts that spent the most this year. I want names — the ones I should be asking questions about at the board meeting."*
 
@@ -20,8 +20,8 @@ Joule returns the 5 highest-cost subaccounts across APEX Holdings for the curren
 
 | Rank | Subaccount | Subsidiary | Why you recognize it |
 |---|---|---|---|
-| Top 5 | **HR App 4 – TEST** | NexaTech Digital | Exceeded the 40,000 USD monthly budget (Part 1 Ex5); labeled HR Operations in Part 2 |
-| Top 5 | **Sales App 1 – PROD** | Lumina Energy | SAP HANA Cloud spike (Part 1 Ex3); labeled Sales in Part 2 |
+| Top 5 | **HR App 4 – TEST** | NexaTech Digital | Exceeded the 40,000 USD monthly budget (Exercise 1.5); labeled HR Operations in Exercise 2 |
+| Top 5 | **Sales App 1 – PROD** | Lumina Energy | SAP HANA Cloud spike (Exercise 1.3); labeled Sales in Exercise 2 |
 
 Each entry includes: subaccount name, parent directory, total cost for the year, and the primary service plan driving the spend.
 
@@ -29,9 +29,9 @@ Each entry includes: subaccount name, parent directory, total cost for the year,
 
 ## Closing the Loop
 
-This is the final answer in the investigation that started in Part 1.
+This is the final answer in the investigation that started in Exercise 1.
 
-| Part 1 finding | Part 2 allocation | Part 3 confirmation |
+| Exercise 1 finding | Exercise 2 allocation | Exercise 3 confirmation |
 |---|---|---|
 | Sales App 1 – PROD is the HANA spike driver | Labeled as **Sales** (Lumina Energy) | Appears in top 5 by total spend |
 | HR App 4 – TEST breached the 40K budget | Labeled as **HR Operations** (NexaTech Digital) | Appears in top 5 by total spend |
@@ -42,24 +42,24 @@ Dana now has everything she needs:
 - **Who changed:** Spike detection by subaccount and service (Ex2, Ex4)
 - **What costs most:** Top services and subaccounts (Ex3, Ex6)
 - **Where we're over-spending on quota:** Prepaid utilization (Ex5)
-- **Who owns it:** Business line allocation from Part 2
+- **Who owns it:** Business line allocation from Exercise 2
 
 > *"Board meeting ready."*
 
 ---
 
-## Part 3 Summary
+## Exercise 3 Summary
 
 ### 🎯 Key Takeaways
 
 - ✅ Joule answers cost analysis questions in natural language — no dashboard navigation needed
 - ✅ Six scenarios cover: quarterly summary, spike detection (by service and subaccount), top rankings (by service and subaccount), and prepaid quota utilization
 - ✅ Joule's spike detection finds anomalies that manual ranking misses — services not in the top 5 that are accelerating fast
-- ✅ Every Joule answer connects back to what you found in Parts 1 and 2 — it's the same data, faster
+- ✅ Every Joule answer connects back to what you found in Exercises 1 and 2 — it's the same data, faster
 
 ---
 
-[← Exercise 5 — Prepaid Quota](../ex3.5/) | [← Back to Session Overview](../../../README.md)
+[← Exercise 3.5 — Prepaid Quota](../ex3.5/) | [← Back to Session Overview](../../../README.md)
 
 ---
 

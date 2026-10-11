@@ -1,4 +1,4 @@
-# Part 3, Exercise 4 — Service Plan Spike Detection (~5 minutes)
+# Exercise 3.4 — Service Plan Spike Detection (~5 minutes)
 
 **Dana's question:** *"Are there any services that aren't in our top 5 but suddenly started costing us money? I don't want to miss a quiet cost that's about to become a big problem."*
 
@@ -20,8 +20,8 @@ Joule returns the top service plan cost spikes — ranked by the size of the mon
 
 **What to look for:**
 
-- **SAP HANA Cloud - HANA** should confirm the spike you already know about (Sales App 1 – PROD began incurring HANA charges). This cross-validates what you found manually in Part 1.
-- Look for any **additional services** that spiked which weren't visible in your Part 1 investigation — services that don't appear in the top 5 by total spend but had a sudden increase.
+- **SAP HANA Cloud - HANA** should confirm the spike you already know about (Sales App 1 – PROD began incurring HANA charges). This cross-validates what you found manually in Exercise 1.
+- Look for any **additional services** that spiked which weren't visible in your Exercise 1 investigation — services that don't appear in the top 5 by total spend but had a sudden increase.
 
 Each spike entry includes: service plan name, the month of the spike, cost before and after, and the absolute and percentage increase.
 
@@ -44,4 +44,4 @@ Running both gives a complete picture: the established cost drivers AND the emer
 
 ---
 
-[← Exercise 3 — Top Services](../ex3.3/) | [Continue to: Exercise 5 — Prepaid Quota →](../ex3.5/)
+[← Exercise 3.3 — Top Services](../ex3.3/) | [Continue to: Exercise 3.5 — Prepaid Quota →](../ex3.5/)

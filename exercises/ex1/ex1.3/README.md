@@ -81,4 +81,4 @@ In this section you will monitor costs and resource consumption by comparing ser
 
 ---
 
-[← Previous: Exercise 2 - Billing Verification](../ex1.2/) | [Continue to: Exercise 4 - Cross Charge / Cost Allocation (Optional) →](../ex1.4/)
+[← Exercise 1.2 — Billing Verification](../ex1.2/) | [Continue to: Exercise 1.4 — Cross Charge / Cost Allocation →](../ex1.4/)
