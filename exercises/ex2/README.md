@@ -6,13 +6,13 @@ You delivered the Exercise 1 findings. Dana is back.
 
 > *"Good work. Now I need the next level. Subaccount names mean nothing to my board — I need cost center attribution. Lumina, NexaTech, Crestline. And that shared SAC instance you found sitting under NexaTech? That's used by all three divisions. Split it. CC-100 gets 40%, CC-200 35%, CC-300 25%."*
 
-## Where Exercise 1 Left Off
+## Where Exercise 2 Takes You Further
 
-Exercise 1's tools are comprehensive — but they hit three ceilings:
+Exercise 1 gave you the full cost picture. Exercise 2 goes deeper in three areas where more precision is possible:
 
-- **Visibility stops at the subaccount.** You traced the HANA spike to Sales App 1 – PROD, but couldn't see which service instance inside it is the actual driver.
-- **Labels are assigned one by one.** Tagging all 40+ NexaTech Digital subaccounts requires individual updates — and deleted subaccounts take their label history with them.
-- **Shared resource costs can't be split.** No mechanism exists to distribute a shared service cost across multiple business units.
+- **Instance-level visibility.** You traced the HANA spike to Sales App 1 – PROD. Now drill to the specific service instance driving the cost.
+- **Scalable label assignment.** Assign a label at the directory level and have all subaccounts beneath it inherit it automatically — including future ones.
+- **Shared resource cost splitting.** Distribute a shared service cost across multiple business units using fixed percentages.
 
 ---
 
