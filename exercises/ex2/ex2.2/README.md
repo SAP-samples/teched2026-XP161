@@ -118,12 +118,20 @@ Sales App 1 – PROD inherits **CC-100** from Lumina Energy. Inside it, three SA
 **How are Lumina Energy's costs now distributed across cost centers?**
 
 <details>
+<summary>Hint</summary>
+
+Select the **Lumina Energy** row in the main table — the donut chart in the details pane shows the cost distribution across cost centers.
+
+</details>
+
+<details>
 <summary>Answer</summary>
 
-The costs are split across three cost centers:
-- **CC-100** — $X (all Lumina Energy entities except the two overridden instances)
-- **CC-200** — $Y (instance `cce2dd07-0931-4355-95c8-aa037a88f83c`)
-- **CC-300** — $Z (instance `30eeba60-2008-4dc9-bf2b-9db1f358e8a4`)
+| Cost Center | Amount |
+|---|---|
+| CC-100 | 129,808.45 USD |
+| CC-200 | 6,592.45 USD |
+| CC-300 | 3,956.15 USD |
 
 </details>
 
