@@ -42,7 +42,7 @@ Drill down: **Lumina Energy → PROD → Sales App 1 – PROD → sales_app_1_pr
 <details>
 <summary>Answer</summary>
 
-Yes — SAP HANA Cloud costs are visible at the instance level. In this case, a single instance in the subaccount is responsible for the spike, with a cost of **26,371.50 USD**.
+Yes — SAP HANA Cloud costs are visible at the instance level. There are 3 instances in the subaccount. The one contributing most to the spike is instance `7ba838b5-0328-4145-a27f-bed7a6dc8a8b`, with a cost of **15,822.90 USD** last month.
 
 </details>
 
