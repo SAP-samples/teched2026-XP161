@@ -28,7 +28,7 @@ APEX Holdings structure:
 
 1. **Open the following link** in a browser. It contains a special parameter that provides access to the APEX Holdings SAP BTP account with mock data:
 
-   <https://emea.cockpit.btp.cloud.sap/cockpit/?idp=ainfvn15r.accounts.ondemand.com&teched-finops-2026=true#>
+   <https://emea.cockpit.btp.cloud.sap/cockpit/?idp=tdct3ched1.accounts.ondemand.com&teched-finops-2026=true#>
 
 2. Enter the user name `XP161-XXX@education.cloud.sap`, where `XXX` is the number of your workshop place.  
    For example: `XP161-042@education.cloud.sap`
