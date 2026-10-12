@@ -32,27 +32,28 @@ APEX Holdings uses four regions: **EMEA**, **AMER**, **APJ**, and **Global** (fo
 
 ## Observe the Two Dimensions Side by Side
 
-1. Confirm **Group By → Account → All Account Entities** and **Cost Label → Region**. Sales App 1 – PROD shows **AMER**; HR App 4 – TEST shows **APJ**. Cost center is not visible here.
-2. Switch **Cost Label** to **"Cost Center"** — the same entities now show CC-100 and CC-200. Neither dimension overwrites the other.
-3. Switch **Cost Label** back to **"Region"**.
+1. Switch **Cost Label** to **"Cost Center"** — the same entities now show CC-100 and CC-200. Neither dimension overwrites the other.
+2. Switch **Cost Label** back to **"Region"**.
 
 ## Cross-Dimensional Reporting
 
-1. Filter by **Cost Center → CC-100**. The table shows only Lumina Energy's workloads.
+1. Switch **Group By → Cost Labels → All Cost Labels** and **Cost Label → Region** to see total BTP cost per region across all of APEX Holdings.
 
-   **What is the total cost for AMER workloads within CC-100?**
+**What is the total cost for AMER workloads within CC-100?**
 
-   <details>
-   <summary>Answer</summary>
+<details>
+<summary>Hint</summary>
 
-   **27,702.73 USD** — attributed to **Sales App 1 – PROD**, driven by the SAP HANA Cloud instance from Exercise 1.
+Keep **View → Cost Label: Region** and filter by **Cost Label → Cost Center → CC-100**.
 
-   > [!WARNING]
-   > **TODO (author):** Verify this figure after the HANA instance data is finalized in APEX.
+</details>
 
-   </details>
+<details>
+<summary>Answer</summary>
 
-2. Clear the filter. Switch **Group By → Cost Labels → All Cost Labels** and **Cost Label → Region** to see total BTP cost per region across all of APEX Holdings.
+**17,154.13 USD**
+
+</details>
 
 > [!TIP]
 > The two label dimensions answer different questions from the same data. Cost Center answers: *"Which business unit do we charge?"* Region answers: *"Which geography drove the spend?"* Filtering by one while viewing the other makes cross-dimensional reporting possible without modifying the account structure or duplicating any data.
