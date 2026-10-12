@@ -159,7 +159,7 @@ Yes — even without calculating quarterly totals, the bar charts make it visibl
 <details>
 <summary>Answer</summary>
 
-**SAP HANA Cloud - HANA** is the top cost driver for the last 12 months, responsible for **23.5%** of APEX Holdings' overall BTP costs.
+**SAP HANA Cloud - HANA** is the top cost driver for the last 12 months, responsible for **22.2%** of APEX Holdings' overall BTP costs.
 
 </details>
 
