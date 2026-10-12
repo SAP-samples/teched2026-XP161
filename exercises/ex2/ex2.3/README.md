@@ -32,6 +32,26 @@ The agreed split is: **CC-100: 40%, CC-200: 35%, CC-300: 25%**.
 - The **donut chart** in the details pane header visualizes the distribution across cost centers at a glance.
 - In the details pane, the cost breakdown reflects the percentage allocation.
 
+**What is the SAC instance cost per cost center after the split?**
+
+<details>
+<summary>Hint</summary>
+
+Click on the donut chart in the details pane header, or view the instance row directly in the main table.
+
+</details>
+
+<details>
+<summary>Answer</summary>
+
+| Cost Center | Amount |
+|---|---|
+| CC-100 | 1,349.06 USD |
+| CC-200 | 1,541.78 USD |
+| CC-300 | 963.62 USD |
+
+</details>
+
 ## Step 3.3 — View the Full Cost Center Distribution
 
 1. In **Group By**, select **Cost Labels → All Cost Labels**. The table now shows the full APEX Holdings cost distribution by Cost Center — combining the subsidiary assignments, instance-level overrides from Exercise 2.2, and the fixed allocation from this exercise.
