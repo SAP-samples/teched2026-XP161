@@ -13,7 +13,7 @@ APEX Holdings structure:
 - **Labels** on every subaccount: Region, Department, Cost Center, Contact Person, Environment
 - A **hybrid commercial model:** subscription-based prepaid quotas for specific services + CPEA cloud credits for consumption
 
-![1791825800056](image/README/1791825800056.png)
+<img src="image/README/1791825800056.png" style="border: 1px solid #d0d7de;" />
 
 ---
 
