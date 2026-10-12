@@ -57,18 +57,6 @@ Click on the donut chart in the details pane header, or view the instance row di
 1. In **Group By**, select **Cost Labels → All Cost Labels**. The table now shows the full APEX Holdings cost distribution by Cost Center — combining the subsidiary assignments, instance-level overrides from Exercise 2.2, and the fixed allocation from this exercise.
 2. Switch **Group By** back to **Account → All Account Entities**, scroll to the bottom, and expand the **Cost Breakdown** chart to see which cost center carries the largest share over the last 12 months.
 
-**Question:** Which cost center has the highest total allocated cost across APEX Holdings?
-
-<details>
-<summary>Expected answer</summary>
-
-**CC-100** — it receives the largest cost block from the APEX Holdings hierarchy plus 40% of the shared SAC allocation, giving it the highest total.
-
-> [!WARNING]
-> **TODO (author):** Verify this answer and the cost figures after the HANA instance data is finalized in APEX.
-
-</details>
-
 > [!TIP]
 > This view gives the APEX Holdings CFO a single table showing SAP BTP cost responsibility by cost center — directly actionable for internal charge-back and budget planning. A resource hosted in one subsidiary can be charged to multiple cost centers without moving it or restructuring the account.
 
