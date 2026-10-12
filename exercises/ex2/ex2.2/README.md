@@ -30,12 +30,19 @@ Assignments are made at the subsidiary (directory) level, and all child subaccou
 1. In **Group By**, select **Account → All Account Entities**.
 2. The table now shows the full hierarchy down to **Cloud Foundry Space** and **Service Instance**.
 
-**In Exercise 1.3 you traced the cost spike to Sales App 1 – PROD but couldn't go deeper. Expand it now — which Cloud Foundry space and service instance is responsible?**
+**Can you view the costs of the HANA instances contributing to the Sales App 1 – PROD cost spike?**
+
+<details>
+<summary>Hint</summary>
+
+Drill down: **Lumina Energy → PROD → Sales App 1 – PROD → sales_app_1_prod_space_1**
+
+</details>
 
 <details>
 <summary>Answer</summary>
 
-Expand **Lumina Energy → PROD → Sales App 1 – PROD** to see its Cloud Foundry spaces and service instances, including the SAP HANA Cloud instance that caused the spike.
+Yes — SAP HANA Cloud costs are visible at the instance level. In this case, a single instance in the subaccount is responsible for the spike, with a cost of **26,371.50 USD**.
 
 </details>
 
