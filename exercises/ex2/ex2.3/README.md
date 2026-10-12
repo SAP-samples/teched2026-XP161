@@ -9,7 +9,7 @@ The agreed split is: **CC-100: 40%, CC-200: 35%, CC-300: 25%**.
 > [!NOTE]
 > Fixed distribution is useful when a shared resource's actual per-team consumption is difficult to measure directly. You define a percentage split based on agreed-upon estimates rather than tracking real-time per-team usage.
 
-## Step 3.1 — Find the SAP Analytics Cloud Instance
+## Find the SAP Analytics Cloud Instance
 
 1. In **Group By**, confirm **Account → All Account Entities** is selected.
 2. Expand **NexaTech Digital → PROD → HR App 3 – PROD**.
@@ -17,7 +17,7 @@ The agreed split is: **CC-100: 40%, CC-200: 35%, CC-300: 25%**.
 4. Inside the space, expand **SAP Analytics Cloud, embedded edition** and click on the **Standard (Time)** instance (`d3a35e06-824a-487b-bd9c-68372aca49fb`).
 5. The details pane opens, showing 100% of the SAC cost currently attributed to CC-200 (NexaTech Digital, inherited).
 
-## Step 3.2 — Apply the Fixed Percentage Split
+## Apply the Fixed Percentage Split
 
 1. In the **Cost Label Values** multi-select, select all 3 Cost Center values — a **Distribution %** column appears for each.
 2. Enter the Apex Holdings agreed split:
@@ -52,7 +52,7 @@ Click on the donut chart in the details pane header, or view the instance row di
 
 </details>
 
-## Step 3.3 — View the Full Cost Center Distribution
+## View the Full Cost Center Distribution
 
 1. In **Group By**, select **Cost Labels → All Cost Labels**. The table now shows the full APEX Holdings cost distribution by Cost Center — combining the subsidiary assignments, instance-level overrides from Exercise 2.2, and the fixed allocation from this exercise.
 2. Switch **Group By** back to **Account → All Account Entities**, scroll to the bottom, and expand the **Cost Breakdown** chart to see which cost center carries the largest share over the last 12 months.

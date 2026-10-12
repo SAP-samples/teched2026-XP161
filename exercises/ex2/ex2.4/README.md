@@ -14,7 +14,7 @@ APEX Holdings uses four regions: **EMEA**, **AMER**, **APJ**, and **Global** (fo
 - **Sales App 1 – PROD** (Lumina Energy) serves the **AMER** market
 - **HR App 4 – TEST** (NexaTech Digital) serves the **APJ** region
 
-## Step 4.1 — Create the Region Label
+## Create the Region Label
 
 1. In **Group By**, confirm **Cost Labels → All Cost Labels** is selected.
 2. Click **Manage Cost Labels → Add Cost Label Key**.
@@ -24,7 +24,7 @@ APEX Holdings uses four regions: **EMEA**, **AMER**, **APJ**, and **Global** (fo
 
 **Expected result:** Your second label "Region" with 4 values is ready alongside "Cost Center".
 
-## Step 4.2 — Assign Regions to Known Workloads
+## Assign Regions to Known Workloads
 
 1. Switch to **Account → All Account Entities** in **Group By**.
 2. In the left sidebar under **View**, set **Cost Label** to **"Region"**.
@@ -32,13 +32,13 @@ APEX Holdings uses four regions: **EMEA**, **AMER**, **APJ**, and **Global** (fo
    - Navigate to **Sales App 1 – PROD** (Lumina Energy → PROD) → Edit → assign **AMER** → Save
    - Navigate to **HR App 4 – TEST** (NexaTech Digital → TEST) → Edit → assign **APJ** → Save
 
-## Step 4.2.1 — Observe the Two Dimensions Side by Side
+## Observe the Two Dimensions Side by Side
 
 1. Confirm **Group By → Account → All Account Entities** and **Cost Label → Region**. Sales App 1 – PROD shows **AMER**; HR App 4 – TEST shows **APJ**. Cost center is not visible here.
 2. Switch **Cost Label** to **"Cost Center"** — the same entities now show CC-100 and CC-200. Neither dimension overwrites the other.
 3. Switch **Cost Label** back to **"Region"**.
 
-## Step 4.3 — Cross-Dimensional Reporting
+## Cross-Dimensional Reporting
 
 1. Filter by **Cost Center → CC-100**. The table shows only Lumina Energy's workloads.
 

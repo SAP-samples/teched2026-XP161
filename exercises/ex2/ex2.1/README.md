@@ -2,7 +2,7 @@
 
 **Goal:** Orient yourself in the TechEd Preview tab and confirm it shows the same APEX Holdings cost data you worked with in Exercise 1.
 
-## Steps
+## Orientation
 
 1. Navigate to **Costs and Usage** and click the **"TechEd Preview"** tab — it appears alongside the standard tabs (Billing, Usage, Budgets, Overview).
 2. In the left sidebar, confirm **"Basic"** is selected (pre-selected by default).

@@ -12,7 +12,7 @@ Atlas Industries and HarborCare Health are left unassigned — the same assignme
 
 Assignments are made at the subsidiary (directory) level, and all child subaccounts inherit automatically.
 
-## Step 2.1 — Switch to Advanced View and Create the Cost Center Label
+## Switch to Advanced View and Create the Cost Center Label
 
 1. In the left sidebar, click **"Advanced"**.
 2. In the **Group By** dropdown, confirm **Cost Labels → All Cost Labels** is selected.
@@ -25,7 +25,7 @@ Assignments are made at the subsidiary (directory) level, and all child subaccou
 
 **Expected result:** Your "Cost Center" label with values CC-100, CC-200, and CC-300 is ready.
 
-## Step 2.2 — Explore the Granular Cost Breakdown
+## Explore the Granular Cost Breakdown
 
 1. In **Group By**, select **Account → All Account Entities**.
 2. The table now shows the full hierarchy down to **Cloud Foundry Space** and **Service Instance**.
@@ -49,7 +49,7 @@ Yes — SAP HANA Cloud costs are visible at the instance level. There are 3 inst
 > [!NOTE]
 > Cost breakdown to space or instance level is optional and may not be supported for all services.
 
-## Step 2.3 — Assign Cost Centers to Subsidiaries
+## Assign Cost Centers to Subsidiaries
 
 > [!TIP]
 > **Exercise 1 ceiling you're crossing here:** One directory-level assignment cascades to all 40+ child subaccounts instantly — no individual updates. And if a subaccount is later deleted, the label assignment survives.
@@ -104,7 +104,7 @@ Atlas Industries and HarborCare Health account for the unassigned portion.
 
 </details>
 
-## Step 2.4 — Label Inheritance and Override at Instance Level
+## Label Inheritance and Override at Instance Level
 
 Sales App 1 – PROD inherits **CC-100** from Lumina Energy. Inside it, three SAP HANA Cloud instances share the same space — but each is used by a different team. Two of them should be attributed to different cost centers.
 

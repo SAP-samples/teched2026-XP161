@@ -7,7 +7,7 @@
 
 **Scenario:** APEX Holdings finance team needs the monthly BTP cost breakdown in Excel. The Advanced View export generates a structured workbook that includes both the instance-level cost report (with cost center columns) and all label assignments across every dimension.
 
-## Step 5.1 — Configure Export Settings
+## Configure Export Settings
 
 Click **Export** in the top-right toolbar and select **Advanced View** from the dropdown menu.
 
@@ -21,7 +21,7 @@ In the export dialog:
 
 4. Click **Export** and open the downloaded file.
 
-## Step 5.2 — Explore the Exported Workbook
+## Explore the Exported Workbook
 
 **Instance Cost by Service sheet:**
 
