@@ -23,20 +23,20 @@
 > The Balance Statement is the starting point for monthly cost verification. Screenshots from the previous month's balance statement are provided below for comparison.
 
 **Screenshot #1: Balance Statement — Total Consumption Section**
-![1789981466228](images/1 1.png)
+![Balance Statement — Total Consumption Section](images/balance_statement_total_consumption.png)
 
 1. The default view is **Billing → View by Service**, sorted automatically by Product (SKU) — matching the balance statement order.
 2. Select **"Show only services with charged usage"** to filter out services with zero cost. Compare what disappears with what the balance statement shows.
 3. Compare the **Usage**, **Prepaid Quota**, and **Charged Usage** columns for the first three services against screenshot #1. If unsure what a column means, click its ⓘ icon.
 
 **Screenshot #2: Balance Statement — Cloud Platform Enterprise Agreement Section**
-![1789981673344](images/2 1.png)
+![Balance Statement — CPEA Section](images/balance_statement_cpea_section.png)
 
 4. Compare the **List Price** column for the first three services against screenshot #2.
 5. Notice that the BTP Cockpit aggregates both balance statement sections into a single view, enabling drill-down per service.
 
 **Screenshot #3: Balance Statement — Cloud Credits and Payment Summary**
-![1789981762239](images/3 3.png)
+![Balance Statement — Cloud Credits and Payment Summary](images/balance_statement_cloud_credits_payment_summary.png)
 
 6. Cloud credit details are available in the **Overview tab** — refer to the **Cloud Platform Enterprise Agreement** card you explored in Exercise 1.1 to verify consumed and remaining cloud credits against the balance statement.
 7. In screenshot #3 (section 3.B), the balance statement shows **remaining cloud credits**. Confirm this matches what you saw in the CPEA card on the Overview tab.
