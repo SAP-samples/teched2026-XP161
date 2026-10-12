@@ -33,7 +33,7 @@ The same APEX Holdings data, through a more capable lens.
 > [!IMPORTANT]
 > **Before starting Exercise 2**, open the following link. It activates both the Apex Holdings demo account and the **"TechEd Preview"** tab:
 >
-> <https://emea.cockpit.btp.cloud.sap/cockpit/?idp=ainfvn15r.accounts.ondemand.com&teched-finops-2026-preview=true#>
+> <https://emea.cockpit.btp.cloud.sap/cockpit/?idp=tdct3ched1.accounts.ondemand.com&teched-finops-2026-preview=true#>
 >
 > Log in with the same user and password you used in Exercise 1.
 
