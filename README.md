@@ -28,17 +28,17 @@ The overall account structure mirrors a real-world organization with production,
 
 *Investigate the Q3 bill using today's tools.*
 
-You find the cost spike (SAP HANA Cloud in Sales App 1 – PROD), the budget breach (HR App 4 – TEST over 40,000 USD), and the optimization opportunity (Cloud Foundry Runtime overage). You have the investigation covered — but Dana's next question is "which business line owns these costs?" and that's where the current tools hit their limits.
+You find the cost spike, the budget breach, and the optimization opportunity, You have the investigation covered — but Dana's next question is "which business line owns these costs?" and that's where the current tools hit their limits.
 
-| Exercise | Title | Duration | Type |
-|----------|-------|----------|------|
-| [Exercise 1.1](exercises/ex1/ex1.1/) | Cost and Usage Overview | ~10 min | **Core** |
-| [Exercise 1.2](exercises/ex1/ex1.2/) | Billing Verification | ~10 min | **Core** |
-| [Exercise 1.3](exercises/ex1/ex1.3/) | Monitoring Costs — Finding the Spike | ~7 min | **Core** |
-| [Exercise 1.4](exercises/ex1/ex1.4/) | Cross Charge / Cost Allocation | ~10 min | Optional |
-| [Exercise 1.5](exercises/ex1/ex1.5/) | Controlling Costs Using Budgets | ~10 min | **Core** |
-| [Exercise 1.6](exercises/ex1/ex1.6/) | Optimization | ~7 min | **Core** |
-| [Exercise 1.7](exercises/ex1/ex1.7/) | Export to Excel | ~10 min | Optional |
+| Exercise                            | Title                                 | Type           |
+| ----------------------------------- | ------------------------------------- | -------------- |
+| [Exercise 1.1](exercises/ex1/ex1.1/) | Cost and Usage Overview               | **Core** |
+| [Exercise 1.2](exercises/ex1/ex1.2/) | Billing Verification                  | **Core** |
+| [Exercise 1.3](exercises/ex1/ex1.3/) | Monitoring Costs — Finding the Spike | **Core** |
+| [Exercise 1.4](exercises/ex1/ex1.4/) | Cross Charge / Cost Allocation        | Optional       |
+| [Exercise 1.5](exercises/ex1/ex1.5/) | Controlling Costs Using Budgets       | **Core** |
+| [Exercise 1.6](exercises/ex1/ex1.6/) | Optimization                          | **Core** |
+| [Exercise 1.7](exercises/ex1/ex1.7/) | Export to Excel                       | Optional       |
 
 ### [Exercise 2 — Advanced Cost Allocation](exercises/ex2/) (~35 min)
 
@@ -46,13 +46,13 @@ You find the cost spike (SAP HANA Cloud in Sales App 1 – PROD), the budget bre
 
 The new Billing Preview answers Dana's business-line question: drill to the SAP HANA Cloud instance inside Sales App 1 – PROD, label all 5 subsidiaries in 3 clicks (200+ subaccounts inherit), and split the shared Cloud Foundry Runtime cost 60/25/15 across Sales, Finance, and HR Operations.
 
-| Exercise | Title | Duration | Type |
-|----------|-------|----------|------|
-| [Exercise 2.1](exercises/ex2/ex2.1/) | Basic View — Same Data, New Interface | ~4 min | **Core** |
-| [Exercise 2.2](exercises/ex2/ex2.2/) | Granular Breakdown & Business Line Assignment | ~8 min | **Core** |
-| [Exercise 2.3](exercises/ex2/ex2.3/) | Fixed Cost Allocation for Shared Resources | ~5 min | **Core** |
-| [Exercise 2.4](exercises/ex2/ex2.4/) | Multi-Dimensional Cost Ownership | ~5 min | Optional |
-| [Exercise 2.5](exercises/ex2/ex2.5/) | Export to Excel | ~3 min | Optional |
+| Exercise                            | Title                                         | Type           |
+| ----------------------------------- | --------------------------------------------- | -------------- |
+| [Exercise 2.1](exercises/ex2/ex2.1/) | Basic View — Same Data, New Interface        | **Core** |
+| [Exercise 2.2](exercises/ex2/ex2.2/) | Granular Breakdown & Business Line Assignment | **Core** |
+| [Exercise 2.3](exercises/ex2/ex2.3/) | Fixed Cost Allocation for Shared Resources    | **Core** |
+| [Exercise 2.4](exercises/ex2/ex2.4/) | Multi-Dimensional Cost Ownership              | Optional       |
+| [Exercise 2.5](exercises/ex2/ex2.5/) | Export to Excel                               | Optional       |
 
 ### [Exercise 3 — Ask Joule](exercises/ex3/) (~30 min)
 
@@ -60,14 +60,14 @@ The new Billing Preview answers Dana's business-line question: drill to the SAP 
 
 Dana has the allocation report. Now she has questions. Each one would take 10–15 minutes of cockpit navigation — or 30 seconds of Joule. Six prompts, six answers, all grounded in APEX Holdings data.
 
-| Exercise | Title | Joule Scenario | Duration |
-|----------|-------|----------------|----------|
-| [Exercise 3.1](exercises/ex3/ex3.1/) | Q3 Cost Summary — The Big Picture | `quarterly_cost_summary` | ~5 min |
-| [Exercise 3.2](exercises/ex3/ex3.2/) | Which Subaccounts Spiked? | `subaccounts_cost_spikes` | ~5 min |
-| [Exercise 3.3](exercises/ex3/ex3.3/) | What's Driving the Spend? | `top_expensive_services` | ~5 min |
-| [Exercise 3.4](exercises/ex3/ex3.4/) | Service Plan Spike Detection | `service_plans_cost_spikes` | ~5 min |
-| [Exercise 3.5](exercises/ex3/ex3.5/) | Prepaid Quota — Are We Wasting Money? | `service_plans_utilization` | ~5 min |
-| [Exercise 3.6](exercises/ex3/ex3.6/) | The Top 5 Cost Offenders | `top_costly_subaccounts` | ~5 min |
+| Exercise                            | Title                                  |
+| ----------------------------------- | -------------------------------------- |
+| [Exercise 3.1](exercises/ex3/ex3.1/) | Q3 Cost Summary — The Big Picture     |
+| [Exercise 3.2](exercises/ex3/ex3.2/) | Which Subaccounts Spiked?              |
+| [Exercise 3.3](exercises/ex3/ex3.3/) | What's Driving the Spend?              |
+| [Exercise 3.4](exercises/ex3/ex3.4/) | Service Plan Spike Detection           |
+| [Exercise 3.5](exercises/ex3/ex3.5/) | Prepaid Quota — Are We Wasting Money? |
+| [Exercise 3.6](exercises/ex3/ex3.6/) | The Top 5 Cost Offenders               |
 
 ---
 
