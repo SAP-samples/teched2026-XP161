@@ -10,7 +10,7 @@
 In this section you will track costs within the Apex Holdings account hierarchy and distribute expenses across the organization using the account structure and **labels** (Contact Person, Cost Center, Department, Environment, Region).
 
 > [!NOTE]
-> This exercise covers cross-charging with today's capabilities. The skills you build here apply directly to your current BTP account. Exercise 2 takes it further — stay tuned.
+> This exercise covers cross-charging with today's capabilities. The skills you build here apply directly to your current BTP account. Exercise 2 gives you a sneak peek at what's coming next — stay tuned.
 
 ![1789400664545](images/account-hierarchy.png)
 
