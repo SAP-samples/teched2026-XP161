@@ -30,7 +30,7 @@ Assignments are made at the subsidiary (directory) level, and all child subaccou
 1. In **Group By**, select **Account → All Account Entities**.
 2. The table now shows the full hierarchy down to **Cloud Foundry Space** and **Service Instance**.
 
-**Can you view the costs of the HANA instances contributing to the Sales App 1 – PROD cost spike?**
+**In Exercise 1.3 you identified Sales App 1 – PROD as the source of the HANA cost spike. Can you now drill deeper to see the exact instance responsible?**
 
 <details>
 <summary>Hint</summary>
