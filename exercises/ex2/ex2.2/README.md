@@ -27,16 +27,20 @@ Assignments are made at the subsidiary (directory) level, and all child subaccou
 
 ## Step 2.2 — Explore the Granular Cost Breakdown
 
-> [!TIP]
-> **Exercise 1 ceiling you're crossing here:** You traced the HANA spike to Sales App 1 – PROD but couldn't go deeper. Expand it now to see exactly which Cloud Foundry space and service instance is responsible.
-
 1. In **Group By**, select **Account → All Account Entities**.
-2. The table now shows the full hierarchy down to **Cloud Foundry Space** and **Service Instance** — two levels not visible in the standard Billing tab.
-3. Expand **Lumina Energy → PROD** to see **Sales App 1 – PROD**. Continue expanding to see its Cloud Foundry spaces and service instances — including the SAP HANA Cloud instance that caused the cost spike in Exercise 1.
-4. Expand **NexaTech Digital → TEST** to see **HR App 4 – TEST**.
+2. The table now shows the full hierarchy down to **Cloud Foundry Space** and **Service Instance**.
+
+**In Exercise 1.3 you traced the cost spike to Sales App 1 – PROD but couldn't go deeper. Expand it now — which Cloud Foundry space and service instance is responsible?**
+
+<details>
+<summary>Answer</summary>
+
+Expand **Lumina Energy → PROD → Sales App 1 – PROD** to see its Cloud Foundry spaces and service instances, including the SAP HANA Cloud instance that caused the spike.
+
+</details>
 
 > [!NOTE]
-> Cost breakdown to the space or instance level is optional and may not be supported for all services.
+> Cost breakdown to space or instance level is optional and may not be supported for all services.
 
 ## Step 2.3 — Assign Cost Centers to Subsidiaries
 
