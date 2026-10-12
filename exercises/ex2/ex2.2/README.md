@@ -95,10 +95,10 @@ In **Group By**, select **Account → All Account Entities** — the cost center
 
 | Cost Center | Amount |
 |---|---|
-| CC-100 | 157,513.07 USD |
-| CC-200 | 200,939.50 USD |
-| CC-300 | 100,924.74 USD |
-| Unassigned | 220,728.75 USD |
+| CC-100 | 159,315.23 USD |
+| CC-200 | 220,904.43 USD |
+| CC-300 | 103,850.26 USD |
+| Unassigned | 225,286.41 USD |
 
 Atlas Industries and HarborCare Health account for the unassigned portion.
 
