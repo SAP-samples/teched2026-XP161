@@ -24,7 +24,7 @@ The overall account structure mirrors a real-world organization with production,
 
 ## Session Structure
 
-### [Exercise 1 — Cost Visibility and Control](exercises/ex1/) (~55 min)
+### [Exercise 1 — Cost Visibility and Control](exercises/ex1/) (~40 min)
 
 *Investigate the Q3 bill using today's tools.*
 
@@ -40,7 +40,7 @@ You find the cost spike, the budget breach, and the optimization opportunity, Yo
 | [Exercise 1.6](exercises/ex1/ex1.6/) | Optimization                          | **Core** |
 | [Exercise 1.7](exercises/ex1/ex1.7/) | Export to Excel                       | Optional       |
 
-### [Exercise 2 — Advanced Cost Allocation](exercises/ex2/) (~35 min)
+### [Exercise 2 — Advanced Cost Allocation](exercises/ex2/) (~30 min)
 
 *Break the three ceilings Part 1 couldn't cross.*
 
@@ -54,7 +54,7 @@ The new Billing Preview answers Dana's business-line question: drill to the SAP 
 | [Exercise 2.4](exercises/ex2/ex2.4/) | Multi-Dimensional Cost Ownership              | Optional       |
 | [Exercise 2.5](exercises/ex2/ex2.5/) | Export to Excel                               | Optional       |
 
-### [Exercise 3 — Ask Joule](exercises/ex3/) (~30 min)
+### [Exercise 3 — Ask Joule](exercises/ex3/) (~20 min)
 
 *Dana's 6 follow-up questions, answered in natural language.*
 
@@ -80,13 +80,17 @@ Dana has the allocation report. Now she has questions. Each one would take 10–
 *Session code: XP161 | TechEd 2026*
 
 ## Contributing
+
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
 
 ## Code of Conduct
+
 Please read the [SAP Open Source Code of Conduct](https://github.com/SAP-samples/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## How to obtain support
+
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
 
 ## License
+
 Copyright (2026) SAP SE or an SAP affiliate company and teched2026-XP161 contributors. Please see our [LICENSE](LICENSE) for copyright and license information. Detailed information including third-party components and their licensing/copyright information is available [via the REUSE tool](https://api.reuse.software/info/github.com/SAP-samples/teched2026-XP161).
