@@ -61,9 +61,6 @@ The **Export to Excel** feature lets you download BTP cost data for the past 12,
 
    </details>
 
-> [!NOTE]
-> The Analyze Data feature uses AI to understand your data and generate insights automatically, saving significant time compared to manually building pivot tables.
-
 ## Summary
 
 ### 🎯 Key Takeaways
