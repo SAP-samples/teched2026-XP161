@@ -10,7 +10,7 @@
 In this section you will track costs within the Apex Holdings account hierarchy and distribute expenses across the organization using the account structure and **labels** (Contact Person, Cost Center, Department, Environment, Region).
 
 > [!NOTE]
-> In this exercise we focus on cross charging using **today's capabilities** — cost breakdown at the subaccount level combined with account labels. In **Exercise 2** of this session you will get a preview of the upcoming release, which introduces a fundamentally more powerful cross-charging model: cost allocation at the service instance level, label inheritance across the hierarchy, and fixed percentage distribution for shared resources.
+> This exercise covers cross-charging with today's capabilities. The skills you build here apply directly to your current BTP account. Exercise 2 takes it further — stay tuned.
 
 ![1789400664545](images/account-hierarchy.png)
 
