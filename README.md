@@ -12,6 +12,16 @@ You are the APEX Holdings FinOps controller. Over the next 120 minutes, you work
 
 ---
 
+## APEX Holdings
+
+Apex Holdings is a sample global enterprise created to simulate SAP BTP FinOps practices. The company operates across diverse industries - such as health, retail, energy, etc. - each represented as Subsidiary with its own BTP directory.
+
+Within each Subsidiary, you'll find departments such as finance, sales, HR, IT, and operations with subaccounts spanning regions like EMEA, North America, APAC, LATAM, and the Middle East (represented as labels). Each Subsidiary manages its own dedicated applications, ranging from payroll and performance reviews in HR to revenue forecasting, logistics, and customer insights.
+
+The overall account structure mirrors a real-world organization with production, test, and development environments (represented as directories) aligned to cost centers and contact persons (represented as labels).
+
+---
+
 ## Session Structure
 
 ### [Exercise 1 — Cost Visibility and Control](exercises/ex1/) (~55 min)
