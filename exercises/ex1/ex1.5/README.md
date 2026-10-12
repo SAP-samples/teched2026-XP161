@@ -68,11 +68,6 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
     *Budgets are evaluated for the current month only. Previous months' exceedances do not carry over. Check the threshold indicators in the Budgets table.*
 
     </details>
-14. Select the budget and click **View in Billing Tab** (via the **…** menu) to see the underlying cost data.
-
-    Below is an example of the budget threshold alert email sent when the 20% threshold is exceeded:
-    ![Budget Alert Email](images/budgetalert.jpg)
-
 > [!TIP]
 > You can also create a **Charged Usage** budget to track actual resource units consumed (e.g., users, GB of storage) rather than their monetary value.
 
