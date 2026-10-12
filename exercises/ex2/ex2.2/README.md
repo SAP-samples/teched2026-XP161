@@ -81,6 +81,29 @@ Last month **Backup Vault** was decommissioned, but its costs are still visible 
 
 **Expected result:** Lumina Energy (CC-100), NexaTech Digital (CC-200), Crestline Retail (CC-300), and Backup Vault (CC-100) are assigned. Atlas Industries and HarborCare Health remain unassigned.
 
+**What are the costs per cost center, and how much remains unassigned?**
+
+<details>
+<summary>Hint</summary>
+
+In **Group By**, select **Account → All Account Entities** — the cost center columns are visible directly in the main table.
+
+</details>
+
+<details>
+<summary>Answer</summary>
+
+| Cost Center | Amount |
+|---|---|
+| CC-100 | 157,513.07 USD |
+| CC-200 | 200,939.50 USD |
+| CC-300 | 100,924.74 USD |
+| Unassigned | 220,728.75 USD |
+
+Atlas Industries and HarborCare Health account for the unassigned portion.
+
+</details>
+
 ## Step 2.4 — Label Inheritance and Override at Instance Level
 
 Sales App 1 – PROD inherits **CC-100** from Lumina Energy. Inside it, three SAP HANA Cloud instances share the same space — but each is used by a different team. Two of them should be attributed to different cost centers.
