@@ -4,8 +4,7 @@
 
 In this section you will identify cost and utilization optimizations for the Apex Holdings global account, focusing on prepaid quota management.
 
-> [!NOTE]
-> Cloud credit forecasting — anticipating when APEX Holdings will exceed its credit balance — was already covered in Exercise 1.1, Card 2. The forecast showed an expected overage starting mid-January 2027.
+BTP offers many optimization opportunities — contract rightsizing, cloud credit management, and more. In this exercise we focus on one of the most impactful: prepaid quota utilization.
 
 ## Optimizing Prepaid Quota Utilization
 
