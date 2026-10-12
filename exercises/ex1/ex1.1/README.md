@@ -82,7 +82,7 @@ This card helps identify both problems at a glance.
 
 2. Click **"View in Billing tab"** to see the breakdown by service plan.
 
-**Look at the Prepaid Quota Used column — which service plan exceeded the prepaid quota last month, and which are under-utilized?**
+**In the table, add the **Prepaid Quota Used** column via table settings if not visible. Which service plan exceeded its quota, and which are under-utilized?**
 
 <details>
 <summary>Answer</summary>
@@ -149,6 +149,7 @@ A cost increase of over 60% in the last month compared to the previous month.
 <summary>Answer</summary>
 
 Yes — even without calculating quarterly totals, the bar charts make it visible: the highest month in Q2 is less costly than the lowest month in Q3, confirming a clear upward shift between the two quarters.
+
 </details>
 
 2. Locate the **Cost Distribution** section. It shows pie charts for service plans and subaccounts based on cumulative costs over the last 12 months.
@@ -159,6 +160,7 @@ Yes — even without calculating quarterly totals, the bar charts make it visibl
 <summary>Answer</summary>
 
 **SAP HANA Cloud - HANA** is the top cost driver for the last 12 months, responsible for **23.5%** of APEX Holdings' overall BTP costs.
+
 </details>
 
 ---
