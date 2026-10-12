@@ -118,13 +118,6 @@ Sales App 1 – PROD inherits **CC-100** from Lumina Energy. Inside it, three SA
 **How are Lumina Energy's costs now distributed across cost centers?**
 
 <details>
-<summary>Hint</summary>
-
-Select the **Lumina Energy** row in the main table — the donut chart in the details pane shows the cost distribution across cost centers.
-
-</details>
-
-<details>
 <summary>Answer</summary>
 
 | Cost Center | Amount |
