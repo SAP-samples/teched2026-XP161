@@ -16,7 +16,7 @@ Open Joule in the BTP Cockpit and ask for Q3, then Q2:
 
 Joule retains context, so ask it to build the comparison for you:
 
-> **"Compare these two results in a table — Q2 vs Q3 — and highlight what changed"**
+> **"Compare the top 5 most expensive service plans in Q2 2026 vs Q3 2026 in a table and highlight what changed"**
 
 **What to look for:** **SAP HANA Cloud - HANA** rises to the top in Q3 — the spike you traced to Sales App 1 – PROD in Exercise 1.3.
 
@@ -30,7 +30,7 @@ Now do the same by subaccount:
 
 > **"What are the top 5 most expensive subaccounts in Q2 2026?"**
 
-> **"Compare these two results in a table — Q2 vs Q3 — and highlight what changed"**
+> **"Compare the top 5 most expensive subaccounts in Q2 2026 vs Q3 2026 in a table and highlight what changed"**
 
 **What to look for:** **Sales App 1 – PROD** (Lumina Energy) and **HR App 4 – TEST** (NexaTech Digital) lead the increase — the same subaccounts behind the HANA spike and the budget breach from Exercise 1.
 
