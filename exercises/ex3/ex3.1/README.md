@@ -2,7 +2,7 @@
 
 **Dana's question:** *"How did our most expensive service plans change from Q2 to Q3?"*
 
-Joule answers one scenario at a time, so you'll ask for each quarter separately, then let Joule build the comparison.
+You'll pull each quarter's most expensive service plans, then let Joule build the comparison for you.
 
 ---
 

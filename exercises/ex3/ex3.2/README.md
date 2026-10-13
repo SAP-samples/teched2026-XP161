@@ -31,7 +31,7 @@ Refine with a follow-up if needed (for example, *"make it more concise"* or *"le
 ### 🎯 Key Takeaways
 
 - ✅ Joule answers cost analysis questions in natural language — no dashboard navigation
-- ✅ Joule works one scenario at a time, so you ask per quarter and let Joule build the comparison
+- ✅ Joule pulls each quarter's figures and builds the comparison for you
 - ✅ Joule retains conversation context, so it can combine prior answers into a single drafted reply
 - ✅ Asking for insights turns raw figures into board-ready recommendations
 - ✅ Every answer traces back to what you found in Exercises 1 and 2 — same data, faster
