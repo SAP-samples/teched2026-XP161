@@ -54,20 +54,16 @@ The new Billing Preview answers Dana's business-line question: drill to the SAP 
 | [Exercise 2.4](exercises/ex2/ex2.4/) | Multi-Dimensional Cost Ownership              | Optional       |
 | [Exercise 2.5](exercises/ex2/ex2.5/) | Export to Excel                               | Optional       |
 
-### [Exercise 3 — Ask Joule](exercises/ex3/) (~20 min)
+### [Exercise 3 — Ask Joule](exercises/ex3/) (~10 min)
 
-*Dana's 6 follow-up questions, answered in natural language.*
+*Dana's board-prep email, answered in natural language.*
 
-Dana has the allocation report. Now she has questions. Each one would take 10–15 minutes of cockpit navigation — or 30 seconds of Joule. Six prompts, six answers, all grounded in APEX Holdings data.
+Dana sends one urgent question before the board meeting. It would take 10–15 minutes of cockpit navigation — or a few sentences to Joule. You answer it, then have Joule draft your reply.
 
 | Exercise                            | Title                                  |
 | ----------------------------------- | -------------------------------------- |
-| [Exercise 3.1](exercises/ex3/ex3.1/) | Q3 Cost Summary — The Big Picture     |
-| [Exercise 3.2](exercises/ex3/ex3.2/) | Which Subaccounts Spiked?              |
-| [Exercise 3.3](exercises/ex3/ex3.3/) | What's Driving the Spend?              |
-| [Exercise 3.4](exercises/ex3/ex3.4/) | Service Plan Spike Detection           |
-| [Exercise 3.5](exercises/ex3/ex3.5/) | Prepaid Quota — Are We Wasting Money? |
-| [Exercise 3.6](exercises/ex3/ex3.6/) | The Top 5 Cost Offenders               |
+| [Exercise 3.1](exercises/ex3/ex3.1/) | Q2 vs Q3 Service Plan Comparison       |
+| [Exercise 3.2](exercises/ex3/ex3.2/) | Draft the Reply to Dana                |
 
 ---
 
