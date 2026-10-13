@@ -62,7 +62,7 @@ Dana sends one urgent question before the board meeting. It would take 10–15 m
 
 | Exercise                            | Title                                  |
 | ----------------------------------- | -------------------------------------- |
-| [Exercise 3.1](exercises/ex3/ex3.1/) | Q2 vs Q3 Cost Driver Comparison        |
+| [Exercise 3.1](exercises/ex3/ex3.1/) | Q2 vs Q3 Service Plan Comparison       |
 | [Exercise 3.2](exercises/ex3/ex3.2/) | Draft the Reply to Dana                |
 
 ---

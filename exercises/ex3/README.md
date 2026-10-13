@@ -11,7 +11,7 @@ You're back at your desk when an email from Dana lands, flagged urgent:
 >
 > *"I'm finalizing the board deck and one thing is still open. I need it today:*
 >
-> *How did our most significant cost drivers change from Q2 to Q3 — both subaccounts and service plans?*
+> *How did our most expensive service plans change from Q2 to Q3?*
 >
 > *You know the cockpit inside out, but I need this fast. — Dana"*
 
@@ -26,7 +26,7 @@ You could answer this by navigating the cockpit — around 15 minutes. Instead, 
 
 | Exercise | Title | Duration |
 |----------|-------|----------|
-| [Exercise 3.1](ex3.1/) | Q2 vs Q3 Cost Driver Comparison | ~5 min |
+| [Exercise 3.1](ex3.1/) | Q2 vs Q3 Service Plan Comparison | ~5 min |
 | [Exercise 3.2](ex3.2/) | Draft the Reply to Dana | ~5 min |
 
 ---

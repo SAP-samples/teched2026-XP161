@@ -8,7 +8,7 @@ You now have the answer. Dana doesn't want a screenshot — she wants one clear 
 
 Joule knows the answer from this conversation, but not what Dana originally asked — so include her request in the prompt:
 
-> **"Draft a short email reply to Dana. Her question was how our most significant cost drivers changed from Q2 to Q3, by subaccount and service plan. Summarize the answer from our conversation, include the Q2 vs Q3 comparison tables for service plans and subaccounts, and add your key insights and recommendations."**
+> **"Draft a short email reply to Dana. Her question was how our most expensive service plans changed from Q2 to Q3. Summarize the answer from our conversation, include the Q2 vs Q3 service plan comparison table, and add your key insights and recommendations."**
 
 ---
 
@@ -19,7 +19,7 @@ Joule composes a reply built from the comparison you ran in Exercise 3.1 — and
 Review the draft:
 
 - Does it answer Dana's question?
-- Are the comparison tables from Exercise 3.1 included and correct?
+- Is the comparison table from Exercise 3.1 included and correct?
 - Do the insights give Dana something actionable for the board — not just data?
 
 Refine with a follow-up if needed (for example, *"make it more concise"* or *"lead with the biggest change"*), then you have a board-ready reply drafted in seconds.
