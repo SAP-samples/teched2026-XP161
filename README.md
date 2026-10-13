@@ -1,5 +1,7 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2026-XP161)](https://api.reuse.software/info/github.com/SAP-samples/teched2026-XP161)
 
+![XP161 Banner](images/banner.jpg)
+
 # SAP TechEd 2026 — XP161: SAP BTP FinOps Hands-On
 
 ## The Story
