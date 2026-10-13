@@ -1,39 +1,45 @@
-# Exercise 3.2 — Which Subaccounts Spiked? (~5 minutes)
+# Exercise 3.2 — Draft the Reply to Dana (~5 minutes)
 
-**Dana's question:** *"I don't just want to know who costs the most. I want to know who suddenly costs more than they used to. Who changed?"*
-
-This is a different question from "top spenders." A subaccount can consistently be expensive without being a problem. A spike — a sudden month-over-month jump — is the signal that something changed and needs attention.
-
-**Joule scenario:** `subaccounts_cost_spikes`
+You now have the answer. Dana doesn't want a screenshot — she wants one clear reply she can act on. Joule retains the context of this conversation, so it can assemble the reply for you.
 
 ---
 
-## What You'll Ask Joule
+## Ask Joule
 
-> **"Which subaccounts had the biggest cost spikes in the last 6 months?"**
+Joule knows the answer from this conversation, but not what Dana originally asked — so include her request in the prompt:
 
----
-
-## What Joule Returns
-
-Joule returns the top subaccount cost spikes — ranked by the size of the month-over-month increase, not by total spend.
-
-**What to look for:**
-
-- **Sales App 1 – PROD** (Lumina Energy) should appear near the top. In Exercise 1.3, you traced this subaccount's cost jump to SAP HANA Cloud - HANA beginning to incur charges. Joule quantifies exactly how large that month-over-month jump was.
-- The spike result includes: subaccount name, the month when the spike occurred, the cost before and after, and the absolute increase.
-
-**Key distinction Joule makes explicit:**
-> HR App 4 – TEST may have higher total costs than Sales App 1 – PROD — but if its costs have been consistently high for months, it does not appear as a spike. A spike requires a *change*, not just a high level.
+> **"Draft a short email reply to Dana. Her question was how our most significant cost drivers changed from Q2 to Q3, by subaccount and service plan. Summarize the answer from our conversation, include the Q2 vs Q3 comparison tables for service plans and subaccounts, and add your key insights and recommendations."**
 
 ---
 
-## What This Adds to the Story
+## What to Look For
 
-In Exercise 1.3, you manually drilled down from service → subaccount to find Sales App 1 – PROD. Joule surfaces it automatically across ALL subaccounts — including ones you never examined — and ranks them by the steepness of the increase. You might find a spike you didn't know to look for.
+Joule composes a reply built from the comparison you ran in Exercise 3.1 — and, because you asked for insights, adds its own observations and recommended next steps rather than just restating the numbers.
 
-> **For Dana:** "The biggest sudden increase was in Sales App 1 – PROD. Here's the month it started and how much it jumped."
+Review the draft:
+
+- Does it answer Dana's question?
+- Are the comparison tables from Exercise 3.1 included and correct?
+- Do the insights give Dana something actionable for the board — not just data?
+
+Refine with a follow-up if needed (for example, *"make it more concise"* or *"lead with the biggest change"*), then you have a board-ready reply drafted in seconds.
 
 ---
 
-[← Exercise 3.1 — Q3 Summary](../ex3.1/) | [Continue to: Exercise 3.3 — What's Driving the Spend? →](../ex3.3/)
+## Exercise 3 Summary
+
+### 🎯 Key Takeaways
+
+- ✅ Joule answers cost analysis questions in natural language — no dashboard navigation
+- ✅ Joule works one scenario at a time, so you ask per quarter and let Joule build the comparison
+- ✅ Joule retains conversation context, so it can combine prior answers into a single drafted reply
+- ✅ Asking for insights turns raw figures into board-ready recommendations
+- ✅ Every answer traces back to what you found in Exercises 1 and 2 — same data, faster
+
+---
+
+[← Exercise 3.1 — Q2 vs Q3 Comparison](../ex3.1/) | [← Back to Session Overview](../../../README.md)
+
+---
+
+**This concludes the SAP TechEd 2026 XP161 FinOps Hands-On session. Thank you for participating!**

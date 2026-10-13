@@ -1,49 +1,43 @@
-# Exercise 3.1 — Q3 Cost Summary: The Big Picture (~5 minutes)
+# Exercise 3.1 — Q2 vs Q3 Cost Driver Comparison (~5 minutes)
 
-**Dana's question:** *"Before I walk into the board meeting, give me the Q3 numbers. Total spend, what drove it, how does it compare to Q2."*
+**Dana's question #1:** *"How did our most significant cost drivers change from Q2 to Q3 — both subaccounts and service plans?"*
 
-**Joule scenario:** `quarterly_cost_summary`
-
----
-
-## What You'll Ask Joule
-
-Open Joule in the BTP Cockpit and type:
-
-> **"Show me the cost summary for Q3"**
-
-Joule may ask you to confirm the year if it's ambiguous. Confirm the current year.
+Joule answers one scenario at a time, so you'll ask for each quarter separately, then build the comparison yourself.
 
 ---
 
-## What Joule Returns
+## Compare Service Plans
 
-Joule returns a structured Q3 summary for APEX Holdings with four sections:
+Open Joule in the BTP Cockpit and ask for Q3, then Q2:
 
-**1. Total Q3 Cost**
-The total list-price spend for the quarter. You will see this is significantly higher than Q2 — confirming the ~25% increase Dana mentioned.
+> **"What are the top 5 most expensive service plans in Q3 2026?"**
 
-**2. Top Service Plans**
-The highest-cost service plans in Q3, ranked by spend. You will recognize:
-- **SAP HANA Cloud - HANA** at the top — the service you traced to Sales App 1 – PROD in Exercise 1.3
-- **SAP Integration Suite, advanced event mesh** — the service driving HR App 4 – TEST's costs
+> **"What are the top 5 most expensive service plans in Q2 2026?"**
 
-**3. Top Subaccounts**
-The highest-cost subaccounts in Q3. You will see:
-- **HR App 4 – TEST** (NexaTech Digital) — the subaccount that exceeded its 40,000 USD budget in Exercise 1.5
-- **Sales App 1 – PROD** (Lumina Energy) — the subaccount with the HANA spike from Exercise 1.3
+Joule retains context, so ask it to build the comparison for you:
 
-**4. Quarter-over-Quarter Comparison**
-Q3 vs. Q2 delta, confirming the acceleration Dana is concerned about.
+> **"Compare these two results in a table — Q2 vs Q3 — and highlight what changed"**
+
+**What to look for:** **SAP HANA Cloud - HANA** rises to the top in Q3 — the spike you traced to Sales App 1 – PROD in Exercise 1.3.
 
 ---
 
-## The Value
+## Compare Subaccounts
 
-In Exercise 1, building this picture required four separate exercises. Joule assembles it in one prompt — same data, zero navigation.
+Now do the same by subaccount:
 
-> **For Dana's board deck:** the Q3 summary Joule just produced is the opening slide.
+> **"What are the top 5 most expensive subaccounts in Q3 2026?"**
+
+> **"What are the top 5 most expensive subaccounts in Q2 2026?"**
+
+> **"Compare these two results in a table — Q2 vs Q3 — and highlight what changed"**
+
+**What to look for:** **Sales App 1 – PROD** (Lumina Energy) and **HR App 4 – TEST** (NexaTech Digital) lead the increase — the same subaccounts behind the HANA spike and the budget breach from Exercise 1.
 
 ---
 
-[← Exercise 3 Overview](../README.md) | [Continue to: Exercise 3.2 — Which Subaccounts Spiked? →](../ex3.2/)
+> **For your reply to Dana:** keep both comparison tables — they go straight into the reply you draft in Exercise 3.2.
+
+---
+
+[← Exercise 3 Overview](../README.md) | [Continue to: Exercise 3.2 — Draft the Reply to Dana →](../ex3.2/)
