@@ -147,6 +147,7 @@ A cost increase of over 60% in the last month compared to the previous month.
 ## Cost Breakdown and Cost Distribution
 
 1. Locate the **Cost Breakdown** section. It shows the top service plans and top subaccounts ranked by cost, each with a monthly bar chart covering the last 12 months.
+2. Click the **expand icon** on a chart to view its full 12-month trend.
 
 **Can you see the overall cost increase trend Dana mentioned?**
 
