@@ -6,7 +6,7 @@ In this section you will monitor costs and resource consumption by comparing ser
 
 ## Investigate the Cost Increase
 
-1. In the **Costs and Usage** header, ensure the **Month** filter is set to **Previous Month**.
+1. Open the **Billing** tab. In its header, make sure the **Month** filter is set to **Previous Month**.
 2. The default view displays **Billing → View by Service**.
 3. Which service plan has the highest cost?
 
