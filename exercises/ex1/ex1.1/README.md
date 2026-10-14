@@ -28,7 +28,7 @@ The **Monthly Cost Summary** card combines current-month metrics with statistica
 
 ## Cloud Platform Enterprise Agreement
 
-Analyzing costs is only half of FinOps. The other half is managing the contract. APEX Holdings runs on a **CPEA (Cloud Platform Enterprise Agreement)** — a cloud credit pool that covers all consumption-based spending. Staying within that pool matters: charges beyond the cloud credit pool are billed at list price, which is higher than the contracted rate — cloud credits are purchased at a discount, so consumption beyond the pool costs more.
+Analyzing costs is only half of FinOps. The other half is managing the contract. APEX Holdings runs on a **CPEA (Cloud Platform Enterprise Agreement)** — a cloud credit pool that covers all consumption-based spending. Staying within that pool matters: charges beyond the cloud credit pool or limit are billed at list price, which is higher than the contracted rate — cloud credits are purchased at a discount, so consumption beyond the limit costs more.
 
 1. Locate the **Cloud Platform Enterprise Agreement** card and review the current cloud credit balance.
 2. Toggle on **"Show Forecast"** to project consumption through the end of the contract.
