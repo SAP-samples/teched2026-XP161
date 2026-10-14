@@ -1,5 +1,7 @@
 # Exercise 1.2 — Billing Verification (approx. 10 minutes)
 
+> [!NOTE]
+> This exercise includes several screenshots. Click any screenshot to open it full size for the detailed numbers.
 
 ## Orientation
 
@@ -21,8 +23,6 @@
 
 > [!NOTE]
 > The Balance Statement is the starting point for monthly cost verification. Screenshots from the previous month's balance statement are provided below for comparison.
->
-> Click any screenshot to open it full size for the detailed numbers.
 
 **Screenshot #1: Balance Statement — Total Consumption Section**
 ![Balance Statement — Total Consumption Section](images/balance_statement_total_consumption.png)
