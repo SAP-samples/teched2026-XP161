@@ -126,14 +126,16 @@ The **Cost and Usage Recommendations** section surfaces insights that help you m
    - Two **cost spike** recommendations — one for unusual service plan costs, one for a subaccount anomaly.
 3. Click **Show more** to expand the full list of recommendations, then find the **4th recommendation** (a cost spike recommendation) and click **"View subaccount costs in Billing tab"**.
 4. In the Billing tab, click on **"Budgeting Hub – TEST"** to select it.
-5. Scroll down to the **cost graph** below the table and set its **View by** to **List Price**.
+5. Scroll down to the **cost graph** below the table.
 
 **Can you understand why the system identified a spike here?**
 
 <details>
 <summary>Answer</summary>
 
-Yes — the last month's cost breaks from the subaccount's historical pattern, rising from **710 USD to 1,153 USD** (a ~62% increase). That sudden deviation from the norm is what the system flags as a spike.
+Yes — the last month's cost breaks from the subaccount's historical pattern, rising from **710 USD to 1,153 USD** (a ~62% increase). The graph breaks the cost down by service plan: the **SAP Build Apps** baseline stays roughly flat, while the spike comes from additional **SAP Build Process Automation** consumption (Advanced User and Standard User) that wasn't present in prior months. That sudden deviation from the norm is what the system flags as a spike.
+
+You can switch the graph's **View By** to **list price** to see the overall monthly cost.
 
 </details>
 
