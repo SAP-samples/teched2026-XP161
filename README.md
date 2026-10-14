@@ -35,7 +35,7 @@ The overall account structure mirrors a real-world organization with production,
 > [!NOTE]
 > **Recommended** exercises cover the complete session. **Optional** exercises go beyond the session scope — complete them if time allows or revisit them on your own account after TechEd.
 
-### [Exercise 1 — Cost Visibility and Control](exercises/ex1/) (~40 min)
+### [Exercise 1 — Cost Visibility and Control](exercises/ex1/) (~65 min)
 
 *Investigate the Q3 cost increase using today's BTP Cockpit tools.*
 
@@ -51,7 +51,7 @@ You find the cost spike, the budget breach, and the optimization opportunity, Yo
 | [Exercise 1.6](exercises/ex1/ex1.6/) | Optimization                          | **Recommended** |
 | [Exercise 1.7](exercises/ex1/ex1.7/) | Export to Excel                       | Optional       |
 
-### [Exercise 2 — Advanced Cost Allocation](exercises/ex2/) (~30 min)
+### [Exercise 2 — Advanced Cost Allocation](exercises/ex2/) (~25 min)
 
 *Break the three ceilings Part 1 couldn't cross.*
 

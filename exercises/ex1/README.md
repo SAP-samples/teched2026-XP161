@@ -1,4 +1,4 @@
-# Exercise 1 — Cost Visibility and Control (~55 minutes)
+# Exercise 1 — Cost Visibility and Control (~65 minutes)
 
 In this part you will explore the production-ready FinOps tools available today in SAP BTP, using the **Apex Holdings** demo account.
 
