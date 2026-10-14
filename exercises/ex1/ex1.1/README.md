@@ -138,7 +138,7 @@ A cost increase of over 60% in the last month compared to the previous month.
 </details>
 
 > [!NOTE]
-> Budgeting Hub – TEST belongs to the **Crestline Retail** subsidiary (Finance department, EMEA region, contact: alex.yamamoto@apex.com). In Exercise 1.4 you will explore how to use labels to track ownership and cross-charge this cost.
+> Budgeting Hub – TEST belongs to the **Crestline Retail** subsidiary (Finance department, EMEA region, contact: alex.yamamoto@apex.com) — you can see these details yourself by clicking the **labels** link on the subaccount. In Exercise 1.4 you will explore how to use labels to track ownership and cross-charge this cost.
 
 6. Return to the **Overview** tab.
 
