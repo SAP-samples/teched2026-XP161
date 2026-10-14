@@ -10,7 +10,7 @@ Dana Mercer, APEX Holdings CFO, walks in before the board meeting:
 
 > *"BTP spend is up 25% this quarter. Before the board meeting I need five things: verify the numbers match our billing statement, find what's driving the increase, identify which subsidiary owns it, tell me whether we have any cost controls in place, and get me a cost center breakdown I can put in a slide."*
 
-You are the APEX Holdings FinOps controller. Over the next 120 minutes, you work through three escalating responses to Dana's demand.
+Over the next 100 minutes, you investigate the cost increase, allocate it to business lines, and get answers fast using Joule — each exercise building on the last.
 
 ---
 
@@ -21,6 +21,12 @@ Apex Holdings is a sample global enterprise created to simulate SAP BTP FinOps p
 Within each Subsidiary, you'll find departments such as finance, sales, HR, IT, and operations with subaccounts spanning regions like EMEA, North America, APAC, LATAM, and the Middle East (represented as labels). Each Subsidiary manages its own dedicated applications, ranging from payroll and performance reviews in HR to revenue forecasting, logistics, and customer insights.
 
 The overall account structure mirrors a real-world organization with production, test, and development environments (represented as directories) aligned to cost centers and contact persons (represented as labels).
+
+---
+
+## Getting Started
+
+→ [Getting Started](exercises/ex0/)
 
 ---
 
@@ -66,12 +72,6 @@ Dana sends one urgent question before the board meeting. It would take 10–15 m
 | ----------------------------------- | -------------------------------------- |
 | [Exercise 3.1](exercises/ex3/ex3.1/) | Q2 vs Q3 Service Plan Comparison       |
 | [Exercise 3.2](exercises/ex3/ex3.2/) | Draft the Reply to Dana                |
-
----
-
-## Getting Started
-
-→ [Getting Started](exercises/ex0/)
 
 ---
 
