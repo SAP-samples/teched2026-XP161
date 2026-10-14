@@ -140,7 +140,7 @@ You can switch the graph's **View By** to **list price** to see the overall mont
 </details>
 
 > [!NOTE]
-> Budgeting Hub – TEST belongs to the **Crestline Retail** subsidiary (Finance department, EMEA region, contact: alex.yamamoto@apex.com) — you can see these details yourself by clicking the **labels** link on the subaccount. In Exercise 1.4 you will explore how to use labels to track ownership and cross-charge this cost.
+> Budgeting Hub – TEST belongs to the **Crestline Retail** subsidiary (Finance department, EMEA region, contact: alex.yamamoto@apex.com) — you can see these details yourself by clicking the **labels** link on the subaccount. If you continue to the optional Exercise 1.4, you'll explore how to use labels to track ownership and cross-charge this cost.
 
 6. Return to the **Overview** tab.
 
