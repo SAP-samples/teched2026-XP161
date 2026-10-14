@@ -167,7 +167,7 @@ Yes — even without calculating quarterly totals, the bar charts make it visibl
 <details>
 <summary>Answer</summary>
 
-**SAP HANA Cloud - HANA** — the **Last 12 Months** donut labels it at **22.2%**, the largest single share of APEX Holdings' total BTP cost.
+**SAP HANA Cloud - HANA** — the **Last 12 Months** donut labels it at **22.2%** (**1,343,123.9 USD**), the largest single share of APEX Holdings' total BTP cost.
 
 </details>
 
