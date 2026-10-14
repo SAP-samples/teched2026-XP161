@@ -126,14 +126,14 @@ The **Cost and Usage Recommendations** section surfaces insights that help you m
    - Two **cost spike** recommendations — one for unusual service plan costs, one for a subaccount anomaly.
 3. Click **Show more** to expand the full list of recommendations, then find the **4th recommendation** (a cost spike recommendation) and click **"View subaccount costs in Billing tab"**.
 4. In the Billing tab, click on **"Budgeting Hub – TEST"** to select it.
-5. Scroll down to the **cost graph** below the table.
+5. Scroll down to the **cost graph** below the table and set its **View by** to **List Price**.
 
-**What is the significant spike in the last month for this subaccount?**
+**Can you understand why the system identified a spike here?**
 
 <details>
 <summary>Answer</summary>
 
-A cost increase of over 60% in the last month compared to the previous month.
+Yes — the last month's cost breaks from the subaccount's historical pattern, rising from **710 USD to 1,153 USD** (a ~62% increase). That sudden deviation from the norm is what the system flags as a spike.
 
 </details>
 
