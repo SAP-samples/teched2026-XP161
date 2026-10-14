@@ -40,12 +40,12 @@ You find the cost spike, the budget breach, and the optimization opportunity, Yo
 
 | Exercise                            | Title                                 | Type           |
 | ----------------------------------- | ------------------------------------- | -------------- |
-| [Exercise 1.1](exercises/ex1/ex1.1/) | Cost and Usage Overview               | **Core** |
-| [Exercise 1.2](exercises/ex1/ex1.2/) | Billing Verification                  | **Core** |
-| [Exercise 1.3](exercises/ex1/ex1.3/) | Monitoring Costs — Finding the Spike | **Core** |
+| [Exercise 1.1](exercises/ex1/ex1.1/) | Cost and Usage Overview               | **Recommended** |
+| [Exercise 1.2](exercises/ex1/ex1.2/) | Billing Verification                  | **Recommended** |
+| [Exercise 1.3](exercises/ex1/ex1.3/) | Monitoring Costs — Finding the Spike | **Recommended** |
 | [Exercise 1.4](exercises/ex1/ex1.4/) | Cross Charge / Cost Allocation        | Optional       |
-| [Exercise 1.5](exercises/ex1/ex1.5/) | Controlling Costs Using Budgets       | **Core** |
-| [Exercise 1.6](exercises/ex1/ex1.6/) | Optimization                          | **Core** |
+| [Exercise 1.5](exercises/ex1/ex1.5/) | Controlling Costs Using Budgets       | **Recommended** |
+| [Exercise 1.6](exercises/ex1/ex1.6/) | Optimization                          | **Recommended** |
 | [Exercise 1.7](exercises/ex1/ex1.7/) | Export to Excel                       | Optional       |
 
 ### [Exercise 2 — Advanced Cost Allocation](exercises/ex2/) (~30 min)
@@ -56,9 +56,9 @@ The new Billing Preview answers Dana's business-line question: drill to the SAP 
 
 | Exercise                            | Title                                         | Type           |
 | ----------------------------------- | --------------------------------------------- | -------------- |
-| [Exercise 2.1](exercises/ex2/ex2.1/) | Basic View — Same Data, New Interface        | **Core** |
-| [Exercise 2.2](exercises/ex2/ex2.2/) | Granular Breakdown & Business Line Assignment | **Core** |
-| [Exercise 2.3](exercises/ex2/ex2.3/) | Fixed Cost Allocation for Shared Resources    | **Core** |
+| [Exercise 2.1](exercises/ex2/ex2.1/) | Basic View — Same Data, New Interface        | **Recommended** |
+| [Exercise 2.2](exercises/ex2/ex2.2/) | Granular Breakdown & Business Line Assignment | **Recommended** |
+| [Exercise 2.3](exercises/ex2/ex2.3/) | Fixed Cost Allocation for Shared Resources    | **Recommended** |
 | [Exercise 2.4](exercises/ex2/ex2.4/) | Multi-Dimensional Cost Ownership              | Optional       |
 | [Exercise 2.5](exercises/ex2/ex2.5/) | Export to Excel                               | Optional       |
 

@@ -3,18 +3,18 @@
 In this part you will explore the production-ready FinOps tools available today in SAP BTP, using the **Apex Holdings** demo account.
 
 > [!NOTE]
-> Exercises marked **Optional** are recommended for participants new to SAP BTP FinOps. If you are already familiar with the basics, you can skip optional exercises and focus on the core ones.
+> Exercises marked **Recommended** form the designed path for this session — complete these to get the full experience. Exercises marked **Optional** are bonus exercises for fast finishers or for revisiting after the session.
 
 ## Exercises
 
 | Exercise | Title | Duration | Type |
 |----------|-------|----------|------|
-| [Exercise 1.1](ex1.1/) | Cost and Usage Overview | ~10 min | **Core** — start here |
-| [Exercise 1.2](ex1.2/) | Billing Verification | ~10 min | **Core** |
-| [Exercise 1.3](ex1.3/) | Monitoring Costs | ~7 min | **Core** |
+| [Exercise 1.1](ex1.1/) | Cost and Usage Overview | ~10 min | **Recommended** — start here |
+| [Exercise 1.2](ex1.2/) | Billing Verification | ~10 min | **Recommended** |
+| [Exercise 1.3](ex1.3/) | Monitoring Costs | ~7 min | **Recommended** |
 | [Exercise 1.4](ex1.4/) | Cross Charge / Cost Allocation | ~10 min | Optional |
-| [Exercise 1.5](ex1.5/) | Controlling Costs Using Budgets | ~10 min | **Core** |
-| [Exercise 1.6](ex1.6/) | Optimization | ~7 min | **Core** |
+| [Exercise 1.5](ex1.5/) | Controlling Costs Using Budgets | ~10 min | **Recommended** |
+| [Exercise 1.6](ex1.6/) | Optimization | ~7 min | **Recommended** |
 | [Exercise 1.7](ex1.7/) | Export to Excel | ~10 min | Optional |
 
 ---
