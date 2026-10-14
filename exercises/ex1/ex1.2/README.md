@@ -6,7 +6,7 @@
 1. You are on the **Overview** tab. Scroll to the **footer** of the page and click the **"Billing Statement Information"** link. This links to SAP for Me where you can download the Balance Statement. For this exercise, screenshots are provided — no SAP for Me login is needed.
 2. Click the hamburger icon ![hamburger menu icon](images/hamburger.png) in the top-left corner to collapse the left pane and expand the viewing area.
 3. Navigate to **Billing → View by Service**.
-4. Clear all filters and set the month to **Previous Month**.
+4. Make sure all filters are cleared and the **Month** is set to **Previous Month**.
 
 > [!NOTE]
 > The **Billing** tab displays and analyzes monthly charges for all billable services consumed over the last 12 months. Two perspectives are available:
