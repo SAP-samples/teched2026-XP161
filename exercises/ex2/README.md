@@ -1,4 +1,4 @@
-# Exercise 2 — Advanced Cost Allocation (~25 minutes)
+# Exercise 2 — Advanced Cost Allocation (~25 minutes) ![Preview](https://img.shields.io/badge/Preview-blue)
 
 ## Dana's Follow-Up
 
