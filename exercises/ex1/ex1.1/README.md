@@ -133,7 +133,7 @@ The **Cost and Usage Recommendations** section surfaces insights that help you m
 <details>
 <summary>Answer</summary>
 
-Yes — the last month's cost breaks from the subaccount's historical pattern, rising from **710 USD to 1,153 USD** (a ~62% increase). The graph breaks the cost down by service plan: the **SAP Build Apps** baseline stays roughly flat, while the spike comes from additional **SAP Build Process Automation** consumption (Advanced User and Standard User) that wasn't present in prior months. That sudden deviation from the norm is what the system flags as a spike.
+Yes — last month's cost jumps from **710 USD to 1,153 USD** (a ~62% increase), well above the subaccount's historical pattern. The **SAP Build Apps** baseline stays flat; the spike is new **SAP Build Process Automation** usage (Advanced and Standard User) not seen in prior months. That sudden deviation is what the system flags.
 
 You can switch the graph's **View By** to **list price** to see the overall monthly cost.
 
