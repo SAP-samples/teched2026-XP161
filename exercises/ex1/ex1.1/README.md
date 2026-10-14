@@ -58,7 +58,7 @@ Unless additional credits are purchased or consumption is reduced, APEX Holdings
 4. Close the expanded view.
 
 > [!TIP]
-> An overage warning 3 months in advance provides enough lead time to negotiate additional credits at contracted rates — waiting until January means paying list price.
+> Spotting the overage 3 months ahead — here, from the CPEA forecast — gives enough lead time to negotiate additional credits at contracted rates. Waiting until January means paying list price.
 
 ---
 
