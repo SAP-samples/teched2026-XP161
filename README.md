@@ -34,7 +34,7 @@ The overall account structure mirrors a real-world organization with production,
 
 ### [Exercise 1 — Cost Visibility and Control](exercises/ex1/) (~40 min)
 
-*Investigate the Q3 bill using today's tools.*
+*Investigate the Q3 cost increase using today's BTP Cockpit tools.*
 
 You find the cost spike, the budget breach, and the optimization opportunity, You have the investigation covered — but Dana's next question is "which business line owns these costs?" and that's where the current tools hit their limits.
 
