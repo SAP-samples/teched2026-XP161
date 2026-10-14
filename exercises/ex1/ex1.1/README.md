@@ -87,7 +87,7 @@ This card helps identify both problems at a glance.
 
 2. Click **"View in Billing tab"** to see the breakdown by service plan.
 
-**In the table, add the **Prepaid Quota Used** column via table settings if not visible. Which service plan exceeded its quota, and which are under-utilized?**
+**In the table, add the Prepaid Quota Used column via table settings if not visible. Which service plan exceeded its quota, and which are under-utilized?**
 
 <details>
 <summary>Answer</summary>
