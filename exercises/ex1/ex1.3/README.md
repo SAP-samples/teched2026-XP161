@@ -60,7 +60,7 @@ In this section you will monitor costs and resource consumption by comparing ser
    </details>
 
    ![Service Plan Details](images/service-plan-subaccount-view.jpg)
-8. For this subaccount, click the switch button (highlighted in the screenshot). This navigates to **View by Account**, showing the subaccount within the account hierarchy.
+8. For this subaccount, click the switch button (highlighted in the screenshot). This navigates to **View by Account**, showing the costs from the subaccount's perspective.
 9. Scroll down to the graph and select **Cost Breakdown by Service Plans**. Can you identify the reason for the cost increase?
 
    <details>
