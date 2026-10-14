@@ -66,7 +66,7 @@ Unless additional credits are purchased or consumption is reduced, APEX Holdings
 
 APEX Holdings runs on a **combined commercial model** — licensed for both a consumption-based model (the CPEA cloud credits from the previous card) and a **subscription-based model** that provides prepaid quotas for specific services at a fixed cost.
 
-For subscription-based services, usage within the prepaid quota is already paid for. Only usage that **exceeds** the quota is charged — at your consumption-based rates, against the cloud credit pool. Consumption well below quota means you're paying for capacity you're not using.
+For subscription-based services, usage within the prepaid quota is already paid for. Only usage that **exceeds** the quota is charged — at your consumption-based rates, against the cloud credit pool. Consumption well below quota means the subscription isn't being used optimally — you're paying for quota you don't consume.
 
 > [!TIP]
 > In the UI, the **Combined commercial model** info link explains how billing works across both models.
