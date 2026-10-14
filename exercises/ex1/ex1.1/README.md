@@ -160,14 +160,14 @@ Yes — even without calculating quarterly totals, the bar charts make it visibl
 
 </details>
 
-2. Locate the **Cost Distribution** section. It shows pie charts for service plans and subaccounts based on cumulative costs over the last 12 months.
+3. Locate the **Cost Distribution** section. It shows donut charts — for the current month and the last 12 months — grouped by service plan. Each slice is labelled with its share of total cost.
 
 **Which service plan is the top cost driver over the last 12 months?**
 
 <details>
 <summary>Answer</summary>
 
-**SAP HANA Cloud - HANA** is the top cost driver for the last 12 months, responsible for **22.2%** of APEX Holdings' overall BTP costs.
+**SAP HANA Cloud - HANA** — the **Last 12 Months** donut labels it at **22.2%**, the largest single share of APEX Holdings' total BTP cost.
 
 </details>
 
