@@ -1,8 +1,5 @@
 # Exercise 1.2 — Billing Verification (approx. 10 minutes)
 
-> [!NOTE]
-> This exercise includes several screenshots. Click any screenshot to open it full size for the detailed numbers.
-
 ## Orientation
 
 1. You are on the **Overview** tab. Scroll to the **footer** of the page and click the **"Billing Statement Information"** link. This links to SAP for Me where you can download the Balance Statement. For this exercise, screenshots are provided — no SAP for Me login is needed.
