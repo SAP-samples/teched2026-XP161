@@ -4,6 +4,9 @@ The **Overview** tab is the central entry point for FinOps in SAP BTP. It brings
 
 In this exercise you will navigate the Overview tab card by card — building the picture of APEX Holdings' financial situation before diving deeper in the exercises that follow.
 
+> [!NOTE]
+> The current month is still in progress, so any current-month cost shown on this page is an estimate until the billing cycle closes. Once closed, it is finalized and no longer marked as estimated.
+
 ---
 
 ## Monthly Cost Summary
@@ -17,18 +20,15 @@ The **Monthly Cost Summary** card combines current-month metrics with statistica
    <details>
    <summary>Answer</summary>
 
-   **Yes.** Last month's total cost is the highest in the 12-month window, and the current month's forecast tracks above it — confirming the upward trend Dana is reacting to.
+   **Yes.** Last month's total cost is the highest in the 12-month window, and the current month's forecast is projected even higher — confirming the upward trend Dana is reacting to.
 
    </details>
-
-> [!NOTE]
-> The current month's cost is an estimate until the billing cycle closes. Once closed, it becomes finalized and will no longer show as estimated.
 
 ---
 
 ## Cloud Platform Enterprise Agreement
 
-Analyzing costs is only half of FinOps. The other half is managing the contract. APEX Holdings runs on a **CPEA (Cloud Platform Enterprise Agreement)** — a cloud credit pool that covers all consumption-based spending. Staying within that pool matters: charges beyond the balance are billed at list price, significantly higher than the contracted rate.
+Analyzing costs is only half of FinOps. The other half is managing the contract. APEX Holdings runs on a **CPEA (Cloud Platform Enterprise Agreement)** — a cloud credit pool that covers all consumption-based spending. Staying within that pool matters: charges beyond the cloud credit pool or limit are billed at list price, which is higher than the contracted rate — cloud credits are purchased at a discount, so consumption beyond the limit costs more.
 
 1. Locate the **Cloud Platform Enterprise Agreement** card and review the current cloud credit balance.
 2. Toggle on **"Show Forecast"** to project consumption through the end of the contract.
@@ -58,17 +58,22 @@ Unless additional credits are purchased or consumption is reduced, APEX Holdings
 4. Close the expanded view.
 
 > [!TIP]
-> An overage warning 3 months in advance provides enough lead time to negotiate additional credits at contracted rates — waiting until January means paying list price.
+> Spotting the overage 3 months ahead — here, from the CPEA forecast — gives enough lead time to negotiate additional credits at contracted rates. Waiting until January means paying list price.
 
 ---
 
 ## Last Month's Prepaid Quota Consumption
 
-APEX Holdings' contract includes a **subscription component** — prepaid quotas for specific services at fixed cost. Consumption within quota is already paid for. Consumption beyond it generates additional charges against the cloud credit pool. Consumption well below quota means you're paying for capacity you're not using.
+APEX Holdings runs on a **combined commercial model** — licensed for both a consumption-based model (the CPEA cloud credits from the previous card) and a **subscription-based model** that provides prepaid quotas for specific services at a fixed cost.
+
+For subscription-based services, usage within the prepaid quota is already paid for. Only usage that **exceeds** the quota is charged — at your consumption-based rates, against the cloud credit pool. Consumption well below quota means the subscription isn't being used optimally — you're paying for quota you don't consume.
+
+> [!TIP]
+> In the UI, the **Combined commercial model** info link explains how billing works across both models.
 
 This card helps identify both problems at a glance.
 
-1. Locate the **Last Month's Prepaid Quota Consumption** card. The pie chart groups the 7 subscription service plans used last month into three bands: exceeded quota, 81–100% utilized, and 1–80% utilized.
+1. Locate the **Last Month's Prepaid Quota Consumption** card. The pie chart groups the 7 subscription service plans used last month by utilization level: exceeded quota, 81–100% utilized, and 1–80% utilized.
 
 **How many service plans exceeded the prepaid quota last month, and how many are significantly under-utilized (below 80%)?**
 
@@ -82,7 +87,7 @@ This card helps identify both problems at a glance.
 
 2. Click **"View in Billing tab"** to see the breakdown by service plan.
 
-**In the table, add the **Prepaid Quota Used** column via table settings if not visible. Which service plan exceeded its quota, and which are under-utilized?**
+**In the table, add the Prepaid Quota Used column via table settings if not visible. Which service plan exceeded its quota, and which are under-utilized?**
 
 <details>
 <summary>Answer</summary>
@@ -119,21 +124,23 @@ The **Cost and Usage Recommendations** section surfaces insights that help you m
    - A **budgets** recommendation — no budgets are configured yet for this account. We will set one up in Exercise 1.5.
    - A **cloud credit overage** forecast — you already identified this proactively in Card 2.
    - Two **cost spike** recommendations — one for unusual service plan costs, one for a subaccount anomaly.
-3. Find the **4th recommendation** (a cost spike recommendation). Click **"View subaccount costs in Billing tab"**.
+3. Click **Show more** to expand the full list of recommendations, then find the **4th recommendation** (a cost spike recommendation) and click **"View subaccount costs in Billing tab"**.
 4. In the Billing tab, click on **"Budgeting Hub – TEST"** to select it.
 5. Scroll down to the **cost graph** below the table.
 
-**What is the significant spike in the last month for this subaccount?**
+**Can you understand why the system identified a spike here?**
 
 <details>
 <summary>Answer</summary>
 
-A cost increase of over 60% in the last month compared to the previous month.
+Yes — last month's cost jumps from **710 USD to 1,153 USD** (a ~62% increase), well above the subaccount's historical pattern. The **SAP Build Apps** baseline stays flat; the spike is new **SAP Build Process Automation** usage (Advanced and Standard User) not seen in prior months. That sudden deviation is what the system flags.
+
+You can switch the graph's **View By** to **list price** to see the overall monthly cost.
 
 </details>
 
 > [!NOTE]
-> Budgeting Hub – TEST belongs to the **Crestline Retail** subsidiary (Finance department, EMEA region, contact: alex.yamamoto@apex.com). In Exercise 1.4 you will explore how to use labels to track ownership and cross-charge this cost.
+> Budgeting Hub – TEST belongs to the **Crestline Retail** subsidiary (Finance department, EMEA region, contact: alex.yamamoto@apex.com) — you can see these details yourself by clicking the **labels** link on the subaccount. In Exercise 1.4 you will explore how to use labels to track ownership and cross-charge this cost.
 
 6. Return to the **Overview** tab.
 
@@ -142,6 +149,7 @@ A cost increase of over 60% in the last month compared to the previous month.
 ## Cost Breakdown and Cost Distribution
 
 1. Locate the **Cost Breakdown** section. It shows the top service plans and top subaccounts ranked by cost, each with a monthly bar chart covering the last 12 months.
+2. Click the **expand icon** on a chart to view its full 12-month trend.
 
 **Can you see the overall cost increase trend Dana mentioned?**
 
@@ -152,14 +160,14 @@ Yes — even without calculating quarterly totals, the bar charts make it visibl
 
 </details>
 
-2. Locate the **Cost Distribution** section. It shows pie charts for service plans and subaccounts based on cumulative costs over the last 12 months.
+3. Locate the **Cost Distribution** section. It shows donut charts — for the current month and the last 12 months — grouped by service plan. Each slice is labelled with its share of total cost.
 
 **Which service plan is the top cost driver over the last 12 months?**
 
 <details>
 <summary>Answer</summary>
 
-**SAP HANA Cloud - HANA** is the top cost driver for the last 12 months, responsible for **22.2%** of APEX Holdings' overall BTP costs.
+**SAP HANA Cloud - HANA** — the **Last 12 Months** donut labels it at **22.2%** (**1,343,123.9 USD**), the largest single share of APEX Holdings' total BTP cost.
 
 </details>
 

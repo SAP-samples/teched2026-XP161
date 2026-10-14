@@ -6,7 +6,7 @@
 1. You are on the **Overview** tab. Scroll to the **footer** of the page and click the **"Billing Statement Information"** link. This links to SAP for Me where you can download the Balance Statement. For this exercise, screenshots are provided — no SAP for Me login is needed.
 2. Click the hamburger icon ![hamburger menu icon](images/hamburger.png) in the top-left corner to collapse the left pane and expand the viewing area.
 3. Navigate to **Billing → View by Service**.
-4. Clear all filters and set the month to **Previous Month**.
+4. Make sure all filters are cleared and the **Month** is set to **Previous Month**.
 
 > [!NOTE]
 > The **Billing** tab displays and analyzes monthly charges for all billable services consumed over the last 12 months. Two perspectives are available:
@@ -21,6 +21,8 @@
 
 > [!NOTE]
 > The Balance Statement is the starting point for monthly cost verification. Screenshots from the previous month's balance statement are provided below for comparison.
+>
+> Click any screenshot to open it full size for the detailed numbers.
 
 **Screenshot #1: Balance Statement — Total Consumption Section**
 ![Balance Statement — Total Consumption Section](images/balance_statement_total_consumption.png)
@@ -33,7 +35,7 @@
 ![Balance Statement — CPEA Section](images/balance_statement_cpea_section.png)
 
 4. Compare the **List Price** column for the first three services against screenshot #2.
-5. Notice that the BTP Cockpit aggregates both balance statement sections into a single view, enabling drill-down per service.
+5. Notice that the BTP Cockpit combines both balance statement sections — **Total Consumption** (screenshot #1) and **Cloud Platform Enterprise Agreement** (screenshot #2) — into a single view, enabling drill-down per service.
 
 **Screenshot #3: Balance Statement — Cloud Credits and Payment Summary**
 ![Balance Statement — Cloud Credits and Payment Summary](images/balance_statement_cloud_credits_payment_summary.png)

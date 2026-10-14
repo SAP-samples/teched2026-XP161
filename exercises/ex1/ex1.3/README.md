@@ -6,7 +6,7 @@ In this section you will monitor costs and resource consumption by comparing ser
 
 ## Investigate the Cost Increase
 
-1. In the **Costs and Usage** header, ensure the **Month** filter is set to **Previous Month**.
+1. Open the **Billing** tab. In its header, make sure the **Month** filter is set to **Previous Month**.
 2. The default view displays **Billing → View by Service**.
 3. Which service plan has the highest cost?
 
@@ -28,7 +28,7 @@ In this section you will monitor costs and resource consumption by comparing ser
 4. With no service selected, scroll down to the **Global Account — Cost Summary** graph and choose **View By: Cost Breakdown by Service Plan**.
 
    1. **Expand** the graph.
-   2. Find the highest-cost service plan from the previous step. Has its cost increased compared to the month before?
+   2. Find the highest-cost service plan from the previous step. Did its cost increase in the previous month compared to the one before it?
 
       <details>
       <summary><b>Answer</b></summary>
@@ -60,7 +60,7 @@ In this section you will monitor costs and resource consumption by comparing ser
    </details>
 
    ![Service Plan Details](images/service-plan-subaccount-view.jpg)
-8. For this subaccount, click the switch button (highlighted in the screenshot). This navigates to **View by Account**, showing the subaccount within the account hierarchy.
+8. For this subaccount, click the switch button (highlighted in the screenshot). This navigates to **View by Account**, showing the costs from the subaccount's perspective.
 9. Scroll down to the graph and select **Cost Breakdown by Service Plans**. Can you identify the reason for the cost increase?
 
    <details>

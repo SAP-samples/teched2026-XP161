@@ -10,7 +10,7 @@ Dana Mercer, APEX Holdings CFO, walks in before the board meeting:
 
 > *"BTP spend is up 25% this quarter. Before the board meeting I need five things: verify the numbers match our billing statement, find what's driving the increase, identify which subsidiary owns it, tell me whether we have any cost controls in place, and get me a cost center breakdown I can put in a slide."*
 
-You are the APEX Holdings FinOps controller. Over the next 120 minutes, you work through three escalating responses to Dana's demand.
+Over the next 100 minutes, you investigate the cost increase, allocate it to business lines, and get answers fast using Joule — each exercise building on the last.
 
 ---
 
@@ -24,22 +24,31 @@ The overall account structure mirrors a real-world organization with production,
 
 ---
 
+## Getting Started
+
+→ [Getting Started](exercises/ex0/)
+
+---
+
 ## Session Structure
+
+> [!NOTE]
+> **Recommended** exercises cover the complete session. **Optional** exercises go beyond the session scope — complete them if time allows or revisit them on your own account after TechEd.
 
 ### [Exercise 1 — Cost Visibility and Control](exercises/ex1/) (~40 min)
 
-*Investigate the Q3 bill using today's tools.*
+*Investigate the Q3 cost increase using today's BTP Cockpit tools.*
 
 You find the cost spike, the budget breach, and the optimization opportunity, You have the investigation covered — but Dana's next question is "which business line owns these costs?" and that's where the current tools hit their limits.
 
 | Exercise                            | Title                                 | Type           |
 | ----------------------------------- | ------------------------------------- | -------------- |
-| [Exercise 1.1](exercises/ex1/ex1.1/) | Cost and Usage Overview               | **Core** |
-| [Exercise 1.2](exercises/ex1/ex1.2/) | Billing Verification                  | **Core** |
-| [Exercise 1.3](exercises/ex1/ex1.3/) | Monitoring Costs — Finding the Spike | **Core** |
+| [Exercise 1.1](exercises/ex1/ex1.1/) | Cost and Usage Overview               | **Recommended** |
+| [Exercise 1.2](exercises/ex1/ex1.2/) | Billing Verification                  | **Recommended** |
+| [Exercise 1.3](exercises/ex1/ex1.3/) | Monitoring Costs — Finding the Spike | **Recommended** |
 | [Exercise 1.4](exercises/ex1/ex1.4/) | Cross Charge / Cost Allocation        | Optional       |
-| [Exercise 1.5](exercises/ex1/ex1.5/) | Controlling Costs Using Budgets       | **Core** |
-| [Exercise 1.6](exercises/ex1/ex1.6/) | Optimization                          | **Core** |
+| [Exercise 1.5](exercises/ex1/ex1.5/) | Controlling Costs Using Budgets       | **Recommended** |
+| [Exercise 1.6](exercises/ex1/ex1.6/) | Optimization                          | **Recommended** |
 | [Exercise 1.7](exercises/ex1/ex1.7/) | Export to Excel                       | Optional       |
 
 ### [Exercise 2 — Advanced Cost Allocation](exercises/ex2/) (~30 min)
@@ -50,9 +59,9 @@ The new Billing Preview answers Dana's business-line question: drill to the SAP 
 
 | Exercise                            | Title                                         | Type           |
 | ----------------------------------- | --------------------------------------------- | -------------- |
-| [Exercise 2.1](exercises/ex2/ex2.1/) | Basic View — Same Data, New Interface        | **Core** |
-| [Exercise 2.2](exercises/ex2/ex2.2/) | Granular Breakdown & Business Line Assignment | **Core** |
-| [Exercise 2.3](exercises/ex2/ex2.3/) | Fixed Cost Allocation for Shared Resources    | **Core** |
+| [Exercise 2.1](exercises/ex2/ex2.1/) | Basic View — Same Data, New Interface        | **Recommended** |
+| [Exercise 2.2](exercises/ex2/ex2.2/) | Granular Breakdown & Business Line Assignment | **Recommended** |
+| [Exercise 2.3](exercises/ex2/ex2.3/) | Fixed Cost Allocation for Shared Resources    | **Recommended** |
 | [Exercise 2.4](exercises/ex2/ex2.4/) | Multi-Dimensional Cost Ownership              | Optional       |
 | [Exercise 2.5](exercises/ex2/ex2.5/) | Export to Excel                               | Optional       |
 
@@ -66,12 +75,6 @@ Dana sends one urgent question before the board meeting. It would take 10–15 m
 | ----------------------------------- | -------------------------------------- |
 | [Exercise 3.1](exercises/ex3/ex3.1/) | Q2 vs Q3 Service Plan Comparison       |
 | [Exercise 3.2](exercises/ex3/ex3.2/) | Draft the Reply to Dana                |
-
----
-
-## Getting Started
-
-→ [Getting Started](exercises/ex0/)
 
 ---
 
