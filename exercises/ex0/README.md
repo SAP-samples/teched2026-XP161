@@ -4,7 +4,7 @@ Welcome to **SAP TechEd 2026 XP161 — SAP BTP FinOps Hands-On**.
 
 ## The APEX Holdings Account
 
-All exercises run on the **APEX Holdings** demo account — a fictional multinational company on a mocked BTP account. No real cloud costs are incurred.
+All exercises run on the **APEX Holdings** demo account — a fictional multinational company on a mock BTP account. No real cloud costs are incurred.
 
 APEX Holdings structure:
 
@@ -25,7 +25,7 @@ APEX Holdings structure:
 2. Enter the user name `XP161-XXX@education.cloud.sap`, where `XXX` is the number of your workshop place.For example: `XP161-042@education.cloud.sap`
 3. Enter the password for your user as provided to you at the beginning of the workshop.
 
-This will open the **BTP Cockpit** home page. The home page appears empty as APEX Holdings is a mocked account.
+This will open the **BTP Cockpit** home page. The home page appears empty because APEX Holdings is a mock (demo) account.
 
 4. In the left menu, click **Account Explorer**. Select the **Directories & Subaccounts** tab and verify you can see the APEX Holdings account structure with its subsidiaries and subaccounts.
 5. In the left menu, scroll to the bottom and click **Costs and Usage**. You will land on the **Overview** tab. You are ready to begin.
