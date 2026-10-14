@@ -16,6 +16,8 @@ APEX Holdings uses four regions: **EMEA**, **AMER**, **APJ**, and **Global** (fo
 
 ## Create the Region Label
 
+> Continue in the **TechEd Preview** tab, **Advanced** view.
+
 1. In **Group By**, confirm **Cost Labels → All Cost Labels** is selected.
 2. Click **Manage Cost Labels → Add Cost Label Key**.
 3. Name the key: **"Region"**

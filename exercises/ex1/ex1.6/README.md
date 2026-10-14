@@ -12,11 +12,10 @@ BTP offers many optimization opportunities — contract rightsizing, cloud credi
 
 ![Prepaid Quota Overview](images/prepaid-quota-overview.jpg)
 
-1. Set the **Month** filter to **Previous Month**.
-2. Navigate to **Billing → View by Service** and confirm **"Show only services with charged usage"** is **unchecked**.
-3. Sort the **Prepaid Quota** column **descending** to show services with the highest quotas first.
-4. Review services with prepaid quota. Most have zero Charged Usage and zero List Price — they are consuming within their subscription entitlement.
-5. Identify the one service that has both a prepaid quota **and** a non-zero List Price (indicating overage).
+1. Make sure you're in the **Billing** tab, **View by Service**, with all filters cleared and the **Month** set to **Previous Month**. Confirm **"Show only services with charged usage"** is **unchecked**.
+2. Sort the **Prepaid Quota** column **descending** to show services with the highest quotas first.
+3. Review services with prepaid quota. Most have zero Charged Usage and zero List Price — they are consuming within their subscription entitlement.
+4. Identify the one service that has both a prepaid quota **and** a non-zero List Price (indicating overage).
 
    <details>
    <summary>Answer</summary>
@@ -27,8 +26,8 @@ BTP offers many optimization opportunities — contract rightsizing, cloud credi
 
    </details>
 
-6. Select **Cloud Foundry Runtime - Standard**. Scroll down to the graph and choose **View by: Total Usage**.
-7. Analyze the 12-month trend:
+5. Select **Cloud Foundry Runtime - Standard**. Scroll down to the graph and choose **View by: Total Usage**.
+6. Analyze the 12-month trend:
 
    - Prepaid quota started at **40 GB**; usage was initially 30 GB, then grew to 40 GB
    - Apex purchased an additional 20 GB subscription, raising the quota to **60 GB**
@@ -37,7 +36,7 @@ BTP offers many optimization opportunities — contract rightsizing, cloud credi
 > [!TIP]
 > The dotted line in the graph represents the prepaid quota. When the solid usage line exceeds it, you pay consumption-based overage charges.
 
-8. **How can Apex optimize Cloud Foundry Runtime costs?**
+7. **How can Apex optimize Cloud Foundry Runtime costs?**
 
    <details>
    <summary>Answer</summary>

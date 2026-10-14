@@ -14,6 +14,8 @@ Assignments are made at the subsidiary (directory) level, and all child subaccou
 
 ## Switch to Advanced View and Create the Cost Center Label
 
+> Continue in the **TechEd Preview** tab you opened in Exercise 2.1.
+
 1. In the left sidebar, click **"Advanced"**.
 2. In the **Group By** dropdown, confirm **Cost Labels → All Cost Labels** is selected.
    1. The system shows default **Sample** labels — these are placeholders. You'll rename them to create a **Cost Center** dimension for internal allocation.

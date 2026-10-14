@@ -29,7 +29,7 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
 
 ![Budget Creation Overview](images/budget-creation-overview.jpg)
 
-1. Clear all filters and navigate to the **Budgets** tab.
+1. Navigate to the **Budgets** tab.
 2. Click **Create**.
 3. Enter a name: `HR App 4 TEST costs`
 4. Keep the default **Cost** budget type (tracks monetary value at list price).
