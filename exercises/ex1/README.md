@@ -2,9 +2,6 @@
 
 In this part you will explore the production-ready FinOps tools available today in SAP BTP, using the **Apex Holdings** demo account.
 
-> [!NOTE]
-> Exercises marked **Recommended** form the designed path for this session — complete these to get the full experience. Exercises marked **Optional** are bonus exercises for fast finishers or for revisiting after the session.
-
 ## Exercises
 
 | Exercise | Title | Duration | Type |
