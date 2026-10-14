@@ -11,7 +11,7 @@ APEX Holdings structure:
 - **5 subsidiaries:** Atlas Industries, Lumina Energy, HarborCare Health, Crestline Retail, NexaTech Digital
 - **200+ subaccounts** across DEV / TEST / PROD environments under each subsidiary
 - **Labels** on every subaccount: Region, Department, Cost Center, Contact Person, Environment
-- A **hybrid commercial model:** subscription-based prepaid quotas for specific services + CPEA cloud credits for consumption
+- A **combined commercial model:** subscription-based prepaid quotas for specific services + CPEA cloud credits for consumption
 
 ![1791825800056](image/README/1791825800056.png)
 
