@@ -28,7 +28,7 @@ The **Monthly Cost Summary** card combines current-month metrics with statistica
 
 ## Cloud Platform Enterprise Agreement
 
-Analyzing costs is only half of FinOps. The other half is managing the contract. APEX Holdings runs on a **CPEA (Cloud Platform Enterprise Agreement)** — a cloud credit pool that covers all consumption-based spending. Staying within that pool matters: charges beyond the cloud credit pool or limit are billed at list price, which is higher than the contracted rate — cloud credits are purchased at a discount, so consumption beyond the limit costs more.
+Analyzing costs is only half of FinOps. The other half is managing the contract. APEX Holdings runs on a **CPEA (Cloud Platform Enterprise Agreement)** — a cloud credit limit that covers all consumption-based spending. Staying within it matters: charges beyond the limit are billed at list price, which is higher than the contracted rate — cloud credits are purchased at a discount, so consumption beyond the limit costs more.
 
 1. Locate the **Cloud Platform Enterprise Agreement** card and review the current cloud credit balance.
 2. Toggle on **"Show Forecast"** to project consumption through the end of the contract.
@@ -66,7 +66,7 @@ Unless additional credits are purchased or consumption is reduced, APEX Holdings
 
 APEX Holdings runs on a **combined commercial model** — licensed for both a consumption-based model (the CPEA cloud credits from the previous card) and a **subscription-based model** that provides prepaid quotas for specific services at a fixed cost.
 
-For subscription-based services, usage within the prepaid quota is already paid for. Only usage that **exceeds** the quota is charged — at your consumption-based rates, against the cloud credit pool. Consumption well below quota means the subscription isn't being used optimally — you're paying for quota you don't consume.
+For subscription-based services, usage within the prepaid quota is already paid for. Only usage that **exceeds** the quota is charged — at your consumption-based rates, against the cloud credit limit. Consumption well below quota means the subscription isn't being used optimally — you're paying for quota you don't consume.
 
 > [!TIP]
 > In the UI, the **Combined commercial model** info link explains how billing works across both models.

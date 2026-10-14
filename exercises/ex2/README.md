@@ -1,4 +1,4 @@
-# Exercise 2 — Advanced Cost Allocation (~35 minutes)
+# Exercise 2 — Advanced Cost Allocation (~25 minutes)
 
 ## Dana's Follow-Up
 
