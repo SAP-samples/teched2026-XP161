@@ -51,7 +51,7 @@ You find the cost spike, the budget breach, and the optimization opportunity, Yo
 | [Exercise 1.6](exercises/ex1/ex1.6/) | Optimization                          | **Recommended** |
 | [Exercise 1.7](exercises/ex1/ex1.7/) | Export to Excel                       | Optional       |
 
-### [Exercise 2 — Advanced Cost Allocation](exercises/ex2/) (~25 min) ![Preview](https://img.shields.io/badge/Preview-blue)
+### [Exercise 2 — Advanced Cost Allocation](exercises/ex2/) (~25 min)
 
 *Go deeper in three areas where more precision is possible.*
 
