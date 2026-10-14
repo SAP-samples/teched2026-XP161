@@ -6,7 +6,7 @@ In Exercise 1 you investigated APEX Holdings' Q3 bill. In Exercise 2 you allocat
 
 You're back at your desk when an email from Dana lands, flagged urgent:
 
-> **From:** Dana Mercer, CFO
+> **From:** Dana, CFO
 > **Subject:** Need this before the board meeting — EOD
 >
 > *"I'm finalizing the board deck and one thing is still open. I need it today:*
