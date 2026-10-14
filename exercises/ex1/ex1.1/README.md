@@ -17,7 +17,7 @@ The **Monthly Cost Summary** card combines current-month metrics with statistica
    <details>
    <summary>Answer</summary>
 
-   **Yes.** Last month's total cost is the highest in the 12-month window, and the current month's forecast tracks above it — confirming the upward trend Dana is reacting to.
+   **Yes.** Last month's total cost is the highest in the 12-month window, and the current month's forecast is projected even higher — confirming the upward trend Dana is reacting to.
 
    </details>
 
