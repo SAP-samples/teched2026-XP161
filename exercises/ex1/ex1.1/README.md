@@ -73,7 +73,7 @@ For subscription-based services, usage within the prepaid quota is already paid 
 
 This card helps identify both problems at a glance.
 
-1. Locate the **Last Month's Prepaid Quota Consumption** card. The pie chart groups the 7 subscription service plans used last month into three bands: exceeded quota, 81–100% utilized, and 1–80% utilized.
+1. Locate the **Last Month's Prepaid Quota Consumption** card. The pie chart groups the 7 subscription service plans used last month by utilization level: exceeded quota, 81–100% utilized, and 1–80% utilized.
 
 **How many service plans exceeded the prepaid quota last month, and how many are significantly under-utilized (below 80%)?**
 
