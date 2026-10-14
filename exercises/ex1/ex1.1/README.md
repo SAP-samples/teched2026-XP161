@@ -124,7 +124,7 @@ The **Cost and Usage Recommendations** section surfaces insights that help you m
    - A **budgets** recommendation — no budgets are configured yet for this account. We will set one up in Exercise 1.5.
    - A **cloud credit overage** forecast — you already identified this proactively in Card 2.
    - Two **cost spike** recommendations — one for unusual service plan costs, one for a subaccount anomaly.
-3. Find the **4th recommendation** (a cost spike recommendation). Click **"View subaccount costs in Billing tab"**.
+3. Click **Show more** to expand the full list of recommendations, then find the **4th recommendation** (a cost spike recommendation) and click **"View subaccount costs in Billing tab"**.
 4. In the Billing tab, click on **"Budgeting Hub – TEST"** to select it.
 5. Scroll down to the **cost graph** below the table.
 
