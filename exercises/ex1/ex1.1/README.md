@@ -4,6 +4,9 @@ The **Overview** tab is the central entry point for FinOps in SAP BTP. It brings
 
 In this exercise you will navigate the Overview tab card by card — building the picture of APEX Holdings' financial situation before diving deeper in the exercises that follow.
 
+> [!NOTE]
+> The current month is still in progress, so any current-month cost shown on this page is an estimate until the billing cycle closes. Once closed, it is finalized and no longer marked as estimated.
+
 ---
 
 ## Monthly Cost Summary
@@ -20,9 +23,6 @@ The **Monthly Cost Summary** card combines current-month metrics with statistica
    **Yes.** Last month's total cost is the highest in the 12-month window, and the current month's forecast is projected even higher — confirming the upward trend Dana is reacting to.
 
    </details>
-
-> [!NOTE]
-> The current month's cost is an estimate until the billing cycle closes. Once closed, it becomes finalized and will no longer show as estimated.
 
 ---
 
