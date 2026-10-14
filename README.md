@@ -33,7 +33,7 @@ The overall account structure mirrors a real-world organization with production,
 ## Session Structure
 
 > [!NOTE]
-> Exercises marked **Recommended** form the designed path for this session — complete these to get the full experience. Exercises marked **Optional** are bonus exercises for fast finishers or for revisiting after the session.
+> **Recommended** exercises cover the complete session. **Optional** exercises go beyond the session scope — complete them if time allows or revisit them on your own account after TechEd.
 
 ### [Exercise 1 — Cost Visibility and Control](exercises/ex1/) (~40 min)
 
