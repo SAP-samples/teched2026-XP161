@@ -28,7 +28,7 @@ In this section you will monitor costs and resource consumption by comparing ser
 4. With no service selected, scroll down to the **Global Account — Cost Summary** graph and choose **View By: Cost Breakdown by Service Plan**.
 
    1. **Expand** the graph.
-   2. Find the highest-cost service plan from the previous step. Has its cost increased compared to the month before?
+   2. Find the highest-cost service plan from the previous step. Did its cost increase in the previous month compared to the one before it?
 
       <details>
       <summary><b>Answer</b></summary>
