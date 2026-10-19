@@ -35,7 +35,6 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
 4. Keep the default **Cost** budget type (tracks monetary value at list price).
 5. Keep the default date range — starts immediately from the current month, with no end date.
 
-   ![Budget Scope Selection](images/budget-scope-subaccount.jpg)
 6. **Scope:**
 
    - Select filter type: **Subaccounts**
@@ -44,6 +43,8 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
    - Expand the results and choose: **HR App 4 – TEST**
    - Click **Select**, then **Apply**
    - The history preview updates to show HR App 4 – TEST cost trend for the last 12 months
+
+   ![Budget Scope Selection](images/budget-scope-subaccount.jpg)
 
    > You can scope budgets by subaccounts, services, or a combination. This flexibility aligns budgets with your organizational structure.
    >
