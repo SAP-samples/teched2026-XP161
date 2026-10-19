@@ -73,6 +73,13 @@ In this section you will track costs within the Apex Holdings account hierarchy 
 7. View the labels assigned to HR App 4 – TEST. Who is the contact person to notify about the cost?
 
    <details>
+   <summary><b>Hint</b></summary>
+
+   With HR App 4 – TEST selected, click the **Labels** link in the details pane header to see the assigned labels.
+
+   </details>
+
+   <details>
    <summary><b>Answer</b></summary>
 
    **logan.ibrahim@apex.com**
