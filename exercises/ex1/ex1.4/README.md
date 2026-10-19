@@ -16,7 +16,7 @@ In this section you will track costs within the Apex Holdings account hierarchy 
 
 ## Track Costs Using the Account Hierarchy
 
-1. Make sure you're in the **Billing** tab, **View by Account**, with all filters cleared and the **Month** set to **Previous Month**. Click **Collapse All** to view the account hierarchy.
+1. Make sure you're in the **Billing** tab, **View by Account**, with all filters cleared, **"Show only subaccounts"** unchecked, and the **Month** set to **Previous Month**. Click **Collapse All** to view the account hierarchy.
 2. You will see 5 **subsidiaries** and a list of subaccounts that had cost or usage during the last 12 months and were subsequently deleted.
 3. Select subsidiary **NexaTech Digital**. What is the cumulative list price for the last 12 months?
 
