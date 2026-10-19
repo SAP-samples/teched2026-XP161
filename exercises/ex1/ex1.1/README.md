@@ -6,6 +6,8 @@ The **Overview** tab is the central entry point for FinOps in SAP BTP. It brings
 
 In this exercise you will navigate the Overview tab card by card — building the picture of APEX Holdings' financial situation before diving deeper in the exercises that follow.
 
+Make sure you're on the **Overview** tab before starting.
+
 > [!NOTE]
 > The current month is still in progress, so any current-month cost shown on this page is an estimate until the billing cycle closes. Once closed, it is finalized and no longer marked as estimated.
 
