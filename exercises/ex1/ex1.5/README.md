@@ -41,7 +41,7 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
    - Click the squared icon (highlighted in the screenshot) to open the selection dialog
    - Search for: `HR App 4`
    - Expand the results and choose: **HR App 4 – TEST**
-   - Click **Select**, then **Apply**
+   - Click **Select**, then click **Apply** in the Scope section to confirm your selection
    - The history preview updates to show HR App 4 – TEST cost trend for the last 12 months
 
    ![Budget Scope Selection](images/budget-scope-subaccount.jpg)
