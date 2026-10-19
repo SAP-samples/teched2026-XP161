@@ -57,7 +57,8 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
 10. Review the updated history preview with the new thresholds.
 11. Toggle on **"Automatically send alerts to global account admins"**.
 12. Click **Create**.
-13. In the **Active Budgets** table, verify your new budget appears.
+13. A **"Budget Created"** confirmation pop-up appears with notes about evaluation cycles. Click **Close**.
+14. In the **Active Budgets** table, verify your new budget appears.
 
     **Are any thresholds already exceeded?**
 
