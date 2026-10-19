@@ -1,5 +1,7 @@
 # Exercise 1.1 — Cost and Usage Overview (approx. 10 minutes)
 
+## Introduction
+
 The **Overview** tab is the central entry point for FinOps in SAP BTP. It brings together monthly cost intelligence, contract status, prepaid quota, automated recommendations, and cost distribution in a single page.
 
 In this exercise you will navigate the Overview tab card by card — building the picture of APEX Holdings' financial situation before diving deeper in the exercises that follow.

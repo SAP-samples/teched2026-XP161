@@ -1,6 +1,8 @@
 # Exercise 1.2 — Billing Verification (approx. 10 minutes)
 
-## Orientation
+## Introduction
+
+Billing verification is done on a monthly basis, verifying the charges in the balance statement. It confirms all charges are accurate, establishing confidence in the data before further cost analysis.
 
 1. You are on the **Overview** tab. Scroll to the **footer** of the page and click the **"Billing Statement Information"** link. This links to SAP for Me where you can download the Balance Statement. For this exercise, screenshots are provided — no SAP for Me login is needed.
 2. Click the hamburger icon ![hamburger menu icon](images/hamburger.png) in the top-left corner to collapse the left pane and expand the viewing area.
@@ -39,8 +41,6 @@
 6. Cloud credit details are available in the **Overview tab** — refer to the **Cloud Platform Enterprise Agreement** card you explored in Exercise 1.1 to verify consumed and remaining cloud credits against the balance statement.
 7. In screenshot #3 (section 3.B), the balance statement shows **remaining cloud credits**. Confirm this matches what you saw in the CPEA card on the Overview tab.
 8. Remaining cloud credits mean no Net Overage Amount — the Payment Summary shows no additional costs to pay.
-
-> **Note:** Billing verification confirms all charges are accurate. This establishes confidence in the data before further cost analysis.
 
 ## Summary
 
