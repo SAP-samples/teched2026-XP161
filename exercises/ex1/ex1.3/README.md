@@ -6,9 +6,8 @@ In this section you will monitor costs and resource consumption by comparing ser
 
 ## Investigate the Cost Increase
 
-1. Open the **Billing** tab. In its header, make sure the **Month** filter is set to **Previous Month**.
-2. The default view displays **Billing → View by Service**.
-3. Which service plan has the highest cost?
+1. Make sure you're in the **Billing** tab, **View by Service**, with all filters cleared and the **Month** set to **Previous Month**.
+2. Which service plan has the highest cost?
 
    <details>
    <summary><b>Hint</b></summary>
@@ -25,7 +24,7 @@ In this section you will monitor costs and resource consumption by comparing ser
    *This service plan has the highest cost and is a key focus area for investigating the cost increase.*
 
    </details>
-4. With no service selected, scroll down to the **Global Account — Cost Summary** graph and choose **View By: Cost Breakdown by Service Plan**.
+3. With no service selected, scroll down to the **Global Account — Cost Summary** graph and choose **View By: Cost Breakdown by Service Plan**.
 
    1. **Expand** the graph.
    2. Find the highest-cost service plan from the previous step. Did its cost increase in the previous month compared to the one before it?
@@ -39,9 +38,9 @@ In this section you will monitor costs and resource consumption by comparing ser
 
       </details>
    3. **Close** the expanded graph.
-5. Select the highest-cost service plan in the table.
-6. In the right-side panel, review the subaccounts using this service plan.
-7. Which subaccount has the highest cost for this service plan in the previous month?
+4. Select the highest-cost service plan in the table.
+5. In the right-side panel, review the subaccounts using this service plan.
+6. Which subaccount has the highest cost for this service plan in the previous month?
 
    <details>
    <summary><b>Hint</b></summary>
@@ -60,8 +59,8 @@ In this section you will monitor costs and resource consumption by comparing ser
    </details>
 
    ![Service Plan Details](images/service-plan-subaccount-view.jpg)
-8. For this subaccount, click the switch button (highlighted in the screenshot). This navigates to **View by Account**, showing the costs from the subaccount's perspective.
-9. Scroll down to the graph and select **Cost Breakdown by Service Plans**. Can you identify the reason for the cost increase?
+7. For this subaccount, click the switch button (highlighted in the screenshot). This navigates to **View by Account**, showing the costs from the subaccount's perspective.
+8. Scroll down to the graph and select **Cost Breakdown by Service Plans**. Can you identify the reason for the cost increase?
 
    <details>
    <summary><b>Answer</b></summary>
@@ -69,7 +68,7 @@ In this section you will monitor costs and resource consumption by comparing ser
    *Sales App 1 – PROD began incurring SAP HANA Cloud – HANA costs last month for the first time — rising from $0 to ~$26K USD. This single subaccount accounts for the majority of the overall $44K HANA cost increase.*
 
    </details>
-10. Close the subaccount detail panel.
+9. Close the subaccount detail panel.
 
 ## Summary
 

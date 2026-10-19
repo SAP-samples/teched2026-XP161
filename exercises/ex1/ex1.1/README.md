@@ -1,8 +1,12 @@
 # Exercise 1.1 — Cost and Usage Overview (approx. 10 minutes)
 
+## Introduction
+
 The **Overview** tab is the central entry point for FinOps in SAP BTP. It brings together monthly cost intelligence, contract status, prepaid quota, automated recommendations, and cost distribution in a single page.
 
 In this exercise you will navigate the Overview tab card by card — building the picture of APEX Holdings' financial situation before diving deeper in the exercises that follow.
+
+Make sure you're on the **Overview** tab before starting.
 
 > [!NOTE]
 > The current month is still in progress, so any current-month cost shown on this page is an estimate until the billing cycle closes. Once closed, it is finalized and no longer marked as estimated.
@@ -140,7 +144,7 @@ You can switch the graph's **View By** to **list price** to see the overall mont
 </details>
 
 > [!NOTE]
-> Budgeting Hub – TEST belongs to the **Crestline Retail** subsidiary (Finance department, EMEA region, contact: alex.yamamoto@apex.com) — you can see these details yourself by clicking the **labels** link on the subaccount. In Exercise 1.4 you will explore how to use labels to track ownership and cross-charge this cost.
+> Budgeting Hub – TEST belongs to the **Crestline Retail** subsidiary (Finance department, EMEA region, contact: alex.yamamoto@apex.com) — you can see these details yourself by clicking the **labels** link on the subaccount. If you continue to the optional Exercise 1.4, you'll explore how to use labels to track ownership and cross-charge this cost.
 
 6. Return to the **Overview** tab.
 

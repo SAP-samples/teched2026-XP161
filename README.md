@@ -53,7 +53,7 @@ You find the cost spike, the budget breach, and the optimization opportunity, Yo
 
 ### [Exercise 2 — Advanced Cost Allocation](exercises/ex2/) (~25 min)
 
-*Break the three ceilings Part 1 couldn't cross.*
+*Go deeper in three areas where more precision is possible.*
 
 The new Billing Preview answers Dana's business-line question: drill to the SAP HANA Cloud instance inside Sales App 1 – PROD, label all 5 subsidiaries in 3 clicks (200+ subaccounts inherit), and split the shared Cloud Foundry Runtime cost 60/25/15 across Sales, Finance, and HR Operations.
 

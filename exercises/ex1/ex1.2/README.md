@@ -1,12 +1,12 @@
 # Exercise 1.2 — Billing Verification (approx. 10 minutes)
 
+## Introduction
 
-## Orientation
+Billing verification is done on a monthly basis, verifying the charges in the balance statement. It confirms all charges are accurate, establishing confidence in the data before further cost analysis.
 
 1. You are on the **Overview** tab. Scroll to the **footer** of the page and click the **"Billing Statement Information"** link. This links to SAP for Me where you can download the Balance Statement. For this exercise, screenshots are provided — no SAP for Me login is needed.
 2. Click the hamburger icon ![hamburger menu icon](images/hamburger.png) in the top-left corner to collapse the left pane and expand the viewing area.
-3. Navigate to **Billing → View by Service**.
-4. Make sure all filters are cleared and the **Month** is set to **Previous Month**.
+3. Make sure you're in the **Billing** tab, **View by Service**, with all filters cleared and the **Month** set to **Previous Month**.
 
 > [!NOTE]
 > The **Billing** tab displays and analyzes monthly charges for all billable services consumed over the last 12 months. Two perspectives are available:
@@ -21,8 +21,6 @@
 
 > [!NOTE]
 > The Balance Statement is the starting point for monthly cost verification. Screenshots from the previous month's balance statement are provided below for comparison.
->
-> Click any screenshot to open it full size for the detailed numbers.
 
 **Screenshot #1: Balance Statement — Total Consumption Section**
 ![Balance Statement — Total Consumption Section](images/balance_statement_total_consumption.png)
@@ -43,8 +41,6 @@
 6. Cloud credit details are available in the **Overview tab** — refer to the **Cloud Platform Enterprise Agreement** card you explored in Exercise 1.1 to verify consumed and remaining cloud credits against the balance statement.
 7. In screenshot #3 (section 3.B), the balance statement shows **remaining cloud credits**. Confirm this matches what you saw in the CPEA card on the Overview tab.
 8. Remaining cloud credits mean no Net Overage Amount — the Payment Summary shows no additional costs to pay.
-
-> **Note:** Billing verification confirms all charges are accurate. This establishes confidence in the data before further cost analysis.
 
 ## Summary
 

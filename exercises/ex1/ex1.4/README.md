@@ -16,10 +16,9 @@ In this section you will track costs within the Apex Holdings account hierarchy 
 
 ## Track Costs Using the Account Hierarchy
 
-1. Ensure the **Month** filter is set to **Previous Month**.
-2. Navigate to **Billing → View by Account** and click **Collapse All** to view the account hierarchy.
-3. You will see 5 **subsidiaries** and a list of subaccounts that had cost or usage during the last 12 months and were subsequently deleted.
-4. Select subsidiary **NexaTech Digital**. What is the cumulative list price for the last 12 months?
+1. Make sure you're in the **Billing** tab, **View by Account**, with all filters cleared and the **Month** set to **Previous Month**. Click **Collapse All** to view the account hierarchy.
+2. You will see 5 **subsidiaries** and a list of subaccounts that had cost or usage during the last 12 months and were subsequently deleted.
+3. Select subsidiary **NexaTech Digital**. What is the cumulative list price for the last 12 months?
 
    <details>
    <summary><b>Hint</b></summary>
@@ -36,8 +35,8 @@ In this section you will track costs within the Apex Holdings account hierarchy 
    *This represents the total cost for NexaTech Digital over 12 months — useful for tracking cost distribution across subsidiaries.*
 
    </details>
-5. Deselect NexaTech Digital.
-6. Which subaccount had the highest costs in the previous month?
+4. Deselect NexaTech Digital.
+5. Which subaccount had the highest costs in the previous month?
 
    <details>
    <summary><b>Hint</b></summary>
@@ -54,7 +53,7 @@ In this section you will track costs within the Apex Holdings account hierarchy 
    *This subaccount has the highest costs, indicating a potential optimization or investigation opportunity.*
 
    </details>
-7. Which service plan is responsible for most of its cost?
+6. Which service plan is responsible for most of its cost?
 
    <details>
    <summary><b>Hint</b></summary>
@@ -71,7 +70,7 @@ In this section you will track costs within the Apex Holdings account hierarchy 
    *Investigate whether this usage level is expected or if optimization opportunities exist.*
 
    </details>
-8. View the labels assigned to HR App 4 – TEST. Who is the contact person to notify about the cost?
+7. View the labels assigned to HR App 4 – TEST. Who is the contact person to notify about the cost?
 
    <details>
    <summary><b>Answer</b></summary>
@@ -81,8 +80,8 @@ In this section you will track costs within the Apex Holdings account hierarchy 
    *Logan Ibrahim is the designated contact and should be notified about the cost exceeding 40,000 USD.*
 
    </details>
-9. Check the **Environment** label. Note that it is labeled **"Test"** — a testing environment with costs higher than most production subaccounts. This warrants investigation.
-10. Deselect the subaccount and uncheck **"Show only subaccounts"**.
+8. Check the **Environment** label. Note that it is labeled **"Test"** — a testing environment with costs higher than most production subaccounts. This warrants investigation.
+9. Deselect the subaccount and uncheck **"Show only subaccounts"**.
 
 ## Cross Charge Using Labels
 

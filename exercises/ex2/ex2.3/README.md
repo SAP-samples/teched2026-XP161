@@ -11,6 +11,8 @@ The agreed split is: **CC-100: 40%, CC-200: 35%, CC-300: 25%**.
 
 ## Find the SAP Analytics Cloud Instance
 
+> Continue in the **TechEd Preview** tab, **Advanced** view.
+
 1. In **Group By**, confirm **Account → All Account Entities** is selected.
 2. Expand **NexaTech Digital → PROD → HR App 3 – PROD**.
 3. Continue expanding to find **hr_app_3_prod_space_1** inside HR App 3 – PROD.

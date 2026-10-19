@@ -4,7 +4,7 @@
 
 You delivered the Exercise 1 findings. Dana is back.
 
-> *"Good work. Now I need the next level. Subaccount names mean nothing to my board — I need cost center attribution. Lumina, NexaTech, Crestline. And that shared SAC instance you found sitting under NexaTech? That's used by all three divisions. Split it. CC-100 gets 40%, CC-200 35%, CC-300 25%."*
+> *"Good work. Now I need the next level. Subaccount names mean nothing to my board — I need cost center attribution. Lumina, NexaTech, Crestline. And there's a shared SAC instance under NexaTech used by all three divisions. Split it. CC-100 gets 40%, CC-200 35%, CC-300 25%."*
 
 ## Where Exercise 2 Takes You Further
 
