@@ -18,12 +18,12 @@ In this section you will track costs within the Apex Holdings account hierarchy 
 
 1. Make sure you're in the **Billing** tab, **View by Account**, with all filters cleared, **"Show only subaccounts"** unchecked, and the **Month** set to **Previous Month**. Click **Collapse All** to view the account hierarchy.
 2. You will see 5 **subsidiaries** and a list of subaccounts that had cost or usage during the last 12 months and were subsequently deleted.
-3. Select subsidiary **NexaTech Digital**. What is the cumulative list price for the last 12 months?
+3. Select subsidiary **NexaTech Digital**. Below the table, a **cost graph** appears — what is the cumulative list price for the last 12 months?
 
    <details>
    <summary><b>Hint</b></summary>
 
-   Scroll down to the graph and choose **View by: Cumulative List Price**.
+   In the graph, choose **View by: Cumulative List Price**.
 
    </details>
 
