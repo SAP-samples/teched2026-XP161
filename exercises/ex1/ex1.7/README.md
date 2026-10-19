@@ -32,7 +32,7 @@ The **Export to Excel** feature lets you download BTP cost data for the past 12,
 1. Click **"Clear Filters"** to reset all filters.
 2. Set **Month** to **Previous Month**.
 3. Click the small arrow next to **Export** and select **"Custom..."**.
-4. Confirm no filter is applied ("All filters show (no filter)").
+4. Confirm all **Active Filters** show **(no filter)**.
 5. In the **"Labels as Columns"** field, enter: `CostCenter`
 
 > [!TIP]
