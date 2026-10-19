@@ -16,7 +16,7 @@ The **Export to Excel** feature lets you download BTP cost data for the past 12,
 1. Make sure you're in the **Billing** tab, with all filters cleared and the **Month** set to **Previous Month**.
 2. In the search box, type `ContactPerson` and use auto-complete to select `ContactPerson alex.yamamoto@apex.com`.
 3. Click the small arrow next to the **Export** button and select **"Custom..."**.
-4. Verify: time period = previous month; search filter shows `ContactPerson:alex.yamamoto@apex.com`.
+4. Verify: time period = the previous month (shown as the month name in the UI); search filter shows `ContactPerson:alex.yamamoto@apex.com`.
 5. Keep default settings and click **Export**.
 6. Open the exported Excel file from your Downloads folder.
    - The **Global Account Costs** and **Subaccount Costs by Service** sheets are filtered to the selected contact person.
