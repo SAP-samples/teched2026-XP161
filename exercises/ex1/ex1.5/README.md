@@ -48,7 +48,7 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
 
    > You can scope budgets by subaccounts, services, or a combination. This flexibility aligns budgets with your organizational structure.
    >
-7. **Amount:** Enter `40,000` USD.
+7. **Monthly Budget Amount:** Enter `40000` USD.
 
    > Budgets track actual consumption, not prepaid quota, so they focus on costs that directly impact your bill.
    >
