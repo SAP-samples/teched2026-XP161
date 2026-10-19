@@ -44,7 +44,7 @@ The **Export to Excel** feature lets you download BTP cost data for the past 12,
 
 ### Using Excel's Analyze Data Feature
 
-1. In the Excel **Data** ribbon, click **"Analyze Data"**.
+1. In Excel, click the **Data** tab in the ribbon, then click **"Analyze Data"**.
 2. In the text box, enter: `Cost by Label Values for Key: CostCenter`
 3. Review the generated analysis and click **"Insert PivotChart"** to add it to your worksheet.
 
