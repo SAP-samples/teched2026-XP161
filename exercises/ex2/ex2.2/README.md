@@ -41,7 +41,7 @@ Assignments are made at the subsidiary (directory) level, and all child subaccou
 <details>
 <summary>Hint</summary>
 
-Drill down: **Lumina Energy → PROD → Sales App 1 – PROD → sales_app_1_prod_space_1**
+Drill down: **Lumina Energy → PROD → Sales App 1 – PROD → sales_app_1_prod_space_1 → SAP HANA Cloud → HANA (Capacity Units)**
 
 </details>
 
