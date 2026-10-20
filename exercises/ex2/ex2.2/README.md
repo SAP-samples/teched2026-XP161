@@ -24,7 +24,8 @@ Assignments are made at the subsidiary (directory) level, and all child subaccou
    - Rename the label key to **"Cost Center"** (remove *(Sample)*)
    - Rename the three values to **"CC-100"**, **"CC-200"**, and **"CC-300"** (remove *(Sample)* from each)
    - Delete the 4th sample value
-   - Click **Save**. When prompted, click **Close**.
+   - Click **Save**. A **"Saved Changes"** popup appears confirming your label was created.
+     Click **Close** — the exercise will guide you to the side panel in the next section.
 
 **Expected result:** Your "Cost Center" label with values CC-100, CC-200, and CC-300 is ready.
 
