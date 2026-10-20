@@ -8,8 +8,7 @@
 2. In the left sidebar, confirm **"Basic"** is selected (pre-selected by default).
 3. In the **Period** section, set **Month** to **Previous Month** — the same month you analyzed in Exercise 1.
 4. Use the **Group By** dropdown and select **Services → All Services**. Sort by **List Price** descending and confirm **SAP HANA Cloud - HANA** appears at the top — the highest-cost service from Exercise 1.3.
-5. In the left sidebar under **Filter**, expand **Services** and select **SAP HANA Cloud** to narrow the view to HANA costs only.
-6. Clear the filter, then switch **Group By** to **Account → Directories & Subaccounts**. Confirm you can see the 5 Apex Holdings subsidiaries: **Atlas Industries**, **Lumina Energy**, **HarborCare Health**, **Crestline Retail**, and **NexaTech Digital**.
+5. Switch **Group By** to **Account → Directories & Subaccounts**. Confirm you can see the 5 Apex Holdings subsidiaries: **Atlas Industries**, **Lumina Energy**, **HarborCare Health**, **Crestline Retail**, and **NexaTech Digital**.
 
 > **TechEd Preview — UI orientation:**
 > The left sidebar replaces the table header and has three sections you'll use throughout Exercise 2:
