@@ -30,7 +30,8 @@ APEX Holdings uses four regions: **EMEA**, **AMER**, **APJ**, and **Global** (fo
 
 1. Switch to **Account → All Account Entities** in **Group By**.
 2. In the left sidebar under **View**, set **Cost Label** to **"Region"**.
-3. Assign **AMER** to **Sales App 1 – PROD** and **APJ** to **HR App 4 – TEST**.
+3. Assign **AMER** to **Sales App 1 – PROD** — expand **Lumina Energy → PROD → Sales App 1 – PROD**, click it to open the details pane, click **Edit**, select **AMER**, then **Save**.
+4. Assign **APJ** to **HR App 4 – TEST** — expand **NexaTech Digital → TEST → HR App 4 – TEST**, click it to open the details pane, click **Edit**, select **APJ**, then **Save**.
 
 ## Observe the Two Dimensions Side by Side
 
