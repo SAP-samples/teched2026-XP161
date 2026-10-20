@@ -16,7 +16,7 @@ The agreed split is: **CC-100: 40%, CC-200: 35%, CC-300: 25%**.
 1. In **Group By**, confirm **Account → All Account Entities** is selected.
 2. Expand **NexaTech Digital → PROD → HR App 3 – PROD**.
 3. Continue expanding to find **hr_app_3_prod_space_1** inside HR App 3 – PROD.
-4. Inside the space, expand **SAP Analytics Cloud, embedded edition** and click on the **Standard (Time)** instance (`d3a35e06-824a-487b-bd9c-68372aca49fb`).
+4. Inside the space, expand **SAP Analytics Cloud, embedded edition** (Service), then expand the **Standard (Time)** service plan beneath it. Click the instance row — `d3a35e06-824a-487b-bd9c-68372aca49fb`.
 5. The details pane opens, showing 100% of the SAC cost currently attributed to CC-200 (NexaTech Digital, inherited).
 
 ## Apply the Fixed Percentage Split
@@ -48,8 +48,8 @@ Click on the donut chart in the details pane header, or view the instance row di
 
 | Cost Center | Amount |
 |---|---|
-| CC-100 | 1,349.06 USD |
-| CC-200 | 1,541.78 USD |
+| CC-100 | 1,541.78 USD |
+| CC-200 | 1,349.06 USD |
 | CC-300 | 963.62 USD |
 
 </details>
