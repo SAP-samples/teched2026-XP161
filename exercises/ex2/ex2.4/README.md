@@ -26,6 +26,8 @@ APEX Holdings uses four regions: **EMEA**, **AMER**, **APJ**, and **Global** (fo
 
 **Expected result:** Your second label "Region" with 4 values is ready alongside "Cost Center".
 
+![Cost Label Region Creation](images/cost-label-region-creation.png)
+
 ## Assign Regions to Known Workloads
 
 1. Switch to **Account → All Account Entities** in **Group By**.
