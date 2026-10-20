@@ -73,7 +73,7 @@ Yes — SAP HANA Cloud costs are visible at the instance level. There are 3 inst
 
 **Repeat the same flow for the remaining subsidiaries:**
 
-7. **NexaTech Digital → CC-200** — close the pane and verify that **HR App 4 – TEST** (40,000+ USD) now appears in the CC-200 column.
+7. **NexaTech Digital → CC-200** — close the pane and verify that **HR App 4 – TEST** (40,527.64 USD) now appears in the CC-200 column.
 8. **Crestline Retail → CC-300** — close the pane and verify its costs appear in CC-300.
 
 **Tag a deleted subaccount — Backup Vault:**
