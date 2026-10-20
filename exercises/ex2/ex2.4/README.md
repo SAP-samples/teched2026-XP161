@@ -44,7 +44,7 @@ APEX Holdings uses four regions: **EMEA**, **AMER**, **APJ**, and **Global** (fo
 
 ## Cross-Dimensional Reporting
 
-1. Switch **Group By → Cost Labels → All Cost Labels** and **Cost Label → Region** to see total BTP cost per region across all of APEX Holdings.
+1. Keep **Group By → Account → All Account Entities** and set **View → Cost Label** to **Region**. The table's **Cost Allocation: Region** columns (AMER, APJ, EMEA, Global, Unassigned) now show total BTP cost per region across all of APEX Holdings.
 
 **What is the total cost for AMER workloads within CC-100?**
 
@@ -52,6 +52,8 @@ APEX Holdings uses four regions: **EMEA**, **AMER**, **APJ**, and **Global** (fo
 <summary>Hint</summary>
 
 Keep **View → Cost Label: Region** and filter by **Cost Label → Cost Center → CC-100**.
+
+![AMER cost within CC-100](images/region-amer-cc100-filter.png)
 
 </details>
 
