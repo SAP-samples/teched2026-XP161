@@ -16,7 +16,7 @@ The **Export to Excel** feature lets you download BTP cost data for the past 12,
 1. Make sure you're in the **Billing** tab, with all filters cleared and the **Month** set to **Previous Month**.
 2. In the search box, type `ContactPerson` and use auto-complete to select `ContactPerson alex.yamamoto@apex.com`.
 3. Click the small arrow next to the **Export** button and select **"Custom..."**.
-4. Verify: time period = previous month; search filter shows `ContactPerson:alex.yamamoto@apex.com`.
+4. Verify: time period = the previous month (shown as the month name in the UI); search filter shows `ContactPerson:alex.yamamoto@apex.com`.
 5. Keep default settings and click **Export**.
 6. Open the exported Excel file from your Downloads folder.
    - The **Global Account Costs** and **Subaccount Costs by Service** sheets are filtered to the selected contact person.
@@ -32,7 +32,7 @@ The **Export to Excel** feature lets you download BTP cost data for the past 12,
 1. Click **"Clear Filters"** to reset all filters.
 2. Set **Month** to **Previous Month**.
 3. Click the small arrow next to **Export** and select **"Custom..."**.
-4. Confirm no filter is applied ("All filters show (no filter)").
+4. Confirm all **Active Filters** show **(no filter)**.
 5. In the **"Labels as Columns"** field, enter: `CostCenter`
 
 > [!TIP]
@@ -40,11 +40,11 @@ The **Export to Excel** feature lets you download BTP cost data for the past 12,
 
 6. Click **Export** and open the downloaded file.
 7. Navigate to the **"Subaccount Costs by Service"** sheet.
-8. Find the column labeled **"Label Values for Key: CostCenter"** — this contains the cost center assigned to each row. Use Excel's filter on this column to isolate any cost center and sum its total. This column also works as a dimension in a pivot table, giving you a data cube where cost center is one axis of your cost analysis.
+8. Find the column **"Label Values for Key: CostCenter"** — this contains the cost center labels (e.g. CC-100, CC-200). Note: there is also an adjacent **"Entity ID of Label Source: CostCenter"** column showing a GUID — ignore that one. Use Excel's filter on the label column to isolate any cost center and sum its total. This column also works as a dimension in a pivot table, giving you a data cube where cost center is one axis of your cost analysis.
 
 ### Using Excel's Analyze Data Feature
 
-1. In the Excel **Data** ribbon, click **"Analyze Data"**.
+1. In Excel, click the **Data** tab in the ribbon, then click **"Analyze Data"**.
 2. In the text box, enter: `Cost by Label Values for Key: CostCenter`
 3. Review the generated analysis and click **"Insert PivotChart"** to add it to your worksheet.
 

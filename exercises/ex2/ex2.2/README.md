@@ -17,15 +17,19 @@ Assignments are made at the subsidiary (directory) level, and all child subaccou
 > Continue in the **TechEd Preview** tab you opened in Exercise 2.1.
 
 1. In the left sidebar, click **"Advanced"**.
+   1. A popup appears — *"We've added a sample cost label to help you get started!"*. Close it by clicking the **X** in the top-right corner.
 2. In the **Group By** dropdown, confirm **Cost Labels → All Cost Labels** is selected.
    1. The system shows default **Sample** labels — these are placeholders. You'll rename them to create a **Cost Center** dimension for internal allocation.
 3. Click **Manage Cost Labels** and update the sample label:
    - Rename the label key to **"Cost Center"** (remove *(Sample)*)
    - Rename the three values to **"CC-100"**, **"CC-200"**, and **"CC-300"** (remove *(Sample)* from each)
    - Delete the 4th sample value
-   - Click **Save**. When prompted, click **Close**.
+   - Click **Save**. A **"Saved Changes"** popup appears confirming your label was created.
+     Click **Close** — the exercise will guide you to the side panel in the next section.
 
 **Expected result:** Your "Cost Center" label with values CC-100, CC-200, and CC-300 is ready.
+
+![Cost Label Cost Center Creation](images/cost-label-cost-center-creation.png)
 
 ## Explore the Granular Cost Breakdown
 
@@ -37,7 +41,7 @@ Assignments are made at the subsidiary (directory) level, and all child subaccou
 <details>
 <summary>Hint</summary>
 
-Drill down: **Lumina Energy → PROD → Sales App 1 – PROD → sales_app_1_prod_space_1**
+Drill down: **Lumina Energy → PROD → Sales App 1 – PROD → sales_app_1_prod_space_1 → SAP HANA Cloud → HANA (Capacity Units)**
 
 </details>
 
@@ -54,7 +58,7 @@ Yes — SAP HANA Cloud costs are visible at the instance level. There are 3 inst
 ## Assign Cost Centers to Subsidiaries
 
 > [!TIP]
-> **Exercise 1 ceiling you're crossing here:** One directory-level assignment cascades to all 40+ child subaccounts instantly — no individual updates. And if a subaccount is later deleted, the label assignment survives.
+> **Exercise 1 ceiling you're crossing here:** One directory-level assignment cascades down the entire hierarchy — to all child subaccounts, Cloud Foundry spaces, and service instances — no individual updates. And if any entity is later deleted — a subaccount, space, or instance — its label assignment survives.
 
 **Assign Lumina Energy → CC-100:**
 
@@ -63,18 +67,20 @@ Yes — SAP HANA Cloud costs are visible at the instance level. There are 3 inst
 3. In the **Cost Center** field, select **CC-100**. Click **Save**.
 4. Close the details pane to see the updated table.
 5. Observe: a label icon appears next to **Lumina Energy**. Its costs — and the costs of all its child entities — now appear in the **CC-100** column.
-6. Expand **Lumina Energy → PROD → Sales App 1 – PROD**. In the details pane, the label shows as **Inherited** from Lumina Energy. No label icon appears next to the subaccount name (icons indicate direct assignment only).
+6. Expand **Lumina Energy → PROD → Sales App 1 – PROD**. Click on any subaccount to open the details pane — at the top you'll see an **Inherited** badge next to a **"View cost allocation source"** link, confirming the label flows down from Lumina Energy. No label icon appears next to the subaccount name in the table (icons indicate direct assignment only).
+
+![Inherited badge in details pane](images/inherited-indication.png)
 
 **Repeat the same flow for the remaining subsidiaries:**
 
-7. **NexaTech Digital → CC-200** — close the pane and verify that **HR App 4 – TEST** (40,000+ USD) now appears in the CC-200 column.
+7. **NexaTech Digital → CC-200** — close the pane and verify that **HR App 4 – TEST** (40,527.64 USD) now appears in the CC-200 column.
 8. **Crestline Retail → CC-300** — close the pane and verify its costs appear in CC-300.
 
 **Tag a deleted subaccount — Backup Vault:**
 
 Last month **Backup Vault** was decommissioned, but its costs are still visible in the previous month's data. It appears in the table without a parent directory — an orphaned row.
 
-9. Scroll to the bottom of the entity list to find **Backup Vault**.
+9. In the main table, find **Backup Vault** — it appears below the five subsidiaries in the list of deleted subaccounts (marked *(deleted)*), in alphabetical order.
 10. Click on it → **Edit** → select **CC-100** → **Save**.
 11. Close the details pane to see the updated table.
 
@@ -95,12 +101,12 @@ In **Group By**, select **Account → All Account Entities** — the cost center
 <details>
 <summary>Answer</summary>
 
-| Cost Center | Amount |
-|---|---|
-| CC-100 | 159,315.23 USD |
-| CC-200 | 220,904.43 USD |
-| CC-300 | 103,850.26 USD |
-| Unassigned | 225,286.41 USD |
+| Cost Center | Amount         |
+| ----------- | -------------- |
+| CC-100      | 159,315.23 USD |
+| CC-200      | 220,904.43 USD |
+| CC-300      | 103,850.26 USD |
+| Unassigned  | 225,286.41 USD |
 
 Atlas Industries and HarborCare Health account for the unassigned portion.
 
@@ -112,7 +118,6 @@ Sales App 1 – PROD inherits **CC-100** from Lumina Energy. Inside it, three SA
 
 1. Expand **Lumina Energy → PROD → Sales App 1 – PROD → sales_app_1_prod_space_1**.
 2. You will see three SAP HANA Cloud – HANA instances, all currently showing costs in the **CC-100** column (inherited from Lumina Energy).
-
 3. Click on instance `cce2dd07-0931-4355-95c8-aa037a88f83c` → **Edit** → deselect **CC-100**, select **CC-200** → **Save**.
 4. Override instance `30eeba60-2008-4dc9-bf2b-9db1f358e8a4` with **CC-300** the same way.
 5. View the result in the main table.
@@ -122,11 +127,11 @@ Sales App 1 – PROD inherits **CC-100** from Lumina Energy. Inside it, three SA
 <details>
 <summary>Answer</summary>
 
-| Cost Center | Amount |
-|---|---|
-| CC-100 | 129,808.45 USD |
-| CC-200 | 6,592.45 USD |
-| CC-300 | 3,956.15 USD |
+| Cost Center | Amount         |
+| ----------- | -------------- |
+| CC-100      | 129,808.45 USD |
+| CC-200      | 6,592.45 USD   |
+| CC-300      | 3,956.15 USD   |
 
 </details>
 

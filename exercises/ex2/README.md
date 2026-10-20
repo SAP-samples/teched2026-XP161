@@ -11,7 +11,7 @@ You delivered the Exercise 1 findings. Dana is back.
 Exercise 1 gave you the full cost picture. Exercise 2 goes deeper in three areas where more precision is possible:
 
 - **Instance-level visibility.** You traced the HANA spike to Sales App 1 – PROD. Now drill to the specific service instance driving the cost.
-- **Scalable label assignment.** Assign a label at the directory level and have all subaccounts beneath it inherit it automatically — including future ones.
+- **Fine-grained label allocation.** Allocate cost labels below the subaccount level — down to individual Cloud Foundry spaces and service instances — for precise attribution.
 - **Shared resource cost splitting.** Distribute a shared service cost across multiple business units using fixed percentages.
 
 ---
@@ -27,7 +27,7 @@ The same APEX Holdings data, through a more capable lens.
 |---|---|
 | Cost breakdown stops at subaccount | **Drill to CF space and service instance** |
 | Labels coupled to entity lifecycle — lost on deletion | **Labels persist independently** of account structure |
-| Label assignment one subaccount at a time | **Assign at any directory level — all children inherit** |
+| Labels assignable only down to subaccount | **Allocate and override labels down to CF space and service instance** |
 | No cost splitting for shared resources | **Fixed percentage distribution across cost labels** |
 
 > [!IMPORTANT]

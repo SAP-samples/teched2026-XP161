@@ -35,19 +35,20 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
 4. Keep the default **Cost** budget type (tracks monetary value at list price).
 5. Keep the default date range — starts immediately from the current month, with no end date.
 
-   ![Budget Scope Selection](images/budget-scope-subaccount.jpg)
 6. **Scope:**
 
    - Select filter type: **Subaccounts**
    - Click the squared icon (highlighted in the screenshot) to open the selection dialog
    - Search for: `HR App 4`
    - Expand the results and choose: **HR App 4 – TEST**
-   - Click **Select**, then **Apply**
+   - Click **Select**, then click **Apply** in the Scope section to confirm your selection
    - The history preview updates to show HR App 4 – TEST cost trend for the last 12 months
+
+   ![Budget Scope Selection](images/budget-scope-subaccount.jpg)
 
    > You can scope budgets by subaccounts, services, or a combination. This flexibility aligns budgets with your organizational structure.
    >
-7. **Amount:** Enter `40,000` USD.
+7. **Monthly Budget Amount:** Enter `40000` USD.
 
    > Budgets track actual consumption, not prepaid quota, so they focus on costs that directly impact your bill.
    >
@@ -56,7 +57,8 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
 10. Review the updated history preview with the new thresholds.
 11. Toggle on **"Automatically send alerts to global account admins"**.
 12. Click **Create**.
-13. In the **Active Budgets** table, verify your new budget appears.
+13. A **"Budget Created"** confirmation pop-up appears with notes about evaluation cycles. Click **Close**.
+14. In the **Active Budgets** table, verify your new budget appears.
 
     **Are any thresholds already exceeded?**
 
