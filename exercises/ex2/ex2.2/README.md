@@ -17,6 +17,7 @@ Assignments are made at the subsidiary (directory) level, and all child subaccou
 > Continue in the **TechEd Preview** tab you opened in Exercise 2.1.
 
 1. In the left sidebar, click **"Advanced"**.
+   1. A popup appears — *"We've added a sample cost label to help you get started!"*. Close it by clicking the **X** in the top-right corner.
 2. In the **Group By** dropdown, confirm **Cost Labels → All Cost Labels** is selected.
    1. The system shows default **Sample** labels — these are placeholders. You'll rename them to create a **Cost Center** dimension for internal allocation.
 3. Click **Manage Cost Labels** and update the sample label:
