@@ -80,7 +80,7 @@ Yes — SAP HANA Cloud costs are visible at the instance level. There are 3 inst
 
 Last month **Backup Vault** was decommissioned, but its costs are still visible in the previous month's data. It appears in the table without a parent directory — an orphaned row.
 
-9. Scroll to the bottom of the entity list to find **Backup Vault**.
+9. In the main table, find **Backup Vault** — it appears below the five subsidiaries in the list of deleted subaccounts (marked *(deleted)*), in alphabetical order.
 10. Click on it → **Edit** → select **CC-100** → **Save**.
 11. Close the details pane to see the updated table.
 
