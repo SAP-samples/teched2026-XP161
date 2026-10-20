@@ -40,7 +40,7 @@ The **Export to Excel** feature lets you download BTP cost data for the past 12,
 
 6. Click **Export** and open the downloaded file.
 7. Navigate to the **"Subaccount Costs by Service"** sheet.
-8. Find the column labeled **"Label Values for Key: CostCenter"** — this contains the cost center assigned to each row. Use Excel's filter on this column to isolate any cost center and sum its total. This column also works as a dimension in a pivot table, giving you a data cube where cost center is one axis of your cost analysis.
+8. Find the column **"Label Values for Key: CostCenter"** — this contains the cost center labels (e.g. CC-100, CC-200). Note: there is also an adjacent **"Entity ID of Label Source: CostCenter"** column showing a GUID — ignore that one. Use Excel's filter on the label column to isolate any cost center and sum its total. This column also works as a dimension in a pivot table, giving you a data cube where cost center is one axis of your cost analysis.
 
 ### Using Excel's Analyze Data Feature
 
