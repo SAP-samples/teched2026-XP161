@@ -40,6 +40,8 @@ APEX Holdings uses four regions: **EMEA**, **AMER**, **APJ**, and **Global** (fo
 1. Switch **Cost Label** to **"Cost Center"** — the full cost center allocation (**CC-100**, **CC-200**, **CC-300**) is unchanged from Exercises 2.2–2.3. Even though **Sales App 1 – PROD** and **HR App 4 – TEST** now also carry a **Region** label, their Cost Center allocation is untouched. The two dimensions coexist as independent perspectives on the same costs — neither overwrites the other.
 2. Switch **Cost Label** back to **"Region"**.
 
+![Cost Label Switch](images/cost-label-switch.png)
+
 ## Cross-Dimensional Reporting
 
 1. Switch **Group By → Cost Labels → All Cost Labels** and **Cost Label → Region** to see total BTP cost per region across all of APEX Holdings.
