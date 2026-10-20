@@ -69,6 +69,8 @@ Yes — SAP HANA Cloud costs are visible at the instance level. There are 3 inst
 5. Observe: a label icon appears next to **Lumina Energy**. Its costs — and the costs of all its child entities — now appear in the **CC-100** column.
 6. Expand **Lumina Energy → PROD → Sales App 1 – PROD**. Click on any subaccount to open the details pane — at the top you'll see an **Inherited** badge next to a **"View cost allocation source"** link, confirming the label flows down from Lumina Energy. No label icon appears next to the subaccount name in the table (icons indicate direct assignment only).
 
+![Inherited badge in details pane](images/inherited-indication.png)
+
 **Repeat the same flow for the remaining subsidiaries:**
 
 7. **NexaTech Digital → CC-200** — close the pane and verify that **HR App 4 – TEST** (40,000+ USD) now appears in the CC-200 column.
