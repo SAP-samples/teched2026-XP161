@@ -22,7 +22,7 @@ APEX Holdings uses four regions: **EMEA**, **AMER**, **APJ**, and **Global** (fo
 2. Click **Manage Cost Labels**. In the panel that opens, scroll to the bottom and click **"+ Add Cost Label Key"**.
 3. Name the key: **"Region"**
 4. Add 4 values: **"EMEA"**, **"AMER"**, **"APJ"**, **"Global"**
-5. Click **Save**.
+5. Click **Save**. The same **"Saved Changes"** confirmation popup appears — click **Close**.
 
 **Expected result:** Your second label "Region" with 4 values is ready alongside "Cost Center".
 
