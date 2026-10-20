@@ -37,7 +37,7 @@ APEX Holdings uses four regions: **EMEA**, **AMER**, **APJ**, and **Global** (fo
 
 ## Observe the Two Dimensions Side by Side
 
-1. Switch **Cost Label** to **"Cost Center"** — the same entities now show CC-100 and CC-200. Neither dimension overwrites the other.
+1. Switch **Cost Label** to **"Cost Center"** — the full cost center allocation (**CC-100**, **CC-200**, **CC-300**) is unchanged from Exercises 2.2–2.3. Even though **Sales App 1 – PROD** and **HR App 4 – TEST** now also carry a **Region** label, their Cost Center allocation is untouched. The two dimensions coexist as independent perspectives on the same costs — neither overwrites the other.
 2. Switch **Cost Label** back to **"Region"**.
 
 ## Cross-Dimensional Reporting
