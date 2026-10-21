@@ -2,22 +2,22 @@
 
 **Goal:** Allocate a shared resource cost across Apex Holdings cost centers using fixed percentages.
 
-**Scenario:** APEX Holdings runs a shared **SAP Analytics Cloud (SAC) embedded edition** instance hosted under NexaTech Digital — but used across all three business units for finance reporting, HR analytics, and retail operations. Currently, 100% of the SAC cost lands on NexaTech Digital (CC-200) because that's where the instance is hosted. The CFO needs the cost distributed to reflect actual usage across all three cost centers.
+**Scenario:** HANA Cloud is APEX Holdings' largest cost driver (Exercise 1.3). In Exercise 2.2, each HANA instance in Sales App 1 – PROD was attributed to a **single cost center**. The HANA Cloud instance behind **Finance App 3 – PROD** is different: it's a **shared** instance, so no single cost center reflects who really uses it. Today its entire cost is attributed to one cost center — **CC-200** — inherited through the hierarchy from the assignments you made in Exercise 2.2. The CFO wants it **split across CC-100, CC-200, and CC-300** to reflect actual usage.
 
 The agreed split is: **CC-100: 40%, CC-200: 35%, CC-300: 25%**.
 
 > [!NOTE]
 > Fixed distribution is useful when a shared resource's actual per-team consumption is difficult to measure directly. You define a percentage split based on agreed-upon estimates rather than tracking real-time per-team usage.
 
-## Find the SAP Analytics Cloud Instance
+## Find the SAP HANA Cloud Instance
 
 > Continue in the **TechEd Preview** tab, **Advanced** view.
 
 1. In **Group By**, confirm **Account → All Account Entities** is selected.
-2. Expand **NexaTech Digital → PROD → HR App 3 – PROD**.
-3. Continue expanding to find **hr_app_3_prod_space_1** inside HR App 3 – PROD.
-4. Inside the space, expand **SAP Analytics Cloud, embedded edition** (Service), then expand the **Standard (Time)** service plan beneath it. Click the instance row — `d3a35e06-824a-487b-bd9c-68372aca49fb`.
-5. The details pane opens, showing 100% of the SAC cost currently attributed to CC-200 (NexaTech Digital, inherited).
+2. Expand **NexaTech Digital → PROD → Finance App 3 – PROD**.
+3. Continue expanding to find **`finance_app_3_prod_space_1`** inside Finance App 3 – PROD.
+4. Inside the space, expand **SAP HANA Cloud** (Service), then expand the **HANA (Capacity Units)** service plan beneath it. Click the instance row — `91d9d4d0-14dd-4aa5-b0a7-afef448aedbd`.
+5. The details pane opens, showing the instance's cost currently attributed entirely to **CC-200** (inherited through the hierarchy).
 
 ## Apply the Fixed Percentage Split
 
@@ -34,7 +34,7 @@ The agreed split is: **CC-100: 40%, CC-200: 35%, CC-300: 25%**.
 - The **donut chart** in the details pane header visualizes the distribution across cost centers at a glance.
 - In the details pane, the cost breakdown reflects the percentage allocation.
 
-**What is the SAC instance cost per cost center after the split?**
+**What is the HANA instance cost per cost center after the split?**
 
 <details>
 <summary>Hint</summary>
@@ -48,9 +48,9 @@ Click on the donut chart in the details pane header, or view the instance row di
 
 | Cost Center | Amount |
 |---|---|
-| CC-100 | 1,541.78 USD |
-| CC-200 | 1,349.06 USD |
-| CC-300 | 963.62 USD |
+| CC-100 | 585.17 USD |
+| CC-200 | 512.03 USD |
+| CC-300 | 365.73 USD |
 
 </details>
 
