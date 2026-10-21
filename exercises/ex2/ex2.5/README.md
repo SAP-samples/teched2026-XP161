@@ -43,4 +43,4 @@ In the export dialog:
 
 ---
 
-[← Exercise 2.4 — Additional Label](../ex2.4/) | [Continue to: Exercise 3 — Ask Joule →](../ex3/)
+[← Exercise 2.4 — Additional Label](../ex2.4/) | [Continue to: Exercise 3 — Ask Joule →](../../ex3/)
