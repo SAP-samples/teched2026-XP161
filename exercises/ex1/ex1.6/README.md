@@ -2,6 +2,8 @@
 
 ## Introduction
 
+In Exercise 1.1 you spotted that Cloud Foundry Runtime is exceeding its prepaid quota — here you confirm the overage and identify the right action.
+
 In this section you will identify cost and utilization optimizations for the Apex Holdings global account, focusing on prepaid quota management.
 
 BTP offers many optimization opportunities — contract rightsizing, cloud credit management, and more. In this exercise we focus on one of the most impactful: prepaid quota utilization.
