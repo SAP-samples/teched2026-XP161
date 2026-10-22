@@ -4,7 +4,7 @@
 
 You delivered the Exercise 1 findings. Dana is back.
 
-> *"Good work. Now I need the next level. Subaccount names mean nothing to my board — I need cost center attribution. Lumina, NexaTech, Crestline. HANA's our biggest line item — you saw that. And one shared HANA Cloud instance behind our financial reporting sits under NexaTech, even though all three divisions run on it. Split it: CC-100 gets 40%, CC-200 35%, CC-300 25%."*
+> *"Good work. Now I need the next level. Subaccount names mean nothing to my board — I need cost center attribution. Lumina, NexaTech, Crestline. HANA's our biggest line item — you saw that. And there's a shared HANA Cloud instance — it sits under NexaTech so today 100% of its cost lands on CC-200, but all three cost centers use it. That's not right. Split it: CC-100 gets 40%, CC-200 35%, CC-300 25%."*
 
 > [!WARNING]
 > **The features in this exercise are a TechEd Preview — not yet generally available.** They represent the planned direction and may change before release.
