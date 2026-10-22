@@ -58,7 +58,7 @@ Yes — SAP HANA Cloud costs are visible at the instance level. There are 3 inst
 ## Assign Cost Centers to Subsidiaries
 
 > [!TIP]
-> **Exercise 1 ceiling you're crossing here:** One directory-level assignment cascades down the entire hierarchy — to all child subaccounts, Cloud Foundry spaces, and service instances — no individual updates. And if any entity is later deleted — a subaccount, space, or instance — its label assignment survives.
+> **Exercise 1 ceiling you're crossing here:** One directory-level assignment cascades down the entire hierarchy — to all child subaccounts, Cloud Foundry spaces, and service instances. And if any entity is later deleted — a subaccount, space, or instance — its label assignment survives.
 
 **Assign Lumina Energy → CC-100:**
 
