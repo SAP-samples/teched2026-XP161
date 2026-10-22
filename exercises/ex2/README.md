@@ -19,7 +19,8 @@ Exercise 1 gave you the full cost picture. Exercise 2 goes deeper in three areas
 
 ---
 
-## What Exercise 2 Unlocks
+<details>
+<summary><b>What Exercise 2 Unlocks</b></summary>
 
 The same APEX Holdings data, through a more capable lens.
 
@@ -29,6 +30,8 @@ The same APEX Holdings data, through a more capable lens.
 | Labels coupled to entity lifecycle — lost on deletion | **Labels persist independently** of account structure |
 | Labels assignable only down to subaccount | **Allocate and override labels down to CF space and service instance** |
 | No cost splitting for shared resources | **Fixed percentage distribution across cost labels** |
+
+</details>
 
 > [!IMPORTANT]
 > **Before starting Exercise 2**, open the following link. It activates both the Apex Holdings demo account and the **"TechEd Preview"** tab:
