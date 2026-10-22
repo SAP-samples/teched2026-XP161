@@ -1,16 +1,13 @@
 # Exercise 1.4 — Cross Charge / Cost Allocation — (approx. 10 minutes)
 
-> [!TIP]
-> **This exercise is optional.** Complete it if you are new to cost allocation in SAP BTP. Otherwise, proceed directly to [Exercise 1.5 — Controlling Costs Using Budgets](../ex1.5/).
+> [!NOTE]
+> **This exercise is optional.** Complete it if you are new to cost allocation in SAP BTP. Otherwise, proceed directly to [Exercise 1.5 — Controlling Costs Using Budgets](../ex1.5/). The capabilities you use here are available in your BTP account today. Later in Exercise 2, you'll get a sneak peek of what's coming next with cross charging.
 
 ## Introduction
 
 **Cross charging** is an internal cost allocation practice where one part of an organization charges another for shared services or resources. It ensures fair cost distribution and helps each business unit reflect the true cost of what it consumes.
 
 In this section you will track costs within the Apex Holdings account hierarchy and distribute expenses across the organization using the account structure and **labels** (Contact Person, Cost Center, Department, Environment, Region).
-
-> [!NOTE]
-> This exercise covers cross-charging with today's capabilities. The skills you build here apply directly to your current BTP account. Later in Exercise 2, you'll get a sneak peek at what's coming next.
 
 ![1789400664545](images/account-hierarchy.png)
 
