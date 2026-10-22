@@ -2,6 +2,8 @@
 
 ## Introduction
 
+Before Dana takes the Q3 numbers to her board, she needs to know they match the actual billing statement.
+
 Billing verification is done on a monthly basis, verifying the charges in the balance statement. It confirms all charges are accurate, establishing confidence in the data before further cost analysis.
 
 1. You are on the **Overview** tab. Scroll to the **footer** of the page and click the **"Billing Statement Information"** link. This links to SAP for Me where you can download the Balance Statement. For this exercise, screenshots are provided — no SAP for Me login is needed.
