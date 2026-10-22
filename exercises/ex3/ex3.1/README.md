@@ -8,9 +8,13 @@ You'll pull each quarter's most expensive service plans, then let Joule build th
 
 ## Compare Service Plans
 
-Open Joule in the BTP Cockpit and ask for Q3, then Q2:
+Open **Joule** by clicking the **Joule icon** in the **top-right corner** of the BTP Cockpit. Start with Q3:
 
 > **"What are the top 5 most expensive service plans in Q3 2026?"**
+
+Joule returns a ranked list — and a chart — of the five costliest service plans for the quarter, highest first. Note which plan tops the list; you'll compare it against Q2 next.
+
+Now ask for Q2:
 
 > **"What are the top 5 most expensive service plans in Q2 2026?"**
 
