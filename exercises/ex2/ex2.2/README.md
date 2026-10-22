@@ -1,8 +1,10 @@
 # Exercise 2.2 — Advanced View: Cost Breakdown & Label Assignment (~8 minutes)
 
+This is the cost center attribution Dana asked for in her follow-up.
+
 **Goal:** Create a **Cost Center** cost label and assign it to the Apex Holdings account hierarchy — mapping each subsidiary to its dedicated internal cost center.
 
-**Scenario:** Dana's core request — cost center attribution — starts here. Assign cost centers to three of APEX Holdings' five subsidiaries for budget reporting and charge-back:
+**Scenario:** Assign cost centers to three of APEX Holdings' five subsidiaries for budget reporting and charge-back:
 
 - **Lumina Energy** → **CC-100**
 - **NexaTech Digital** → **CC-200**
