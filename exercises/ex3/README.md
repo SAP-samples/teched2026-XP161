@@ -15,11 +15,11 @@ You're back at your desk when an email from Dana lands, flagged urgent:
 >
 > *You know the cockpit inside out, but I need this fast. — Dana"*
 
-You could answer this by navigating the cockpit — around 15 minutes. Instead, you'll use **Joule** to answer in plain language, then have Joule draft your reply to Dana.
+You could answer this by navigating the cockpit — around 15 minutes. Instead, you'll use **Joule** to answer in natural language, then have Joule draft your reply to Dana.
 
 ## Why Joule for FinOps
 
-The cockpit's cost views give you predefined perspectives — breakdowns by subaccount, service, and month. They work well for routine monitoring, but they can't easily answer the specific, ad-hoc questions that come up during a cost review. **Joule** adds a natural-language interface: instead of navigating to the right view and setting filters, you ask your question in plain English and get a structured answer back.
+The cockpit's cost views give you predefined perspectives — breakdowns by subaccount, service, and month. They work well for routine monitoring, but they can't easily answer the specific, ad-hoc questions that come up during a cost review. **Joule** adds a natural-language interface: instead of navigating to the right view and setting filters, you ask your question in your own words and get a structured answer back.
 
 Generative AI has a catch, though. These models are probabilistic — the same question can return slightly different answers, and a model asked to reason over numbers can get them wrong. For FinOps that's unacceptable: cost figures must be exact and repeatable, matching the cockpit to the cent.
 
