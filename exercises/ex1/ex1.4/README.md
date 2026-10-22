@@ -109,6 +109,9 @@ In this section you will track costs within the Apex Holdings account hierarchy 
    </details>
 3. Bookmark the EMEA filter by clicking the **Bookmark** button. This copies a link you can save or share with the EMEA region owner for ongoing tracking.
 
+> [!NOTE]
+> The cross-charging capabilities you used here are available in your BTP account today. In Exercise 2, you'll get a sneak peek of what's coming next — going deeper than the subaccount level to assign and split costs at the Cloud Foundry space and service instance level.
+
 ## Summary
 
 ### 🎯 Key Takeaways
