@@ -8,7 +8,7 @@
 - **NexaTech Digital** → **CC-200**
 - **Crestline Retail** → **CC-300**
 
-Atlas Industries and HarborCare Health are left unassigned — the same assignment flow applies and is omitted here for brevity. One decommissioned subaccount — **Backup Vault** — still carries last month's costs with no cost center tag; you'll tag it to demonstrate that advanced cost labels are decoupled from the entity lifecycle.
+Atlas Industries and HarborCare Health are left unassigned — to keep the exercise focused and save time, we skip assigning them here. One deleted subaccount — **Backup Vault** — has no cost center tag; you'll tag it to demonstrate that advanced cost labels are decoupled from the entity lifecycle.
 
 Assignments are made at the subsidiary (directory) level, and all child subaccounts inherit automatically.
 
@@ -53,12 +53,12 @@ Yes — SAP HANA Cloud costs are visible at the instance level. There are 3 inst
 </details>
 
 > [!NOTE]
-> Cost breakdown to space or instance level is optional and may not be supported for all services.
+> Cost breakdown to space or instance level depends on the service — not all services support this level of granularity.
 
 ## Assign Cost Centers to Subsidiaries
 
 > [!TIP]
-> **Exercise 1 ceiling you're crossing here:** One directory-level assignment cascades down the entire hierarchy — to all child subaccounts, Cloud Foundry spaces, and service instances — no individual updates. And if any entity is later deleted — a subaccount, space, or instance — its label assignment survives.
+> **Exercise 1 ceiling you're crossing here:** One directory-level assignment cascades down the entire hierarchy — to all child subaccounts, Cloud Foundry spaces, and service instances. And if any entity is later deleted — a subaccount, space, or instance — its label assignment survives.
 
 **Assign Lumina Energy → CC-100:**
 

@@ -77,10 +77,10 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
 
 ### 🎯 Key Takeaways
 
-- ✅ Create and manage cost-based budgets scoped to specific subaccounts
-- ✅ Distinguish Cost-based vs. Charged Usage budget types
+- ✅ Create and manage budgets scoped by subaccounts, service plans, or a combination of both
+- ✅ Create budgets of both types: Cost-based and Charged Usage
 - ✅ Configure custom threshold percentages for early alerting
-- ✅ Enable email notifications and SAP Alert Notification Service integration
+- ✅ Enable automatic email notifications to global account admins and extend with custom alerts — use SAP Alert Notification Service to send alerts to specific recipients or channels (Teams, Slack, webhook endpoints)
 - ✅ Understand how visual indicators signal budget exceedances at a glance
 
 ---
