@@ -53,7 +53,7 @@ Yes — SAP HANA Cloud costs are visible at the instance level. There are 3 inst
 </details>
 
 > [!NOTE]
-> Cost breakdown to space or instance level is optional and may not be supported for all services.
+> Cost breakdown to space or instance level depends on the service — not all services support this level of granularity.
 
 ## Assign Cost Centers to Subsidiaries
 
