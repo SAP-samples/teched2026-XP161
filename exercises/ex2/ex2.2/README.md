@@ -8,7 +8,7 @@
 - **NexaTech Digital** → **CC-200**
 - **Crestline Retail** → **CC-300**
 
-Atlas Industries and HarborCare Health are left unassigned — the same assignment flow applies and is omitted here for brevity. One decommissioned subaccount — **Backup Vault** — still carries last month's costs with no cost center tag; you'll tag it to demonstrate that advanced cost labels are decoupled from the entity lifecycle.
+Atlas Industries and HarborCare Health are left unassigned — to keep the exercise focused and save time, we skip assigning them here. The same steps apply if you want to try it yourself. One decommissioned subaccount — **Backup Vault** — still carries last month's costs with no cost center tag; you'll tag it to demonstrate that advanced cost labels are decoupled from the entity lifecycle.
 
 Assignments are made at the subsidiary (directory) level, and all child subaccounts inherit automatically.
 
