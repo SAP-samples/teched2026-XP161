@@ -3,7 +3,7 @@
 > [!TIP]
 > **This exercise is optional.** Complete it to hand Dana a board-ready cost breakdown.
 
-Dana can't paste a cockpit view into a board slide — she needs the breakdown as a workbook.
+Dana asked for the cost breakdown as an Excel workbook.
 
 **Goal:** Export the Advanced View cost data to Excel — with cost label assignments included — ready for cross-charge reporting and further analysis.
 

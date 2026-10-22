@@ -3,7 +3,7 @@
 > [!TIP]
 > **This exercise is optional.** Complete it if time allows.
 
-Dana also wants to see costs by geography, not just by cost center.
+Dana asked to also see costs by region, not just by cost center.
 
 **Goal:** Add a second independent cost label dimension for regional cost reporting — enabling **Dana** to slice BTP costs by geography alongside the Cost Center dimension from Exercise 2.2.
 

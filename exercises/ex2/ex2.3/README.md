@@ -1,6 +1,6 @@
 # Exercise 2.3 — Fixed Cost Allocation (~5 minutes)
 
-This is the shared-instance split Dana asked for in her follow-up.
+Dana asked to allocate a shared resource's cost across cost centers.
 
 **Goal:** Allocate a shared resource cost across Apex Holdings cost centers using fixed percentages.
 
