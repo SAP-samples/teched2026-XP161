@@ -5,6 +5,8 @@
 
 ## Introduction
 
+Dana needs the cost center breakdown as a workbook she can pivot herself — export it here.
+
 The **Export to Excel** feature lets you download BTP cost data for the past 12, 24, or 36 months. You can customize the export by applying filters (subaccounts, labels, services) and adding label columns. The exported file integrates with third-party reporting tools.
 
 ![1789985877830](images/export-excel-custom-menu.jpg)
