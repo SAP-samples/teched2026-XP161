@@ -6,6 +6,9 @@ You delivered the Exercise 1 findings. Dana is back.
 
 > *"Good work. Now I need the next level. Subaccount names mean nothing to my board — I need cost center attribution. Lumina, NexaTech, Crestline. HANA's our biggest line item — you saw that. And one shared HANA Cloud instance behind our financial reporting sits under NexaTech, even though all three divisions run on it. Split it: CC-100 gets 40%, CC-200 35%, CC-300 25%."*
 
+> [!WARNING]
+> **The features in this exercise are a TechEd Preview — not yet generally available.** They represent the planned direction and may change before release.
+
 ## Where Exercise 2 Takes You Further
 
 Exercise 1 gave you the full cost picture. Exercise 2 goes deeper in three areas where more precision is possible:
@@ -19,9 +22,6 @@ Exercise 1 gave you the full cost picture. Exercise 2 goes deeper in three areas
 ## What Exercise 2 Unlocks
 
 The same APEX Holdings data, through a more capable lens.
-
-> [!WARNING]
-> This preview is **not yet generally available**. Features shown here represent the planned direction and may change before GA release.
 
 | Limitation in Exercise 1 | New capability in Exercise 2 |
 |---|---|
