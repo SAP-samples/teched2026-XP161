@@ -38,8 +38,18 @@ Refine with a follow-up if needed (for example, *"make it more concise"* or *"le
 
 ---
 
-[← Exercise 3.1 — Q2 vs Q3 Comparison](../ex3.1/) | [← Back to Session Overview](../../../README.md)
+## Session Conclusion
+
+Across this session you ran a complete FinOps investigation for APEX Holdings — one story from start to finish:
+
+- **Part 1 — Cost Visibility and Control:** verified the Q3 spike against the billing statement, traced it to SAP HANA Cloud, set a budget guardrail on the highest-cost subaccount, and found a prepaid-quota optimization.
+- **Part 2 — Advanced Cost Allocation:** turned subaccount names into cost center attribution, split a shared HANA instance across business lines, and added a regional dimension.
+- **Part 3 — Ask Joule:** answered Dana's Q2-vs-Q3 question in natural language and had Joule draft her board-ready reply — the same data, in seconds.
+
+You now have a working toolkit for cost visibility, allocation, control, and AI-assisted reporting on SAP BTP.
+
+**This concludes the SAP TechEd 2026 XP161 FinOps Hands-On session. Thank you for participating!**
 
 ---
 
-**This concludes the SAP TechEd 2026 XP161 FinOps Hands-On session. Thank you for participating!**
+[← Exercise 3.1 — Q2 vs Q3 Comparison](../ex3.1/) | [← Back to Session Overview](../../../README.md)
