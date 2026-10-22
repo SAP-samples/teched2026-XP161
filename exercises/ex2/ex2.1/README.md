@@ -13,7 +13,7 @@
 > **TechEd Preview — UI orientation:**
 > The left sidebar replaces the table header and has three sections you'll use throughout Exercise 2:
 >
-> | Section | Controls |
+> | Section | What it does |
 > |---------|----------|
 > | **Period** | Which month's costs are shown |
 > | **View** | How costs are grouped and what columns appear (includes **Group By** dropdown) |
