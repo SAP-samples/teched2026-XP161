@@ -2,6 +2,8 @@
 
 ## Introduction
 
+Dana asked whether APEX has any spending guardrails — it doesn't yet. You'll create one.
+
 In this section you will manage and control cloud spending with **Budgets** in SAP BTP. Budgets let you set spending limits, configure threshold alerts, and integrate with external notification channels.
 
 <details>
