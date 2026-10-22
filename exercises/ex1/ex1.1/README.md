@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Dana suspects Q3 costs jumped over 25% — your first stop is the Overview tab to test that assumption.
+Dana suspects Q3 costs jumped around 25% — your first stop is the Overview tab to test that assumption.
 
 The **Overview** tab is the central entry point for FinOps in SAP BTP. It brings together monthly cost intelligence, contract status, prepaid quota, automated recommendations, and cost distribution in a single page.
 
