@@ -39,7 +39,7 @@ The overall account structure mirrors a real-world organization with production,
 
 *Investigate the Q3 cost increase using today's BTP Cockpit tools.*
 
-You find the cost spike, the budget breach, and the optimization opportunity, You have the investigation covered — but Dana's next question is "which business line owns these costs?" and that's where the current tools hit their limits.
+Across Part 1 you verify the numbers, trace the cost spike to its source, allocate costs across business lines with labels, set a budget to keep spending in check, find an optimization quick win, and export the data for reporting — everything today's cockpit tools offer. But when Dana needs to go finer — splitting a *shared* service instance's cost across business lines — today's tools reach their limit. That's where Exercise 2 picks up.
 
 | Exercise                            | Title                                 | Type           |
 | ----------------------------------- | ------------------------------------- | -------------- |
@@ -69,7 +69,7 @@ The new Billing Preview answers Dana's business-line question: drill to the SAP 
 
 *Dana's board-prep email, answered in natural language.*
 
-Dana sends one urgent question before the board meeting. It would take 10–15 minutes of cockpit navigation — or a few sentences to Joule. You answer it, then have Joule draft your reply.
+Dana sends one urgent question before the board meeting. It would take 10–15 minutes of cockpit navigation — or a few sentences to Joule. Joule answers it, then drafts your reply.
 
 | Exercise                            | Title                                  |
 | ----------------------------------- | -------------------------------------- |
