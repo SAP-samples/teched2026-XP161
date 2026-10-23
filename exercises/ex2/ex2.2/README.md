@@ -1,5 +1,7 @@
 # Exercise 2.2 — Advanced View: Cost Breakdown & Label Assignment (~8 minutes)
 
+Dana asked to attribute costs to internal cost centers.
+
 **Goal:** Create a **Cost Center** cost label and assign it to the Apex Holdings account hierarchy — mapping each subsidiary to its dedicated internal cost center.
 
 **Scenario:** Assign cost centers to three of APEX Holdings' five subsidiaries for budget reporting and charge-back:

@@ -4,7 +4,7 @@
 
 ## Explore the TechEd Preview Tab
 
-1. Navigate to **Costs and Usage** and click the **"TechEd Preview"** tab — it appears alongside the standard tabs (Billing, Usage, Budgets, Overview).
+1. Navigate to **Costs and Usage** and click the **"TechEd Preview"** tab — it appears alongside the standard tabs (Overview, Billing, Usage, Budgets).
 2. In the left sidebar, confirm **"Basic"** is selected (pre-selected by default).
 3. In the **Period** section, set **Month** to **Previous Month** — the same month you analyzed in Exercise 1.
 4. Use the **Group By** dropdown and select **Services → All Services**. Sort by **List Price** descending and confirm **SAP HANA Cloud - HANA** appears at the top — the highest-cost service from Exercise 1.3.

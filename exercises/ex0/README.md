@@ -36,4 +36,4 @@ This will open the **BTP Cockpit** home page. The home page appears empty becaus
 ---
 
 
-[Continue to: Exercise 1.1 — Cost and Usage Overview →](../ex1/ex1.1/)
+[Continue to: Exercise 1 — Cost Visibility and Control →](../ex1/)

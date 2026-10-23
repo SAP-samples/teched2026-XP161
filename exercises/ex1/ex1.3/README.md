@@ -2,6 +2,8 @@
 
 ## Introduction
 
+You've confirmed the Q3 spike is real — now Dana needs to know what drove it.
+
 In this section you will monitor costs and resource consumption by comparing services and subaccounts, analyzing trends, and drilling into detailed data. The objective is to identify the reasons behind the cost increase in the previous month — identified in Exercise 1.2 as the highest-cost month over the past 12 months.
 
 ## Investigate the Cost Increase

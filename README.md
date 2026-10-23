@@ -8,7 +8,7 @@
 
 Dana, APEX Holdings CFO, walks in before the board meeting:
 
-> *"BTP spend is up 25% this quarter. Before the board meeting I need five things: verify the numbers match our billing statement, find what's driving the increase, identify which subsidiary owns it, tell me whether we have any cost controls in place, and get me a cost center breakdown I can put in a slide."*
+> *"BTP spend is up around 25% this quarter. Before the board meeting I need five things: verify the numbers match our billing statement, find what's driving the increase, identify which subsidiary owns it, tell me whether we have any cost controls in place, and get me a cost center breakdown I can put in a slide."*
 
 Over the next 100 minutes, you investigate the cost increase, allocate it to business lines, and get answers fast using Joule — each exercise building on the last.
 

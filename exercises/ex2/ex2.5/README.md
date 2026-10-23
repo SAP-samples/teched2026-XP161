@@ -1,11 +1,13 @@
 # Exercise 2.5 — Export to Excel (~3 minutes)
 
 > [!TIP]
-> **This exercise is optional.** Complete it to share the APEX Holdings cost breakdown with the finance team.
+> **This exercise is optional.** Complete it to hand Dana a board-ready cost breakdown.
+
+Dana asked for the cost breakdown as an Excel workbook.
 
 **Goal:** Export the Advanced View cost data to Excel — with cost label assignments included — ready for cross-charge reporting and further analysis.
 
-**Scenario:** APEX Holdings finance team needs the monthly BTP cost breakdown in Excel. The Advanced View export generates a structured workbook that includes both the instance-level cost report (with cost center columns) and all label assignments across every dimension.
+**Scenario:** Dana needs the monthly BTP cost breakdown in Excel. The Advanced View export generates a structured workbook that includes both the instance-level cost report (with cost center columns) and all label assignments across every dimension.
 
 ## Configure Export Settings
 
