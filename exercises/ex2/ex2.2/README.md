@@ -1,4 +1,4 @@
-# Exercise 2.2 — Advanced View: Cost Breakdown & Label Assignment (~8 minutes)
+# Exercise 2.2 — Advanced View: Cost Breakdown & Label Assignment (~13 minutes)
 
 Dana asked to attribute costs to internal cost centers.
 

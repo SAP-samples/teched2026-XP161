@@ -1,4 +1,4 @@
-# Exercise 1.6 — Optimization (approx. 7 minutes)
+# Exercise 1.6 — Optimization (approx. 6 minutes)
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Exercise 1.4 — Cross Charge / Cost Allocation — (approx. 10 minutes)
+# Exercise 1.4 — Cross Charge / Cost Allocation — (approx. 8 minutes)
 
 > [!NOTE]
 > **This exercise is optional.** Complete it if you are new to cost allocation in SAP BTP. Otherwise, proceed directly to [Exercise 1.5 — Controlling Costs Using Budgets](../ex1.5/). The capabilities you use here are available in your BTP account today. Later in Exercise 2, you'll get a sneak peek of what's coming next with cross charging.

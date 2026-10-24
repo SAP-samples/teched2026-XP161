@@ -1,4 +1,4 @@
-# Exercise 2.5 — Export to Excel (~3 minutes)
+# Exercise 2.5 — Export to Excel (~4 minutes)
 
 > [!TIP]
 > **This exercise is optional.** Complete it to hand Dana a board-ready cost breakdown.

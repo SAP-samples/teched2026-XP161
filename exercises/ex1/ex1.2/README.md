@@ -1,4 +1,4 @@
-# Exercise 1.2 — Billing Verification (approx. 10 minutes)
+# Exercise 1.2 — Billing Verification (approx. 8 minutes)
 
 ## Introduction
 

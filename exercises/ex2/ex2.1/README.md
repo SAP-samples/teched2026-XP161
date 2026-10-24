@@ -1,4 +1,4 @@
-# Exercise 2.1 — Basic View (~4 minutes)
+# Exercise 2.1 — Basic View (~5 minutes)
 
 **Goal:** Orient yourself in the TechEd Preview tab and confirm it shows the same APEX Holdings cost data you worked with in Exercise 1.
 

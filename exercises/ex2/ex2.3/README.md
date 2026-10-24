@@ -1,4 +1,4 @@
-# Exercise 2.3 — Fixed Cost Allocation (~5 minutes)
+# Exercise 2.3 — Fixed Cost Allocation (~6 minutes)
 
 Dana asked to allocate a shared resource's cost across cost centers.
 

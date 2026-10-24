@@ -1,4 +1,4 @@
-# Exercise 2.4 — Add a Second Cost Label Dimension — Optional (~5 minutes)
+# Exercise 2.4 — Add a Second Cost Label Dimension — Optional (~7 minutes)
 
 > [!TIP]
 > **This exercise is optional.** Complete it if time allows.

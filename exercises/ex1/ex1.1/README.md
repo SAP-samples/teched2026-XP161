@@ -1,4 +1,4 @@
-# Exercise 1.1 — Cost and Usage Overview (approx. 10 minutes)
+# Exercise 1.1 — Cost and Usage Overview (approx. 8 minutes)
 
 ## Introduction
 
