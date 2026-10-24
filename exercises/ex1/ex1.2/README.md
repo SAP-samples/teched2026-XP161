@@ -38,10 +38,17 @@ Balance Statement — Total Consumption section (rows ① are the first three ch
 2. Select **"Show only services with charged usage"** to filter out services with zero cost. Compare what disappears with what the balance statement shows.
 3. Compare the **Usage**, **Prepaid Quota**, and **Charged Usage** columns for the first three services (① above) against the balance statement. If unsure what a column means, click its ⓘ icon.
 
-**Screenshot #2: Balance Statement — Cloud Platform Enterprise Agreement Section**
+**Screenshot #2: Balance Statement — Cloud Platform Enterprise Agreement Section (both sides)**
+
+BTP Cockpit — **List Price** column highlighted (② matches the balance statement below):
+
+![BTP Cockpit Billing view — List Price column matching CPEA section](images/balance_statement_cpea_cockpit_comparison.png)
+
+Balance Statement — CPEA section (rows ② show the Total list price, USD):
+
 ![Balance Statement — CPEA Section](images/balance_statement_cpea_section.png)
 
-4. Compare the **List Price** column for the first three services against screenshot #2.
+4. Compare the **List Price** column for the first three services (② above) against the CPEA balance statement section.
 5. Notice that the BTP Cockpit combines both balance statement sections — **Total Consumption** (screenshot #1) and **Cloud Platform Enterprise Agreement** (screenshot #2) — into a single view, enabling drill-down per service.
 
 **Screenshot #3: Balance Statement — Cloud Credits and Payment Summary**
