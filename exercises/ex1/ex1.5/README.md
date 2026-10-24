@@ -40,13 +40,17 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
 6. **Scope:**
 
    - Select filter type: **Subaccounts**
-   - Click the squared icon (highlighted in the screenshot) to open the selection dialog
+   - Click the squared icon (highlighted below) to open the selection dialog:
+
+     ![Open the Subaccounts value help](images/budget-scope-value-help.png)
+
    - Search for: `HR App 4`
-   - Expand the results and choose: **HR App 4 – TEST**
+   - Click **Expand All** (highlighted below), then select **HR App 4 – TEST**:
+
+     ![Expand the results and select HR App 4 – TEST](images/budget-scope-select-test.png)
+
    - Click **Select**, then click **Apply** in the Scope section to confirm your selection
    - The history preview updates to show HR App 4 – TEST cost trend for the last 12 months
-
-   ![Budget Scope Selection](images/budget-scope-subaccount.jpg)
 
    > You can scope budgets by subaccounts, services, or a combination. This flexibility aligns budgets with your organizational structure.
    >
