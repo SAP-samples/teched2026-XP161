@@ -1,4 +1,4 @@
-# Exercise 1.1 — Cost and Usage Overview (approx. 10 minutes)
+# Exercise 1.1 — Cost and Usage Overview (approx. 8 minutes)
 
 ## Introduction
 
@@ -189,6 +189,8 @@ Yes — even without calculating quarterly totals, the bar charts make it visibl
 - ✅ Prepaid Quota Consumption shows subscription utilization — services over quota generate additional charges against cloud credits
 - ✅ Automated recommendations surface budget breaches, overage forecasts, and cost spikes proactively
 - ✅ Cost Breakdown and Distribution give a ranked and proportional view of the top cost drivers
+
+*For Dana:* This is where you confirmed the Q3 spike is real — the starting point for everything she needs before the board meeting.
 
 ---
 

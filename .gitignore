@@ -1,2 +1,8 @@
 # Review materials — never commit
 .review/
+
+# Playwright MCP artifacts (snapshots, console logs, scratch captures)
+.playwright-mcp/
+candidate-*.jpeg
+candidate-*.png
+dbg-*.png

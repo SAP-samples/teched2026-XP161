@@ -1,4 +1,4 @@
-# Exercise 2 — Advanced Cost Allocation (~25 minutes)
+# Exercise 2 — Advanced Cost Allocation (~35 minutes)
 
 ## Dana's Follow-Up
 
@@ -44,11 +44,11 @@ The same APEX Holdings data, through a more capable lens.
 
 | Exercise | Title | Duration | Type |
 |----------|-------|----------|------|
-| [Exercise 2.1](ex2.1/) | Basic View — Same Data, New Interface | ~4 min | **Recommended** |
-| [Exercise 2.2](ex2.2/) | Advanced View — Granular Breakdown & Label Assignment | ~8 min | **Recommended** |
-| [Exercise 2.3](ex2.3/) | Advanced View — Fixed Cost Allocation | ~5 min | **Recommended** |
-| [Exercise 2.4](ex2.4/) | Add a Second Cost Label Dimension | ~5 min | Optional |
-| [Exercise 2.5](ex2.5/) | Export to Excel | ~3 min | Optional |
+| [Exercise 2.1](ex2.1/) | Basic View — Same Data, New Interface | ~5 min | **Recommended** |
+| [Exercise 2.2](ex2.2/) | Advanced View — Granular Breakdown & Label Assignment | ~13 min | **Recommended** |
+| [Exercise 2.3](ex2.3/) | Advanced View — Fixed Cost Allocation | ~6 min | **Recommended** |
+| [Exercise 2.4](ex2.4/) | Add a Second Cost Label Dimension | ~7 min | Optional |
+| [Exercise 2.5](ex2.5/) | Export to Excel | ~4 min | Optional |
 
 ---
 

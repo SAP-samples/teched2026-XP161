@@ -1,4 +1,4 @@
-# Exercise 1.4 — Cross Charge / Cost Allocation — (approx. 10 minutes)
+# Exercise 1.4 — Cross Charge / Cost Allocation — (approx. 8 minutes)
 
 > [!NOTE]
 > **This exercise is optional.** Complete it if you are new to cost allocation in SAP BTP. Otherwise, proceed directly to [Exercise 1.5 — Controlling Costs Using Budgets](../ex1.5/). The capabilities you use here are available in your BTP account today. Later in Exercise 2, you'll get a sneak peek of what's coming next with cross charging.
@@ -120,6 +120,8 @@ In this section you will track costs within the Apex Holdings account hierarchy 
 - ✅ Use labels (Region, Department, Cost Center, Contact Person, Environment) to filter and aggregate costs
 - ✅ Calculate accurate costs for cross-charging using both hierarchy and labels
 - ✅ Bookmark and share key views for ongoing tracking
+
+*For Dana:* Now the cost has an owner, so Dana can tell the board whose budget the spike belongs to.
 
 ---
 

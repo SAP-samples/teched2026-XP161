@@ -80,6 +80,8 @@ In this section you will monitor costs and resource consumption by comparing ser
 - ✅ Identify highest-cost service plans and trace spending increases
 - ✅ Interpret Cost Breakdown graphs for data-driven decisions
 
+*For Dana:* You traced the spike to SAP HANA Cloud — the source Dana asked you to find.
+
 ---
 
 [← Exercise 1.2 — Billing Verification](../ex1.2/) | [Continue to: Exercise 1.4 — Cross Charge / Cost Allocation →](../ex1.4/)
