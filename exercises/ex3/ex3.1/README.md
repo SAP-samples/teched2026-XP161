@@ -8,7 +8,7 @@ You'll pull each quarter's most expensive service plans, then let Joule build th
 
 ## Compare Service Plans
 
-Open **Joule** by clicking the **Joule icon** in the **top-right corner** of the BTP Cockpit. Start with Q3:
+Open **Joule** by clicking the **Joule icon** ![Joule icon](images/joule-icon.png) in the **top-right corner** of the BTP Cockpit. Start with Q3:
 
 > **"What are the top 5 most expensive service plans in Q3 2026?"**
 
@@ -21,6 +21,10 @@ Now ask for Q2:
 Joule retains context, so ask it to build the comparison for you:
 
 > **"Compare the top 5 most expensive service plans in Q2 2026 vs Q3 2026 in a table and highlight what changed"**
+
+Joule returns a comparison table with Q2 and Q3 costs side-by-side and a cost change column — here's what to expect:
+
+![Joule Q2 vs Q3 comparison table](images/joule-comparison-table.png)
 
 **What to look for:** **SAP HANA Cloud - HANA** rises to the top in Q3 — the same spike you traced in Exercise 1.3. The quarter-over-quarter jump confirms the ~25% increase Dana mentioned.
 

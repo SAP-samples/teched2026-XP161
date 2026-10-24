@@ -10,6 +10,10 @@ Joule knows the answer from this conversation, but not what Dana originally aske
 
 > **"Draft a short email reply to Dana. Her question was how our most expensive service plans changed from Q2 to Q3. Summarize the answer from our conversation, include the Q2 vs Q3 service plan comparison table, and add your key insights and recommendations."**
 
+Joule composes a complete reply with subject line, intro, the comparison table, and recommended next steps — here's what to expect:
+
+![Joule drafted reply to Dana](images/joule-drafted-reply.png)
+
 ---
 
 ## What to Look For
