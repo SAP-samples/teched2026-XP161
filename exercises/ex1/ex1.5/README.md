@@ -85,6 +85,8 @@ See: [How to enable SAP Alert Notification for SAP BTP](https://help.sap.com/doc
 - ✅ Enable automatic email notifications to global account admins and extend with custom alerts — use SAP Alert Notification Service to send alerts to specific recipients or channels (Teams, Slack, webhook endpoints)
 - ✅ Understand how visual indicators signal budget exceedances at a glance
 
+*For Dana:* The budget is the spending guardrail Dana wanted, so a spike like Q3's triggers an alert before it reaches the board.
+
 ---
 
 [← Exercise 1.4 — Cross Charge / Cost Allocation](../ex1.4/) | [Continue to: Exercise 1.6 — Optimization →](../ex1.6/)

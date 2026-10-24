@@ -52,6 +52,8 @@ Billing verification is done on a monthly basis, verifying the charges in the ba
 - ✅ Verify balance statement data systematically against the BTP Cockpit Billing view
 - ✅ Validate cloud credit balances using the CPEA card on the Overview tab
 
+*For Dana:* With the bill verified against the cockpit, Dana can quote these Q3 figures to her board with confidence.
+
 ---
 
 [← Exercise 1.1 — Cost and Usage Overview](../ex1.1/) | [Continue to: Exercise 1.3 — Monitoring Costs →](../ex1.3/)

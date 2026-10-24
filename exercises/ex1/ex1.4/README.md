@@ -121,6 +121,8 @@ In this section you will track costs within the Apex Holdings account hierarchy 
 - ✅ Calculate accurate costs for cross-charging using both hierarchy and labels
 - ✅ Bookmark and share key views for ongoing tracking
 
+*For Dana:* Now the cost has an owner, so Dana can tell the board whose budget the spike belongs to.
+
 ---
 
 [← Exercise 1.3 — Monitoring Costs](../ex1.3/) | [Continue to: Exercise 1.5 — Controlling Costs Using Budgets →](../ex1.5/)

@@ -70,6 +70,8 @@ The **Export to Excel** feature lets you download BTP cost data for the past 12,
 - ✅ Use Excel's AI-powered Analyze Data to aggregate and compare cost centers with natural language
 - ✅ Integrate SAP BTP cost data into third-party reporting tools
 
+*For Dana:* Dana now has a board-ready export she can share with each cost owner — the deliverable behind her question.
+
 ---
 
 [← Exercise 1.6 — Optimization](../ex1.6/) | [Continue to: Exercise 2 — Advanced Cost Allocation →](../../ex2/)

@@ -56,6 +56,8 @@ BTP offers many optimization opportunities — contract rightsizing, cloud credi
 - ✅ Identify services where usage exceeds prepaid quota and overage is being charged
 - ✅ Use 12-month usage trends to make data-driven subscription purchasing decisions
 
+*For Dana:* Right-sizing prepaid quota is the quick win Dana can show the board alongside the problem.
+
 > [!TIP]
 > Review prepaid quota utilization monthly to catch trends early and make timely purchasing adjustments.
 

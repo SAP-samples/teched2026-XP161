@@ -190,6 +190,8 @@ Yes — even without calculating quarterly totals, the bar charts make it visibl
 - ✅ Automated recommendations surface budget breaches, overage forecasts, and cost spikes proactively
 - ✅ Cost Breakdown and Distribution give a ranked and proportional view of the top cost drivers
 
+*For Dana:* This is where you confirmed the Q3 spike is real — the starting point for everything she needs before the board meeting.
+
 ---
 
 [← Getting Started](../../ex0/) | [Continue to: Exercise 1.2 — Billing Verification →](../ex1.2/)
