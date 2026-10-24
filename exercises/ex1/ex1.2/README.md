@@ -35,7 +35,10 @@ Balance Statement — Total Consumption section (rows ① are the first three ch
 ![Balance Statement — Total Consumption Section](images/balance_statement_total_consumption.png)
 
 1. The default view is **Billing → View by Service**, sorted automatically by Product (SKU) — matching the balance statement order.
-2. Select **"Show only services with charged usage"** to filter out services with zero cost. Compare what disappears with what the balance statement shows.
+2. Select **"Show only services with charged usage"** (checkbox highlighted below) to filter out services with zero cost. Compare what disappears with what the balance statement shows.
+
+   ![Show only services with charged usage checkbox](images/billing-show-charged-usage-filter.png)
+
 3. Compare the **Usage**, **Prepaid Quota**, and **Charged Usage** columns for the first three services (① above) against the balance statement. If unsure what a column means, click its ⓘ icon.
 
 **Screenshot #2: Balance Statement — Cloud Platform Enterprise Agreement Section (both sides)**
