@@ -17,7 +17,7 @@ Billing verification is done on a monthly basis, verifying the charges in the ba
 > - **View by Account** — suited for cross-charging; shows account hierarchy with costs per entity.
 
 **Screenshot: Billing Views by Service**
-![Billing View by Service](images/billing-view-by-service-with-cost-summary.png)
+![Billing View by Service](images/billing-view-by-service-with-cost-summary.jpg)
 
 ## Compare the Balance Statement with BTP Cockpit
 
