@@ -26,11 +26,13 @@ Joule returns a comparison table with Q2 and Q3 costs side-by-side and a cost ch
 
 ![Joule Q2 vs Q3 comparison table](images/joule-comparison-table.png)
 
+*Joule's phrasing may vary slightly from run to run, but the numbers stay the same.*
+
 **What to look for:** **SAP HANA Cloud - HANA** rises to the top in Q3 — the same spike you traced in Exercise 1.3. The quarter-over-quarter jump confirms the ~25% increase Dana mentioned.
 
 ---
 
-> **For your reply to Dana:** keep the comparison table — it goes straight into the reply you draft in Exercise 3.2.
+> **For your reply to Dana:** this table will be used for the reply you draft in Exercise 3.2.
 
 ---
 
