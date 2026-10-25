@@ -14,6 +14,8 @@ Joule composes a complete reply with subject line, intro, the comparison table, 
 
 ![Joule drafted reply to Dana](images/joule-drafted-reply.png)
 
+*Joule's phrasing may vary slightly from run to run, but the numbers stay the same.*
+
 ---
 
 ## What to Look For
