@@ -12,6 +12,9 @@ Dana, APEX Holdings CFO, walks in before the board meeting:
 
 Over the next 100 minutes, you investigate the cost increase, allocate it to business lines, and get answers fast using Joule — each exercise building on the last.
 
+> [!IMPORTANT]
+> **This exercise is time-sensitive.** It was authored during SAP TechEd (October 2026), when the two most recent complete quarters were **Q2 and Q3 2026**. The APEX Holdings demo data rolls forward one month every month, so the **Q2 2026 / Q3 2026** references — and the figures and screenshots tied to them — line up exactly only during the TechEd window. If you run this later, **substitute the two most recently completed quarters**: read "Q3 2026" as the last full quarter and "Q2 2026" as the quarter before it. The story — a ~25% quarter-over-quarter increase driven by SAP HANA Cloud — still holds; only the quarter labels and exact numbers shift.
+
 ---
 
 ## APEX Holdings
